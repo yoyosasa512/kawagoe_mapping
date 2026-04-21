@@ -249,13 +249,22 @@
             // 環境変数からDB情報を取得（Docker/Render対応）
             $dbUrl = getenv('DATABASE_URL');
             if ($dbUrl) {
-                // DATABASE_URL形式 (postgresql://user:pass@host:port/dbname) を解析
+                // DATABASE_URL形式 (postgresql://user:pass@host:port/dbname?query) を解析
                 $p = parse_url($dbUrl);
                 $dbHost = $p['host'] ?? 'localhost';
                 $dbPort = $p['port'] ?? '5432';
                 $dbUser = $p['user'] ?? 'postgres';
                 $dbPass = $p['pass'] ?? '';
                 $dbName = ltrim($p['path'] ?? 'postgres', '/');
+                $dbQuery = $p['query'] ?? '';
+
+                $dsn = "pgsql:host={$dbHost};port={$dbPort};dbname={$dbName}";
+                if (!empty($dbQuery)) {
+                    parse_str($dbQuery, $params);
+                    foreach ($params as $k => $v) {
+                        $dsn .= ";{$k}={$v}";
+                    }
+                }
             } else {
                 // 個別の環境変数からの取得（従来通りのフォールバック）
                 $dbHost = getenv('DB_HOST') ?: 'localhost';
@@ -263,9 +272,9 @@
                 $dbUser = getenv('DB_USER') ?: 'root';
                 $dbPass = getenv('DB_PASS') ?: '';
                 $dbPort = getenv('DB_PORT') ?: '5432';
+                $dsn = "pgsql:host={$dbHost};port={$dbPort};dbname={$dbName}";
             }
 
-            $dsn = "pgsql:host={$dbHost};port={$dbPort};dbname={$dbName}";
             $pdo = new PDO($dsn, $dbUser, $dbPass, [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
                 PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
