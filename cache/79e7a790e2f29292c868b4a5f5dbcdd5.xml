@@ -1,0 +1,392 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>s 川越 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=s+%E5%B7%9D%E8%B6%8A&amp;cnt=20</link>
+    <description>Search results for title=s 川越 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>84</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>浦和監獄川越分監における教育処遇の変遷過程 : 統計表分析による「知的障害者」顕在化の考察</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I028304671</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：浦和監獄川越分監における教育処遇の変遷過程 : 統計表分析による「知的障害者」顕在化の考察</li><li>タイトル（読み）：ウラワ カンゴク カワゴエ ブンカン ニ オケル キョウイク ショグウ ノ ヘンセン カテイ : トウケイヒョウ ブンセキ ニ ヨル 「 チテキ ショウガイシャ 」 ケンザイカ ノ コウサツ</li><li>責任表示：末松 惠</li></ul>]]></description>
+      <author>末松 惠,末松 惠</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I028304671</guid>
+      <pubDate>Sat, 20 Jul 2024 01:25:30 +0900</pubDate>
+      <dc:title>浦和監獄川越分監における教育処遇の変遷過程 : 統計表分析による「知的障害者」顕在化の考察</dc:title>
+      <dcndl:titleTranscription>ウラワ カンゴク カワゴエ ブンカン ニ オケル キョウイク ショグウ ノ ヘンセン カテイ : トウケイヒョウ ブンセキ ニ ヨル 「 チテキ ショウガイシャ 」 ケンザイカ ノ コウサツ</dcndl:titleTranscription>
+      <dc:creator>末松 惠</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028304671</dc:identifier>
+      <dc:subject>低能者・中間者</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZE5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I028304671"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520853833578783616"/>
+      <dc:description>掲載誌：社会福祉 = Social welfare : journal of Social Welfare Department of Japan Women's University / 日本女子大学社会福祉学科, 日本女子大学社会福祉学会 編 57 p.1-17</dc:description>
+    </item>
+    <item>
+      <title>沿岸域の地質・活断層調査研究報告</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023291805</link>
+      <description><![CDATA[<p>平成22年度,産業技術総合研究所地質調査総合センター,2011,<p><ul><li>タイトル：沿岸域の地質・活断層調査研究報告</li><li>タイトル（読み）：エンガンイキ ノ チシツ ・ カツダンソウ チョウサ ケンキュウ ホウコク</li><li>責任表示：脇田浩二, 牧野雅彦 編</li><li>シリーズ名：地質調査総合センター速報 = GSJ interim report ; no. 56</li><li>シリーズ名（読み）：チシツ チョウサ ソウゴウ センター ソクホウ = GSJ interim report ; no. 56</li><li>NDC(9)：452.15</li></ul>]]></description>
+      <author>脇田, 浩二,牧野, 雅彦,脇田浩二, 牧野雅彦 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023291805</guid>
+      <pubDate>Thu, 23 Feb 2012 23:32:26 +0900</pubDate>
+      <dc:title>沿岸域の地質・活断層調査研究報告</dc:title>
+      <dcndl:titleTranscription>エンガンイキ ノ チシツ ・ カツダンソウ チョウサ ケンキュウ ホウコク</dcndl:titleTranscription>
+      <dc:creator>脇田, 浩二</dc:creator>
+      <dc:creator>牧野, 雅彦</dc:creator>
+      <dcndl:creatorTranscription>ワキタ, コウジ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マキノ, マサヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>平成22年度</dcndl:volume>
+      <dcndl:seriesTitle>地質調査総合センター速報 = GSJ interim report ; no. 56</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>チシツ チョウサ ソウゴウ センター ソクホウ = GSJ interim report ; no. 56</dcndl:seriesTitleTranscription>
+      <dc:publisher>産業技術総合研究所地質調査総合センター</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.12</dcterms:issued>
+      <dc:extent>222p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023291805</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22027787</dc:identifier>
+      <dc:subject>海底地質学</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ME511</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">452.15</dc:subject>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104310089"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023291805"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337840</link>
+      <description><![CDATA[<p>1936-10-02,<p><ul><li>タイトル：花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</li><li>責任表示：読売新聞</li></ul>]]></description>
+      <author>読売新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337840</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-10-02</dc:date>
+      <dcterms:issued>1936-10-02</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337840"/>
+      <dc:description>掲載誌：読売新聞 1936-10-02 p.80</dc:description>
+    </item>
+    <item>
+      <title>花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390306440186876032</link>
+      <description><![CDATA[<p>1936-10-02,<p><ul><li>タイトル：花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</li></ul>]]></description>
+      <author>読売新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390306440186876032</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>花道を行きつ戻りつ蒋の思わせ振り : ギリギリ結着な川越大使の切札 : 日支交渉劇</dc:title>
+      <dc:creator>読売新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-10-02</dc:date>
+      <dcterms:issued>1936-10-02</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337840"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390306440186876032"/>
+      <dc:description>掲載誌：読売新聞 1936-10-02 p.80-</dc:description>
+    </item>
+    <item>
+      <title>川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100335556</link>
+      <description><![CDATA[<p>1936-06-19,<p><ul><li>タイトル：川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</li><li>責任表示：大阪毎日新聞</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100335556</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-06-19</dc:date>
+      <dcterms:issued>1936-06-19</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100335556"/>
+      <dc:description>掲載誌：大阪毎日新聞 1936-06-19 p.62</dc:description>
+    </item>
+    <item>
+      <title>川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965209856768</link>
+      <description><![CDATA[<p>1936-06-19,<p><ul><li>タイトル：川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965209856768</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越新大使着任を前に支那秘策を練る : 最後の切札用意して北支主権確保を企つ</dc:title>
+      <dc:creator>大阪毎日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-06-19</dc:date>
+      <dcterms:issued>1936-06-19</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100335556"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390024965209856768"/>
+      <dc:description>掲載誌：大阪毎日新聞 1936-06-19 p.62-</dc:description>
+    </item>
+    <item>
+      <title>川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337639</link>
+      <description><![CDATA[<p>1936-10-08,<p><ul><li>タイトル：川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</li><li>責任表示：大阪毎日新聞</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337639</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-10-08</dc:date>
+      <dcterms:issued>1936-10-08</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337639"/>
+      <dc:description>掲載誌：大阪毎日新聞 1936-10-08 p.95</dc:description>
+    </item>
+    <item>
+      <title>川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390869390140278528</link>
+      <description><![CDATA[<p>1936-10-08,<p><ul><li>タイトル：川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390869390140278528</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越大使、単刀直入蒋氏の真意を叩く : 回答如何では即時退席を決意 事態遷延を許さぬ</dc:title>
+      <dc:creator>大阪毎日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-10-08</dc:date>
+      <dcterms:issued>1936-10-08</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337639"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390869390140278528"/>
+      <dc:description>掲載誌：大阪毎日新聞 1936-10-08 p.95-</dc:description>
+    </item>
+    <item>
+      <title>川越にやってください</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I9281122</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：川越にやってください</li><li>タイトル（読み）：カワゴエ ニ ヤッテクダサイ</li><li>責任表示：米澤 穂信</li><li>シリーズ名：特集 21世紀の来たるべきミステリ作家たち</li><li>シリーズ名（読み）：トクシュウ 21セイキ ノ キタルベキ ミステリ サッカタチ</li></ul>]]></description>
+      <author>米澤 穂信,米澤 穂信</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I9281122</guid>
+      <pubDate>Thu, 13 Dec 2007 03:36:19 +0900</pubDate>
+      <dc:title>川越にやってください</dc:title>
+      <dcndl:titleTranscription>カワゴエ ニ ヤッテクダサイ</dcndl:titleTranscription>
+      <dc:creator>米澤 穂信</dc:creator>
+      <dcndl:seriesTitle>特集 21世紀の来たるべきミステリ作家たち</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ 21セイキ ノ キタルベキ ミステリ サッカタチ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">9281122</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK21</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I9281122"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262181115552000"/>
+      <dc:description>掲載誌：ハヤカワミステリマガジン = Hayakawa's mystery magazine 1(通号 623) p.28～33</dc:description>
+    </item>
+    <item>
+      <title>観光地とその周辺エリアにおける観光者のまなざしの対象の抽出と比較 : 川越一番街と駅からの通過エリアを対象として</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025075960</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：観光地とその周辺エリアにおける観光者のまなざしの対象の抽出と比較 : 川越一番街と駅からの通過エリアを対象として</li><li>タイトル（読み）：カンコウチ ト ソノ シュウヘン エリア ニ オケル カンコウシャ ノ マナザシ ノ タイショウ ノ チュウシュツ ト ヒカク : カワゴエ イチバンガイ ト エキ カラ ノ ツウカ エリア オ タイショウ ト シテ</li><li>責任表示：田中 昂助,直井 岳人,相 尚寿</li></ul>]]></description>
+      <author>田中 昂助,直井 岳人,相 尚寿,田中 昂助,直井 岳人,相 尚寿</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025075960</guid>
+      <pubDate>Thu, 21 Sep 2023 20:49:32 +0900</pubDate>
+      <dc:title>観光地とその周辺エリアにおける観光者のまなざしの対象の抽出と比較 : 川越一番街と駅からの通過エリアを対象として</dc:title>
+      <dcndl:titleTranscription>カンコウチ ト ソノ シュウヘン エリア ニ オケル カンコウシャ ノ マナザシ ノ タイショウ ノ チュウシュツ ト ヒカク : カワゴエ イチバンガイ ト エキ カラ ノ ツウカ エリア オ タイショウ ト シテ</dcndl:titleTranscription>
+      <dc:creator>田中 昂助</dc:creator>
+      <dc:creator>直井 岳人</dc:creator>
+      <dc:creator>相 尚寿</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025075960</dc:identifier>
+      <dc:subject>観光者</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZD33</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025075960"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520290885550289024"/>
+      <dc:description>掲載誌：日本観光研究学会全国大会学術論文集 = Proceedings of JITR annual conference p.285-288</dc:description>
+    </item>
+    <item>
+      <title>監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100336202</link>
+      <description><![CDATA[<p>1936-06-30,<p><ul><li>タイトル：監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</li><li>責任表示：大阪朝日新聞</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100336202</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-06-30</dc:date>
+      <dcterms:issued>1936-06-30</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100336202"/>
+      <dc:description>掲載誌：大阪朝日新聞 1936-06-30 p.84</dc:description>
+    </item>
+    <item>
+      <title>監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965209953792</link>
+      <description><![CDATA[<p>1936-06-30,<p><ul><li>タイトル：監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965209953792</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>監視船の不法事件南京政府の責任追及 : きょう川越大使に訓電 外務省の強硬決意</dc:title>
+      <dc:creator>大阪朝日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-06-30</dc:date>
+      <dcterms:issued>1936-06-30</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100336202"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390024965209953792"/>
+      <dc:description>掲載誌：大阪朝日新聞 1936-06-30 p.84-</dc:description>
+    </item>
+    <item>
+      <title>北支自治の承認断乎として要求 : きょう川越・張三次会見</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337322</link>
+      <description><![CDATA[<p>1936-09-23,<p><ul><li>タイトル：北支自治の承認断乎として要求 : きょう川越・張三次会見</li><li>責任表示：大阪朝日新聞</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337322</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>北支自治の承認断乎として要求 : きょう川越・張三次会見</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-09-23</dc:date>
+      <dcterms:issued>1936-09-23</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337322"/>
+      <dc:description>掲載誌：大阪朝日新聞 1936-09-23 p.51</dc:description>
+    </item>
+    <item>
+      <title>北支自治の承認断乎として要求 : きょう川越・張三次会見</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390869390140241792</link>
+      <description><![CDATA[<p>1936-09-23,<p><ul><li>タイトル：北支自治の承認断乎として要求 : きょう川越・張三次会見</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390869390140241792</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>北支自治の承認断乎として要求 : きょう川越・張三次会見</dc:title>
+      <dc:creator>大阪朝日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1936-09-23</dc:date>
+      <dcterms:issued>1936-09-23</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337322"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390869390140241792"/>
+      <dc:description>掲載誌：大阪朝日新聞 1936-09-23 p.51-</dc:description>
+    </item>
+    <item>
+      <title>北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100336399</link>
+      <description><![CDATA[<p>1937-07-03,<p><ul><li>タイトル：北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</li><li>責任表示：大阪毎日新聞</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100336399</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1937-07-03</dc:date>
+      <dcterms:issued>1937-07-03</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100336399"/>
+      <dc:description>掲載誌：大阪毎日新聞 1937-07-03 p.138</dc:description>
+    </item>
+    <item>
+      <title>北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390306440186689920</link>
+      <description><![CDATA[<p>1937-07-03,<p><ul><li>タイトル：北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</li></ul>]]></description>
+      <author>大阪毎日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390306440186689920</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>北支の対日外交中央に統轄、一元化す : 川越大使帰任後も国交調整は至難</dc:title>
+      <dc:creator>大阪毎日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1937-07-03</dc:date>
+      <dcterms:issued>1937-07-03</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100336399"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390306440186689920"/>
+      <dc:description>掲載誌：大阪毎日新聞 1937-07-03 p.138-</dc:description>
+    </item>
+    <item>
+      <title>響宴6 21世紀の吹奏楽 : 新作邦人作品集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009442119</link>
+      <description><![CDATA[<p>[BRAIN],2003,<p><ul><li>タイトル：響宴6 21世紀の吹奏楽 : 新作邦人作品集</li><li>タイトル（読み）：キョウエン 6</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009442119</guid>
+      <pubDate>Tue, 28 May 2013 03:48:15 +0900</pubDate>
+      <dc:title>響宴6 21世紀の吹奏楽 : 新作邦人作品集</dc:title>
+      <dcndl:titleTranscription>キョウエン 6</dcndl:titleTranscription>
+      <dc:publisher>[BRAIN]</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.4</dcterms:issued>
+      <dcndl:price>4000円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 2枚 (156分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">BOCD-7470</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009442119</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21467935</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009442119"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>サイボーグ009 Conclusion GOD'S WAR 序章</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004210794</link>
+      <description><![CDATA[<p>エイベックス,2003,<p><ul><li>タイトル：サイボーグ009 Conclusion GOD'S WAR 序章</li><li>タイトル（読み）：サイボーグ 009 Conclusion GOD'S WAR ジョショウ</li><li>責任表示：石ノ森章太郎 原作</li></ul>]]></description>
+      <author>石ノ森章太郎 原作</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000004210794</guid>
+      <pubDate>Thu, 4 Sep 2003 23:48:59 +0900</pubDate>
+      <dc:title>サイボーグ009 Conclusion GOD'S WAR 序章</dc:title>
+      <dcndl:titleTranscription>サイボーグ 009 Conclusion GOD'S WAR ジョショウ</dcndl:titleTranscription>
+      <dc:publisher>エイベックス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.8</dcterms:issued>
+      <dcndl:price>5800円</dcndl:price>
+      <dc:extent>ビデオディスク 1枚 (76分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">AVBA-14769</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000004210794</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL321</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000004210794"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337464</link>
+      <description><![CDATA[<p>1937-05-08,<p><ul><li>タイトル：佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</li><li>責任表示：大阪朝日新聞</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>新聞</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000035-I2050014094_0100337464</guid>
+      <pubDate>Mon, 17 Nov 2025 10:14:04 +0900</pubDate>
+      <dc:title>佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1937-05-08</dc:date>
+      <dcterms:issued>1937-05-08</dcterms:issued>
+      <dc:subject>24.政治・行政</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337464"/>
+      <dc:description>掲載誌：大阪朝日新聞 1937-05-08 p.90</dc:description>
+    </item>
+    <item>
+      <title>佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965210127488</link>
+      <description><![CDATA[<p>1937-05-08,<p><ul><li>タイトル：佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</li></ul>]]></description>
+      <author>大阪朝日新聞</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390024965210127488</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>佐藤外相、確信を抱き愈よ三省協議会を開催 : 十日まず川越大使の意見聴取 : 具体策検討へ踏出す</dc:title>
+      <dc:creator>大阪朝日新聞</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1937-05-08</dc:date>
+      <dcterms:issued>1937-05-08</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100337464"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390024965210127488"/>
+      <dc:description>掲載誌：大阪朝日新聞 1937-05-08 p.90-</dc:description>
+    </item>
+  </channel>
+</rss>

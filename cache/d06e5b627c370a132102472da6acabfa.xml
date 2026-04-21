@@ -1,0 +1,108 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>八幡宮 川越 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%85%AB%E5%B9%A1%E5%AE%AE+%E5%B7%9D%E8%B6%8A&amp;cnt=20</link>
+    <description>Search results for title=八幡宮 川越 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>4</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>神社百景ＤＶＤコレクション : 寶登山神社　川越氷川神社　川越八幡宮　仙波東照宮</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121198295875</link>
+      <description><![CDATA[<p>第５７号,ディアゴスティーニ,2021,<p><ul><li>タイトル：神社百景ＤＶＤコレクション : 寶登山神社　川越氷川神社　川越八幡宮　仙波東照宮</li><li>タイトル（読み）：ジンジャ　ヒャッケイ　ディーヴイディー　コレクション : ホトサン　ジンジャ　カワゴエ　ヒカワ　ジンジャ　カワゴエ　ハチマングウ　センバ　トウショウグウ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121198295875</guid>
+      <pubDate>Fri, 6 Dec 2024 11:55:46 +0900</pubDate>
+      <dc:title>神社百景ＤＶＤコレクション : 寶登山神社　川越氷川神社　川越八幡宮　仙波東照宮</dc:title>
+      <dcndl:titleTranscription>ジンジャ　ヒャッケイ　ディーヴイディー　コレクション : ホトサン　ジンジャ　カワゴエ　ヒカワ　ジンジャ　カワゴエ　ハチマングウ　センバ　トウショウグウ</dcndl:titleTranscription>
+      <dcndl:volume>第５７号</dcndl:volume>
+      <dcndl:edition>再刊行版</dcndl:edition>
+      <dc:publisher>ディアゴスティーニ</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>２０２１．４</dcterms:issued>
+      <dcndl:price>１１９４円</dcndl:price>
+      <dc:extent>９ｐ ; ２９ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>付属資料：ＤＶＤビデオディスク（１枚　１２ｃｍ）</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198295875"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>神社百景DVDコレクション : 隔週刊 : grace of Japan</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029144660</link>
+      <description><![CDATA[<p>第57号,デアゴスティーニ・ジャパン,2018,<p><ul><li>タイトル：神社百景DVDコレクション : 隔週刊 : grace of Japan</li><li>タイトル（読み）：ジンジャ ヒャッケイ DVD コレクション : カクシュウカン : grace of Japan</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029144660</guid>
+      <pubDate>Thu, 30 Aug 2018 17:05:05 +0900</pubDate>
+      <dc:title>神社百景DVDコレクション : 隔週刊 : grace of Japan</dc:title>
+      <dcndl:titleTranscription>ジンジャ ヒャッケイ DVD コレクション : カクシュウカン : grace of Japan</dcndl:titleTranscription>
+      <dcndl:volume>第57号</dcndl:volume>
+      <dc:publisher>デアゴスティーニ・ジャパン</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.8</dcterms:issued>
+      <dcndl:price>1388円</dcndl:price>
+      <dc:extent>9p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029144660</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23097271</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YU47</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029144660"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>神社百景DVDコレクション : 隔週刊</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031322608</link>
+      <description><![CDATA[<p>No. 57,デアゴスティーニ・ジャパン,2021,<p><ul><li>タイトル：神社百景DVDコレクション : 隔週刊</li><li>タイトル（読み）：ジンジャ ヒャッケイ DVD コレクション : カクシュウカン</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031322608</guid>
+      <pubDate>Fri, 4 Jun 2021 00:10:09 +0900</pubDate>
+      <dc:title>神社百景DVDコレクション : 隔週刊</dc:title>
+      <dcndl:titleTranscription>ジンジャ ヒャッケイ DVD コレクション : カクシュウカン</dcndl:titleTranscription>
+      <dcndl:volume>No. 57</dcndl:volume>
+      <dcndl:edition>再刊行版</dcndl:edition>
+      <dc:publisher>デアゴスティーニ・ジャパン</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.4</dcterms:issued>
+      <dcndl:price>1313円 (税込)</dcndl:price>
+      <dc:extent>9 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031322608</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23533131</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YU47</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031322608"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>伝説　つくよねの「権現さん」 : 来見野の「安藤八幡宮」・羽柴秀吉の「吉川越え」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I31111100899835</link>
+      <description><![CDATA[<p>若桜郷土史研究会,1996,<p><ul><li>タイトル：伝説　つくよねの「権現さん」 : 来見野の「安藤八幡宮」・羽柴秀吉の「吉川越え」</li><li>タイトル（読み）：デンセツ　ツク　ヨネ　ノ　ゴンゲン　サン : クルミノ　ノ　アンドウ　ハチマングウ　ハシバ　ヒデヨシノ　ヨシカワゴエ</li><li>責任表示：若桜郷土史研究会 編</li><li>シリーズ名：郷土・歴史散歩シリーズ</li><li>シリーズ名（読み）：キョウド　レキシ　サンポ　シリーズ</li></ul>]]></description>
+      <author>若桜郷土史研究会,若桜郷土史研究会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I31111100899835</guid>
+      <pubDate>Thu, 18 Jan 2018 12:42:19 +0900</pubDate>
+      <dc:title>伝説　つくよねの「権現さん」 : 来見野の「安藤八幡宮」・羽柴秀吉の「吉川越え」</dc:title>
+      <dcndl:titleTranscription>デンセツ　ツク　ヨネ　ノ　ゴンゲン　サン : クルミノ　ノ　アンドウ　ハチマングウ　ハシバ　ヒデヨシノ　ヨシカワゴエ</dcndl:titleTranscription>
+      <dc:creator>若桜郷土史研究会</dc:creator>
+      <dcndl:creatorTranscription>ワカサ, キョウドシ, ケンキュウカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>郷土・歴史散歩シリーズ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>キョウド　レキシ　サンポ　シリーズ</dcndl:seriesTitleTranscription>
+      <dc:publisher>若桜郷土史研究会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1996</dc:date>
+      <dcterms:issued>199604</dcterms:issued>
+      <dc:extent>4,4,4ｐ ; 26ｃｍ</dc:extent>
+      <dc:subject>若桜町-歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">T215</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100899835"/>
+      <dc:description> 1996</dc:description>
+    </item>
+  </channel>
+</rss>
