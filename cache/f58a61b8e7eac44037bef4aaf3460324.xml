@@ -1,0 +1,518 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>松平大和守 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E6%9D%BE%E5%B9%B3%E5%A4%A7%E5%92%8C%E5%AE%88&amp;cnt=20</link>
+    <description>Search results for title=松平大和守 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>77</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>[飛鳥井雅光　松平大和守 宛書簡]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000086-I0000000017_00083116</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：[飛鳥井雅光　松平大和守 宛書簡]</li><li>責任表示：飛鳥井雅光</li></ul>]]></description>
+      <author>飛鳥井雅光,飛鳥井雅光</author>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000086-I0000000017_00083116</guid>
+      <pubDate>Sat, 9 Nov 2024 11:46:50 +0900</pubDate>
+      <dc:title>[飛鳥井雅光　松平大和守 宛書簡]</dc:title>
+      <dc:creator>飛鳥井雅光</dc:creator>
+      <dc:extent>39.0×48.7cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://archive.library.metro.tokyo.lg.jp/da/detail?tilcod=0000000017-00083116"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>一八世紀後半の川越藩領組合村 : 松平大和守家の川越入封と地域編成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027446589</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：一八世紀後半の川越藩領組合村 : 松平大和守家の川越入封と地域編成</li><li>タイトル（読み）：イチハチセイキ コウハン ノ カワゴエハンリョウ クミアイムラ : マツダイラ ヤマトシュカ ノ カワゴエニュウフウ ト チイキ ヘンセイ</li><li>責任表示：小松 賢司</li><li>シリーズ名：2014年度大会特集 関東の支配構造 : 藩領と幕府広域支配</li><li>シリーズ名（読み）：2014ネンド タイカイ トクシュウ カントウ ノ シハイ コウゾウ : ハンリョウ ト バクフ コウイキ シハイ</li></ul>]]></description>
+      <author>小松 賢司,小松 賢司</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027446589</guid>
+      <pubDate>Mon, 4 Jul 2016 23:39:18 +0900</pubDate>
+      <dc:title>一八世紀後半の川越藩領組合村 : 松平大和守家の川越入封と地域編成</dc:title>
+      <dcndl:titleTranscription>イチハチセイキ コウハン ノ カワゴエハンリョウ クミアイムラ : マツダイラ ヤマトシュカ ノ カワゴエニュウフウ ト チイキ ヘンセイ</dcndl:titleTranscription>
+      <dc:creator>小松 賢司</dc:creator>
+      <dcndl:seriesTitle>2014年度大会特集 関東の支配構造 : 藩領と幕府広域支配</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>2014ネンド タイカイ トクシュウ カントウ ノ シハイ コウゾウ : ハンリョウ ト バクフ コウイキ シハイ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027446589</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027446589"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520290883469125760"/>
+      <dc:description>掲載誌：関東近世史研究 / 関東近世史研究会常任委員会 編 78 p.4-32</dc:description>
+    </item>
+    <item>
+      <title>[稲葉正則　松平大和守 宛書簡]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000086-I0000000017_00083609</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：[稲葉正則　松平大和守 宛書簡]</li><li>責任表示：稲葉正則</li></ul>]]></description>
+      <author>稲葉正則,稲葉正則</author>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000086-I0000000017_00083609</guid>
+      <pubDate>Sat, 16 Nov 2024 15:43:06 +0900</pubDate>
+      <dc:title>[稲葉正則　松平大和守 宛書簡]</dc:title>
+      <dc:creator>稲葉正則</dc:creator>
+      <dc:extent>31.8×46.0</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://archive.library.metro.tokyo.lg.jp/da/detail?tilcod=0000000017-00083609"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>御船歌の成立に関する史的考察--『松平大和守日記』御船歌関連記録の検討を中心として</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I5288725</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：御船歌の成立に関する史的考察--『松平大和守日記』御船歌関連記録の検討を中心として</li><li>タイトル（読み）：オフナウタ ノ セイリツ ニ カンスル シテキ コウサツ マツダイラ ヤマトノカミ ニッキ オフナウタ カンレン キロク ノ ケントウ オ チュウシン ト シテ</li><li>責任表示：伊藤 健</li></ul>]]></description>
+      <author>伊藤 健,伊藤 健</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I5288725</guid>
+      <pubDate>Mon, 31 Jul 2000 22:35:41 +0900</pubDate>
+      <dc:title>御船歌の成立に関する史的考察--『松平大和守日記』御船歌関連記録の検討を中心として</dc:title>
+      <dcndl:titleTranscription>オフナウタ ノ セイリツ ニ カンスル シテキ コウサツ マツダイラ ヤマトノカミ ニッキ オフナウタ カンレン キロク ノ ケントウ オ チュウシン ト シテ</dcndl:titleTranscription>
+      <dc:creator>伊藤 健</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">5288725</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK8</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I5288725"/>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.34421/kayo.39.0_72"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390850490585817728"/>
+      <dc:description>掲載誌：日本歌謡研究 / 日本歌謡学会 編(通号 39) p.72～85</dc:description>
+    </item>
+    <item>
+      <title>川越市指定史跡松平大和守家廟所保存整備工事に伴う発掘調査 : 喜多院境内遺跡 (第3次・第4次・第5次調査)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030229173</link>
+      <description><![CDATA[<p>川越市教育委員会,2020,<p><ul><li>タイトル：川越市指定史跡松平大和守家廟所保存整備工事に伴う発掘調査 : 喜多院境内遺跡 (第3次・第4次・第5次調査)</li><li>タイトル（読み）：カワゴエシ シテイ シセキ マツダイラ ヤマトノカミケ ビョウショ ホゾン セイビ コウジ ニ トモナウ ハックツ チョウサ : キタイン ケイダイ イセキ (ダイ3ジ ・ ダイ4ジ ・ ダイ5ジ チョウサ)</li><li>責任表示：川越市教育委員会 編</li><li>シリーズ名：川越市埋蔵文化財発掘調査報告書 ; 第28集</li><li>シリーズ名（読み）：カワゴエシ マイゾウ ブンカザイ ハックツ チョウサ ホウコクショ ; ダイ28シュウ</li><li>NDC(10)：210.0254</li></ul>]]></description>
+      <author>川越市教育委員会,川越市教育委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030229173</guid>
+      <pubDate>Tue, 18 Feb 2020 00:48:17 +0900</pubDate>
+      <dc:title>川越市指定史跡松平大和守家廟所保存整備工事に伴う発掘調査 : 喜多院境内遺跡 (第3次・第4次・第5次調査)</dc:title>
+      <dcndl:titleTranscription>カワゴエシ シテイ シセキ マツダイラ ヤマトノカミケ ビョウショ ホゾン セイビ コウジ ニ トモナウ ハックツ チョウサ : キタイン ケイダイ イセキ (ダイ3ジ ・ ダイ4ジ ・ ダイ5ジ チョウサ)</dcndl:titleTranscription>
+      <dc:creator>川越市教育委員会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越市埋蔵文化財発掘調査報告書 ; 第28集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエシ マイゾウ ブンカザイ ハックツ チョウサ ホウコクショ ; ダイ28シュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.1</dcterms:issued>
+      <dc:extent>29p 図版 12p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030229173</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23334353</dc:identifier>
+      <dc:subject>川越市--遺跡・遺物</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB121</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">210.0254</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030229173"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB30709710"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>川越市立中央図書館収蔵和漢古書目録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318</link>
+      <description><![CDATA[<p>平成15年度版,川越市立中央図書館,2004,<p><ul><li>タイトル：川越市立中央図書館収蔵和漢古書目録</li><li>タイトル（読み）：カワゴエ シリツ チュウオウ トショカン シュウゾウ ワカン コショ モクロク</li><li>責任表示：川越市立中央図書館 編</li><li>NDC(9)：029.2134</li></ul>]]></description>
+      <author>川越市立中央図書館,川越市立中央図書館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318</guid>
+      <pubDate>Sun, 22 Oct 2023 20:43:31 +0900</pubDate>
+      <dc:title>川越市立中央図書館収蔵和漢古書目録</dc:title>
+      <dcndl:titleTranscription>カワゴエ シリツ チュウオウ トショカン シュウゾウ ワカン コショ モクロク</dcndl:titleTranscription>
+      <dc:creator>川越市立中央図書館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ チュウオウ トショカン</dcndl:creatorTranscription>
+      <dcndl:volume>平成15年度版</dcndl:volume>
+      <dc:publisher>川越市立中央図書館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.3</dcterms:issued>
+      <dc:extent>47, 5p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007440318</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20643569</dc:identifier>
+      <dc:subject>蔵書目録</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UP111</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">029.2134</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1100379352"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1677676&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1106311747"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318"/>
+      <dc:description> 2004</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121101955712</link>
+      <description><![CDATA[<p>３,川越市立博物館,2018,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン　マツダイラ　ヤマトノカミケ　キロク</li><li>責任表示：川越市立博物館 編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121101955712</guid>
+      <pubDate>Wed, 26 Apr 2000 00:00:00 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン　マツダイラ　ヤマトノカミケ　キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, シリツ, ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>３</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>２０１８．３</dcterms:issued>
+      <dc:extent>３２，２８７，３３ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101955712"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録 : 安永５年・同６年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121198123919</link>
+      <description><![CDATA[<p>５,川越市立博物館,2020,<p><ul><li>タイトル：川越藩松平大和守家記録 : 安永５年・同６年</li><li>タイトル（読み）：カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　ゴネン　ドウ　ロクネン</li><li>責任表示：川越市立博物館 編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121198123919</guid>
+      <pubDate>Sat, 30 Jun 2001 00:00:00 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録 : 安永５年・同６年</dc:title>
+      <dcndl:titleTranscription>カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　ゴネン　ドウ　ロクネン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, シリツ, ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>５</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>２０２０．３</dcterms:issued>
+      <dc:extent>３１，２６５，３８ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198123919"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録 : 安永７年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121198361032</link>
+      <description><![CDATA[<p>６,川越市立博物館,2023,<p><ul><li>タイトル：川越藩松平大和守家記録 : 安永７年</li><li>タイトル（読み）：カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　シチネン</li><li>責任表示：川越市立博物館 編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121198361032</guid>
+      <pubDate>Tue, 29 Aug 2023 09:02:24 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録 : 安永７年</dc:title>
+      <dcndl:titleTranscription>カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　シチネン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, シリツ, ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>６</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>２０２３．３</dcterms:issued>
+      <dc:extent>１９，１３７，１８ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198361032"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録 : 天明２年・同３年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121198527271</link>
+      <description><![CDATA[<p>８,川越市立博物館,2025,<p><ul><li>タイトル：川越藩松平大和守家記録 : 天明２年・同３年</li><li>タイトル（読み）：カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : テンメイ　ニネン　ドウ　サンネン</li><li>責任表示：川越市立博物館 編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121198527271</guid>
+      <pubDate>Tue, 19 Aug 2025 17:09:02 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録 : 天明２年・同３年</dc:title>
+      <dcndl:titleTranscription>カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : テンメイ　ニネン　ドウ　サンネン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, シリツ, ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>８</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>２０２５．３</dcterms:issued>
+      <dc:extent>２１，３５３，４０ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198527271"/>
+      <dc:description> 2025</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録 : 安永３年・同４年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11141198055749</link>
+      <description><![CDATA[<p>４,川越市立博物館,2019,<p><ul><li>タイトル：川越藩松平大和守家記録 : 安永３年・同４年</li><li>タイトル（読み）：カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　サンネン　ドウ　ヨネン</li><li>責任表示：川越市立博物館 編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11141198055749</guid>
+      <pubDate>Mon, 25 Jun 2001 00:00:00 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録 : 安永３年・同４年</dc:title>
+      <dcndl:titleTranscription>カワゴエハン　マツダイラ　ヤマトノカミケ　キロク : アンエイ　サンネン　ドウ　ヨネン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, シリツ, ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>４</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>２０１９．３</dcterms:issued>
+      <dc:extent>１６，３２３，３８ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198055749"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I027348844</link>
+      <description><![CDATA[<p>1,川越市立博物館,2016,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(9)：213.4</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I027348844</guid>
+      <pubDate>Thu, 28 Jul 2016 20:23:23 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.3</dcterms:issued>
+      <dc:extent>35, 244, 27p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027348844</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22760261</dc:identifier>
+      <dc:subject>川越市--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101769157"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2570980&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152860610"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110198689/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110260779/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I027348844"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028173516</link>
+      <description><![CDATA[<p>2,川越市立博物館,2017,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028173516</guid>
+      <pubDate>Thu, 1 Jun 2017 07:02:16 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.3</dcterms:issued>
+      <dc:extent>31, 264, 34p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028173516</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22891649</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101864634"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2722568&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153012013"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028173516"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028989751</link>
+      <description><![CDATA[<p>3 (明和9年・安永2年),川越市立博物館,2018,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028989751</guid>
+      <pubDate>Wed, 6 Jun 2018 03:51:24 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>3 (明和9年・安永2年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.3</dcterms:issued>
+      <dc:extent>32, 287, 33p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028989751</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23055190</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2845094&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153196945"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110341852/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028989751"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029719466</link>
+      <description><![CDATA[<p>4 (安永3年・同4年),川越市立博物館,2019,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029719466</guid>
+      <pubDate>Wed, 10 Jul 2019 03:25:11 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>4 (安永3年・同4年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.3</dcterms:issued>
+      <dc:extent>16, 323, 38p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029719466</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23231103</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3356562&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153396239"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000026322/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029719466"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030495663</link>
+      <description><![CDATA[<p>5 (安永5年・同6年),川越市立博物館,2020,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030495663</guid>
+      <pubDate>Thu, 7 Dec 2023 00:54:22 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>5 (安永5年・同6年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.3</dcterms:issued>
+      <dc:extent>31, 265, 38p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030495663</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23397194</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2974906&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153665962"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000100996/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030495663"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032714241</link>
+      <description><![CDATA[<p>6 (安永7年),川越市立博物館,2023,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編集</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032714241</guid>
+      <pubDate>Thu, 7 Dec 2023 00:54:30 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>6 (安永7年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.3</dcterms:issued>
+      <dc:extent>19, 137, 18 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032714241</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23812815</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3279928&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154164163"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000275271/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032714241"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033404353</link>
+      <description><![CDATA[<p>7 (安永8年・同10年),川越市立博物館,2024,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編集</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033404353</guid>
+      <pubDate>Fri, 12 Apr 2024 01:07:21 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>7 (安永8年・同10年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024.3</dcterms:issued>
+      <dc:extent>22, 329, 35 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033404353</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23964245</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154606257"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033404353"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034046465</link>
+      <description><![CDATA[<p>8 (天明2年・同3年),川越市立博物館,2025,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館 編集</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034046465</guid>
+      <pubDate>Tue, 13 May 2025 23:39:01 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>8 (天明2年・同3年)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>2025.3</dcterms:issued>
+      <dc:extent>21, 353, 40 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034046465</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24113586</dc:identifier>
+      <dc:subject>川越市--歴史--近世--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000408815/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034046465"/>
+      <dc:description> 2025</dc:description>
+    </item>
+    <item>
+      <title>川越藩松平大和守家記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970024049969498000</link>
+      <description><![CDATA[<p>川越市立博物館,2025,<p><ul><li>タイトル：川越藩松平大和守家記録</li><li>タイトル（読み）：カワゴエハン マツダイラ ヤマトノカミケ キロク</li><li>責任表示：川越市立博物館編</li><li>NDC(10)：213.405</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970024049969498000</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>川越藩松平大和守家記録</dc:title>
+      <dcndl:titleTranscription>カワゴエハン マツダイラ ヤマトノカミケ キロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>2025.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BD13182110</dc:identifier>
+      <dc:subject>川越藩</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.405</dc:subject>
+      <dc:description>表現種別: テキスト (ncrcontent), 機器種別: 機器不用 (ncrmedia), キャリア種別: 冊子 (ncrcarrier)</dc:description>
+      <dc:description>8: 天明2年・同3年</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BD13182110"/>
+      <dc:description> 2025</dc:description>
+    </item>
+  </channel>
+</rss>

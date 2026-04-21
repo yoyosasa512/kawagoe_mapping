@@ -1,0 +1,381 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>奥泉光 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%A5%A5%E6%B3%89%E5%85%89&amp;cnt=20</link>
+    <description>Search results for title=奥泉光 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>95</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>蝟集する鼠、語られる歴史 : 奥泉光論</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033686749</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：蝟集する鼠、語られる歴史 : 奥泉光論</li><li>タイトル（読み）：イシュウ スル ネズミ 、 カタラレル レキシ : オウセン ヒカリロン</li><li>責任表示：鴻巣 友季子</li></ul>]]></description>
+      <author>鴻巣 友季子,鴻巣 友季子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033686749</guid>
+      <pubDate>Thu, 12 Sep 2024 18:57:47 +0900</pubDate>
+      <dc:title>蝟集する鼠、語られる歴史 : 奥泉光論</dc:title>
+      <dcndl:titleTranscription>イシュウ スル ネズミ 、 カタラレル レキシ : オウセン ヒカリロン</dcndl:titleTranscription>
+      <dc:creator>鴻巣 友季子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033686749</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033686749"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520864479743522944"/>
+      <dc:description>掲載誌：すばる 10 p.198-207</dc:description>
+    </item>
+    <item>
+      <title>インタビュー 奥泉光 あの出来事の経験化に、これまでとは異なる方法で取り組む</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10928435</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー 奥泉光 あの出来事の経験化に、これまでとは異なる方法で取り組む</li><li>タイトル（読み）：インタビュー オクイズミ ヒカル アノ デキゴト ノ ケイケンカ ニ コレマデ トハ コトナル ホウホウ デ トリクム</li><li>責任表示：奥泉 光</li></ul>]]></description>
+      <author>奥泉 光,奥泉 光</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10928435</guid>
+      <pubDate>Fri, 14 Jan 2011 22:38:35 +0900</pubDate>
+      <dc:title>インタビュー 奥泉光 あの出来事の経験化に、これまでとは異なる方法で取り組む</dc:title>
+      <dcndl:titleTranscription>インタビュー オクイズミ ヒカル アノ デキゴト ノ ケイケンカ ニ コレマデ トハ コトナル ホウホウ デ トリクム</dcndl:titleTranscription>
+      <dc:creator>奥泉 光</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10928435</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10928435"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523669555366610304"/>
+      <dc:description>掲載誌：青春と読書 / 集英社 [編] 1(通号 414) p.46～48</dc:description>
+    </item>
+    <item>
+      <title>インタビュー&amp;解説 奥泉光『モーダルな事象』というアクチュアルな事象</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I7424058</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー&解説 奥泉光『モーダルな事象』というアクチュアルな事象</li><li>タイトル（読み）：インタビュー カイセツ オクイズミ ヒカル モーダル ナ ジショウ ト イウ アクチュアル ナ ジショウ</li><li>責任表示：奥泉 光,千野 帽子</li></ul>]]></description>
+      <author>奥泉 光,千野 帽子,奥泉 光,千野 帽子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I7424058</guid>
+      <pubDate>Thu, 22 Sep 2005 22:40:44 +0900</pubDate>
+      <dc:title>インタビュー&amp;解説 奥泉光『モーダルな事象』というアクチュアルな事象</dc:title>
+      <dcndl:titleTranscription>インタビュー カイセツ オクイズミ ヒカル モーダル ナ ジショウ ト イウ アクチュアル ナ ジショウ</dcndl:titleTranscription>
+      <dc:creator>奥泉 光</dc:creator>
+      <dc:creator>千野 帽子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">7424058</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I7424058"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291855340522752"/>
+      <dc:description>掲載誌：本の話 8(通号 123) p.26～31</dc:description>
+    </item>
+    <item>
+      <title>エンターテインメント情勢分析-4-奥泉光『「吾輩は猫である」殺人事件』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I3933656</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：エンターテインメント情勢分析-4-奥泉光『「吾輩は猫である」殺人事件』</li><li>タイトル（読み）：エンターテインメント ジョウセイ ブンセキ 4 オクイズミ ヒカル ワガハイ ワ</li><li>責任表示：笠井 潔</li></ul>]]></description>
+      <author>笠井 潔,笠井 潔</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I3933656</guid>
+      <pubDate>Sun, 7 Feb 1999 10:45:02 +0900</pubDate>
+      <dc:title>エンターテインメント情勢分析-4-奥泉光『「吾輩は猫である」殺人事件』</dc:title>
+      <dcndl:titleTranscription>エンターテインメント ジョウセイ ブンセキ 4 オクイズミ ヒカル ワガハイ ワ</dcndl:titleTranscription>
+      <dc:creator>笠井 潔</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">3933656</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I3933656"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521699229747782016"/>
+      <dc:description>掲載誌：すばる 4 p.246～249</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『シューマンの指』を読む : 音楽の「隠喩」としてのメタミステリ小説</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I024429463</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『シューマンの指』を読む : 音楽の「隠喩」としてのメタミステリ小説</li><li>タイトル（読み）：オウセン ヒカリ 『 シューマン ノ ユビ 』 オ ヨム : オンガク ノ 「 インユ 」 ト シテ ノ メタミステリ ショウセツ</li><li>責任表示：山本 亮介</li></ul>]]></description>
+      <author>山本 亮介,山本 亮介</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I024429463</guid>
+      <pubDate>Fri, 17 May 2013 22:36:45 +0900</pubDate>
+      <dc:title>奥泉光『シューマンの指』を読む : 音楽の「隠喩」としてのメタミステリ小説</dc:title>
+      <dcndl:titleTranscription>オウセン ヒカリ 『 シューマン ノ ユビ 』 オ ヨム : オンガク ノ 「 インユ 」 ト シテ ノ メタミステリ ショウセツ</dcndl:titleTranscription>
+      <dc:creator>山本 亮介</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024429463</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I024429463"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520009408748745216"/>
+      <dc:description>掲載誌：文学論藻 / 東洋大学文学部日本文学文化学科 編 87 p.33-53</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『東京自叙伝』の構造</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I030525011</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『東京自叙伝』の構造</li><li>タイトル（読み）：オウセン ヒカリ 『 トウキョウ ジジョデン 』 ノ コウゾウ</li><li>責任表示：永野 悟</li><li>シリーズ名：特集 平成三〇年間の文学</li><li>シリーズ名（読み）：トクシュウ ヘイセイ サン〇ネンカン ノ ブンガク</li></ul>]]></description>
+      <author>永野 悟,永野 悟</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I030525011</guid>
+      <pubDate>Thu, 25 Sep 2025 19:46:13 +0900</pubDate>
+      <dc:title>奥泉光『東京自叙伝』の構造</dc:title>
+      <dcndl:titleTranscription>オウセン ヒカリ 『 トウキョウ ジジョデン 』 ノ コウゾウ</dcndl:titleTranscription>
+      <dc:creator>永野 悟</dc:creator>
+      <dcndl:seriesTitle>特集 平成三〇年間の文学</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ヘイセイ サン〇ネンカン ノ ブンガク</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030525011</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030525011"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521417755892467072"/>
+      <dc:description>掲載誌：群系 44 p.31-48</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『シューマンの指』を読む</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1010282257134152583</link>
+      <description><![CDATA[<p>2013,<p><ul><li>タイトル：奥泉光『シューマンの指』を読む</li></ul>]]></description>
+      <author>山本 亮介</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1010282257134152583</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>奥泉光『シューマンの指』を読む</dc:title>
+      <dc:creator>山本 亮介</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1010282257134152583"/>
+      <dc:description>掲載誌：文学論藻 2013 p.33-53</dc:description>
+    </item>
+    <item>
+      <title>奥泉光「シューマンの指』を読む －音楽の「隠嶮」としてのメタミステリ小説一</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050572023608403072</link>
+      <description><![CDATA[<p>2013-02,<p><ul><li>タイトル：奥泉光「シューマンの指』を読む －音楽の「隠嶮」としてのメタミステリ小説一</li></ul>]]></description>
+      <author>山本, 亮介</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050572023608403072</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>奥泉光「シューマンの指』を読む －音楽の「隠嶮」としてのメタミステリ小説一</dc:title>
+      <dc:creator>山本, 亮介</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2013-02</dc:date>
+      <dcterms:issued>2013-02</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://id.nii.ac.jp/1060/00012933/"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050572023608403072"/>
+      <dc:description>掲載誌：文学論藻 = BUNGAKURONSO 2013-02 p.33-53</dc:description>
+    </item>
+    <item>
+      <title>奥泉光「滝」論</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050282812976087552</link>
+      <description><![CDATA[<p>2008-12-01,<p><ul><li>タイトル：奥泉光「滝」論</li></ul>]]></description>
+      <author>大國, 眞希</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050282812976087552</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>奥泉光「滝」論</dc:title>
+      <dc:creator>大國, 眞希</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2008-12-01</dc:date>
+      <dcterms:issued>2008-12-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://saigaku.repo.nii.ac.jp/records/748"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050282812976087552"/>
+      <dc:description>掲載誌：川口短大紀要. ビジネス実務学科篇 2008-12-01 p.-1--20</dc:description>
+    </item>
+    <item>
+      <title>奥泉光の『バナールな現象』とニーチェ : 現代の精神状況についての一考察</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1573105976800995712</link>
+      <description><![CDATA[<p>1996-04-01,<p><ul><li>タイトル：奥泉光の『バナールな現象』とニーチェ : 現代の精神状況についての一考察</li></ul>]]></description>
+      <author>清水 本裕</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1573105976800995712</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>奥泉光の『バナールな現象』とニーチェ : 現代の精神状況についての一考察</dc:title>
+      <dc:creator>清水 本裕</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1996-04-01</dc:date>
+      <dcterms:issued>1996-04-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1573105976800995712"/>
+      <dc:description>掲載誌：東京農工大学人間と社会 1996-04-01 p.183-195</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『神器 軍艦「橿原」殺人事件』刊行記念インタビュー 奥泉光/語りの多様性が新たな歴史を作る</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I9800983</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『神器 軍艦「橿原」殺人事件』刊行記念インタビュー 奥泉光/語りの多様性が新たな歴史を作る</li><li>タイトル（読み）：オクイズミ ヒカル ジンギ グンカン カシハラ サツジン ジケン カンコウ キネン インタビュー オクイズミ ヒカル カタリ ノ タヨウセイ ガ アラタナ レキシ オ ツクル</li><li>責任表示：奥泉 光</li></ul>]]></description>
+      <author>奥泉 光,奥泉 光</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I9800983</guid>
+      <pubDate>Fri, 27 Feb 2009 22:36:54 +0900</pubDate>
+      <dc:title>奥泉光『神器 軍艦「橿原」殺人事件』刊行記念インタビュー 奥泉光/語りの多様性が新たな歴史を作る</dc:title>
+      <dcndl:titleTranscription>オクイズミ ヒカル ジンギ グンカン カシハラ サツジン ジケン カンコウ キネン インタビュー オクイズミ ヒカル カタリ ノ タヨウセイ ガ アラタナ レキシ オ ツクル</dcndl:titleTranscription>
+      <dc:creator>奥泉 光</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">9800983</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I9800983"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523388080552245248"/>
+      <dc:description>掲載誌：波 2(通号 470) p.2～7</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『プラトン学園』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I4282790</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『プラトン学園』</li><li>タイトル（読み）：オクイズミ ヒカル プラトン ガクエン</li><li>責任表示：野崎 歓</li></ul>]]></description>
+      <author>野崎 歓,野崎 歓</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I4282790</guid>
+      <pubDate>Sun, 7 Feb 1999 22:25:24 +0900</pubDate>
+      <dc:title>奥泉光『プラトン学園』</dc:title>
+      <dcndl:titleTranscription>オクイズミ ヒカル プラトン ガクエン</dcndl:titleTranscription>
+      <dc:creator>野崎 歓</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">4282790</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I4282790"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291855357696384"/>
+      <dc:description>掲載誌：すばる 10 p.287</dc:description>
+    </item>
+    <item>
+      <title>奥泉光論 現代作家論シリーズ・第13回--「砂漠」と「超越」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I4265058</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光論 現代作家論シリーズ・第13回--「砂漠」と「超越」</li><li>タイトル（読み）：オクイズミ ヒカル ロン ゲンダイ サッカロン シリーズ ダイ 13カイ サバク</li><li>責任表示：倉林 靖</li></ul>]]></description>
+      <author>倉林 靖,倉林 靖</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I4265058</guid>
+      <pubDate>Sun, 7 Feb 1999 22:25:24 +0900</pubDate>
+      <dc:title>奥泉光論 現代作家論シリーズ・第13回--「砂漠」と「超越」</dc:title>
+      <dcndl:titleTranscription>オクイズミ ヒカル ロン ゲンダイ サッカロン シリーズ ダイ 13カイ サバク</dcndl:titleTranscription>
+      <dc:creator>倉林 靖</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">4265058</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I4265058"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262180641229952"/>
+      <dc:description>掲載誌：文學界 9 p.190～205</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『「吾輩は猫である」殺人事件』--殺害はかのテクストに及び</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I3953096</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『「吾輩は猫である」殺人事件』--殺害はかのテクストに及び</li><li>タイトル（読み）：オクイズミヒカル ワガハイ ワ ネコ デ アル サツジン ジケン サツガイハカ</li><li>責任表示：芳川 泰久</li></ul>]]></description>
+      <author>芳川 泰久,芳川 泰久</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I3953096</guid>
+      <pubDate>Sun, 7 Feb 1999 10:45:02 +0900</pubDate>
+      <dc:title>奥泉光『「吾輩は猫である」殺人事件』--殺害はかのテクストに及び</dc:title>
+      <dcndl:titleTranscription>オクイズミヒカル ワガハイ ワ ネコ デ アル サツジン ジケン サツガイハカ</dcndl:titleTranscription>
+      <dc:creator>芳川 泰久</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">3953096</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I3953096"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262179836484992"/>
+      <dc:description>掲載誌：早稲田文学. [第8次] / 早稲田文学編集室 編(通号 241) p.52～56</dc:description>
+    </item>
+    <item>
+      <title>奥泉光『「吾輩は猫である」殺人事件』--小説がショートするとき</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I3953097</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：奥泉光『「吾輩は猫である」殺人事件』--小説がショートするとき</li><li>タイトル（読み）：オクイズミ ヒカル ワガハイ ワ ネコ デ アル サツジン ジケン ショウセツ</li><li>責任表示：小森 陽一</li></ul>]]></description>
+      <author>小森 陽一,小森 陽一</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I3953097</guid>
+      <pubDate>Sun, 7 Feb 1999 10:45:02 +0900</pubDate>
+      <dc:title>奥泉光『「吾輩は猫である」殺人事件』--小説がショートするとき</dc:title>
+      <dcndl:titleTranscription>オクイズミ ヒカル ワガハイ ワ ネコ デ アル サツジン ジケン ショウセツ</dcndl:titleTranscription>
+      <dc:creator>小森 陽一</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">3953097</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I3953097"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523951029657924096"/>
+      <dc:description>掲載誌：早稲田文学. [第8次] / 早稲田文学編集室 編(通号 241) p.57～61</dc:description>
+    </item>
+    <item>
+      <title>季刊ブックレビュー 奥泉光『新・地底旅行』 漱石とヴェルヌと奥泉光の由緒ある関係--『坑夫』から『新・地底旅行』へ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I6989950</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：季刊ブックレビュー 奥泉光『新・地底旅行』 漱石とヴェルヌと奥泉光の由緒ある関係--『坑夫』から『新・地底旅行』へ</li><li>タイトル（読み）：キカン ブックレビュー オクイズミ ヒカル シン チテイ リョコウ ソウセキ ト ヴェルヌ ト オクイズミ ヒカル ノ ユイショ アル カンケイ コウフ カラ シン チテイ リョコウ エ</li><li>責任表示：小森 陽一</li></ul>]]></description>
+      <author>小森 陽一,小森 陽一</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I6989950</guid>
+      <pubDate>Fri, 6 Oct 2023 01:12:41 +0900</pubDate>
+      <dc:title>季刊ブックレビュー 奥泉光『新・地底旅行』 漱石とヴェルヌと奥泉光の由緒ある関係--『坑夫』から『新・地底旅行』へ</dc:title>
+      <dcndl:titleTranscription>キカン ブックレビュー オクイズミ ヒカル シン チテイ リョコウ ソウセキ ト ヴェルヌ ト オクイズミ ヒカル ノ ユイショ アル カンケイ コウフ カラ シン チテイ リョコウ エ</dcndl:titleTranscription>
+      <dc:creator>小森 陽一</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">6989950</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I6989950"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521136280668609280"/>
+      <dc:description>掲載誌：小説tripper 夏季 p.126～129</dc:description>
+    </item>
+    <item>
+      <title>季刊ブックレビュー 歴史にひびく無数の声[『虚史のリズム』奥泉光]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033739964</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：季刊ブックレビュー 歴史にひびく無数の声[『虚史のリズム』奥泉光]</li><li>タイトル（読み）：キカン ブックレビュー レキシ ニ ヒビク ムスウ ノ コエ[『 キョシ ノ リズム 』 オウセン ヒカリ]</li><li>責任表示：江南 亜美子</li></ul>]]></description>
+      <author>江南 亜美子,江南 亜美子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033739964</guid>
+      <pubDate>Thu, 17 Oct 2024 01:41:16 +0900</pubDate>
+      <dc:title>季刊ブックレビュー 歴史にひびく無数の声[『虚史のリズム』奥泉光]</dc:title>
+      <dcndl:titleTranscription>キカン ブックレビュー レキシ ニ ヒビク ムスウ ノ コエ[『 キョシ ノ リズム 』 オウセン ヒカリ]</dcndl:titleTranscription>
+      <dc:creator>江南 亜美子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033739964</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033739964"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520864822540655104"/>
+      <dc:description>掲載誌：小説tripper p.229-231</dc:description>
+    </item>
+    <item>
+      <title>きんようぶんか 本 [浅田次郎、奥泉光、川村湊、高橋敏夫、成田龍一編集委員 北上次郎編集協力]『戦争と文学5 イマジネーションの戦争』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11248567</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：きんようぶんか 本 [浅田次郎、奥泉光、川村湊、高橋敏夫、成田龍一編集委員 北上次郎編集協力]『戦争と文学5 イマジネーションの戦争』</li><li>タイトル（読み）：キンヨウ ブン カ ホン アサダ ジロウ オクイズミ ヒカル カワムラ ミナト タカハシ トシオ ナリタ リュウイチ ヘンシュウ イイン キタガミ ジロウ ヘンシュウ キョウリョク センソウ ト ブンガク 5 イマジネーション ノ センソウ</li><li>責任表示：陣野 俊史</li></ul>]]></description>
+      <author>陣野 俊史,陣野 俊史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11248567</guid>
+      <pubDate>Fri, 7 Oct 2011 22:37:51 +0900</pubDate>
+      <dc:title>きんようぶんか 本 [浅田次郎、奥泉光、川村湊、高橋敏夫、成田龍一編集委員 北上次郎編集協力]『戦争と文学5 イマジネーションの戦争』</dc:title>
+      <dcndl:titleTranscription>キンヨウ ブン カ ホン アサダ ジロウ オクイズミ ヒカル カワムラ ミナト タカハシ トシオ ナリタ リュウイチ ヘンシュウ イイン キタガミ ジロウ ヘンシュウ キョウリョク センソウ ト ブンガク 5 イマジネーション ノ センソウ</dcndl:titleTranscription>
+      <dc:creator>陣野 俊史</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11248567</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11248567"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262180047373312"/>
+      <dc:description>掲載誌：金曜日 37(通号 880) p.40</dc:description>
+    </item>
+    <item>
+      <title>きんようぶんか 本 6人の「私」は日本人全体を「ひとり」と捉えた一人称[『東京自叙伝』奥泉光=著]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025498712</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：きんようぶんか 本 6人の「私」は日本人全体を「ひとり」と捉えた一人称[『東京自叙伝』奥泉光=著]</li><li>タイトル（読み）：キンヨウ ブン カ ホン 6ニン ノ 「 ワタクシ 」 ワ ニホンジン ゼンタイ オ 「 ヒトリ 」 ト トラエタ イチニンショウ[『 トウキョウ ジジョデン 』 オウセン ヒカリ=チョ]</li><li>責任表示：石井 千湖</li></ul>]]></description>
+      <author>石井 千湖,石井 千湖</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025498712</guid>
+      <pubDate>Mon, 16 Jun 2014 20:16:43 +0900</pubDate>
+      <dc:title>きんようぶんか 本 6人の「私」は日本人全体を「ひとり」と捉えた一人称[『東京自叙伝』奥泉光=著]</dc:title>
+      <dcndl:titleTranscription>キンヨウ ブン カ ホン 6ニン ノ 「 ワタクシ 」 ワ ニホンジン ゼンタイ オ 「 ヒトリ 」 ト トラエタ イチニンショウ[『 トウキョウ ジジョデン 』 オウセン ヒカリ=チョ]</dcndl:titleTranscription>
+      <dc:creator>石井 千湖</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025498712</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025498712"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520854805258032384"/>
+      <dc:description>掲載誌：金曜日 23(通号 1013) p.50</dc:description>
+    </item>
+    <item>
+      <title>空洞地球と永遠回帰―奥泉光小論</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1010282257431333637</link>
+      <description><![CDATA[<p>2010,<p><ul><li>タイトル：空洞地球と永遠回帰―奥泉光小論</li></ul>]]></description>
+      <author>石橋 正孝</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1010282257431333637</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>空洞地球と永遠回帰―奥泉光小論</dc:title>
+      <dc:creator>石橋 正孝</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1010282257431333637"/>
+      <dc:description>掲載誌：早稲田文学 第3号 2010 p.313-323</dc:description>
+    </item>
+  </channel>
+</rss>

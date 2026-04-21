@@ -1,0 +1,105 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>妙昌寺 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%A6%99%E6%98%8C%E5%AF%BA&amp;cnt=20</link>
+    <description>Search results for title=妙昌寺 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>5</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>寺院ルネッサンス 日蓮宗神戸妙昌寺 子供を中心に据えた行事で、「いのちの共同体」の復興を目指す</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I9586278</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：寺院ルネッサンス 日蓮宗神戸妙昌寺 子供を中心に据えた行事で、「いのちの共同体」の復興を目指す</li><li>タイトル（読み）：ジイン ルネッサンス ニチレンシュウ コウベ ミョウショウジ コドモ オ チュウシン ニ スエタ ギョウジ デ イノチ ノ キョウドウタイ ノ フッコウ オ メザス</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I9586278</guid>
+      <pubDate>Tue, 25 Oct 2022 02:33:44 +0900</pubDate>
+      <dc:title>寺院ルネッサンス 日蓮宗神戸妙昌寺 子供を中心に据えた行事で、「いのちの共同体」の復興を目指す</dc:title>
+      <dcndl:titleTranscription>ジイン ルネッサンス ニチレンシュウ コウベ ミョウショウジ コドモ オ チュウシン ニ スエタ ギョウジ デ イノチ ノ キョウドウタイ ノ フッコウ オ メザス</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">9586278</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I9586278"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520854805034298496"/>
+      <dc:description>掲載誌：仏事 6 p.82～85</dc:description>
+    </item>
+    <item>
+      <title>日蓮宗妙昌寺旧記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I38111120057377</link>
+      <description><![CDATA[<p>［秋山英一］,1961,<p><ul><li>タイトル：日蓮宗妙昌寺旧記</li><li>タイトル（読み）：ニチレンシュウ　ミョウショウジ　キュウキ</li><li>責任表示：〔秋山英一 編]</li><li>NDC(10)：188.9</li></ul>]]></description>
+      <author>〔秋山, 英一,〔秋山英一 編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I38111120057377</guid>
+      <pubDate>Wed, 15 Sep 2021 16:06:55 +0900</pubDate>
+      <dc:title>日蓮宗妙昌寺旧記</dc:title>
+      <dcndl:titleTranscription>ニチレンシュウ　ミョウショウジ　キュウキ</dcndl:titleTranscription>
+      <dc:creator>〔秋山, 英一</dc:creator>
+      <dcndl:creatorTranscription>アキヤマ, ヒデイチ</dcndl:creatorTranscription>
+      <dc:publisher>［秋山英一］</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1961</dc:date>
+      <dcterms:issued>[1961]</dcterms:issued>
+      <dc:extent>1冊 ; 27cm</dc:extent>
+      <dc:subject>妙昌寺</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">188.9</dc:subject>
+      <dc:description>表紙は手書き、内容は原稿用紙に手書き、紙紐綴じ</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1120057377"/>
+      <dc:description> 1961</dc:description>
+    </item>
+    <item>
+      <title>墓塔としての武蔵妙昌寺の瓦塔 瓦塔遺跡研究その五</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815261733248</link>
+      <description><![CDATA[<p>1961-04,<p><ul><li>タイトル：墓塔としての武蔵妙昌寺の瓦塔 瓦塔遺跡研究その五</li></ul>]]></description>
+      <author>石村,喜英</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815261733248</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>墓塔としての武蔵妙昌寺の瓦塔 瓦塔遺跡研究その五</dc:title>
+      <dc:creator>石村,喜英</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1961-04</dc:date>
+      <dcterms:issued>1961-04</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/118234"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390292815261733248"/>
+      <dc:description>掲載誌：歴史考古 1961-04 p.24-30</dc:description>
+    </item>
+    <item>
+      <title>妙昌寺蔵六十巻正法眼蔵写本について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I012470006594043</link>
+      <description><![CDATA[<p>曹洞宗宗学研究所,1968-03,<p><ul><li>タイトル：妙昌寺蔵六十巻正法眼蔵写本について</li><li>責任表示：団野, 弘之</li></ul>]]></description>
+      <author>団野, 弘之,団野, 弘之</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I012470006594043</guid>
+      <pubDate>Wed, 19 Feb 2025 17:02:51 +0900</pubDate>
+      <dc:title>妙昌寺蔵六十巻正法眼蔵写本について</dc:title>
+      <dc:creator>団野, 弘之</dc:creator>
+      <dc:publisher>曹洞宗宗学研究所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1968-03</dc:date>
+      <dcterms:issued>1968-03</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://komazawa-u.repo.nii.ac.jp/records/2026803"/>
+      <dc:description>掲載誌：宗学研究 1968-03 p.44-</dc:description>
+    </item>
+    <item>
+      <title>妙昌寺蔵六十巻正法眼蔵写本について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I902582</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：妙昌寺蔵六十巻正法眼蔵写本について</li><li>タイトル（読み）：ミョウショウジゾウ ロクジッカン ショウボウ ゲンゾウ シャホン ニ ツイテ</li><li>責任表示：団野 弘之</li></ul>]]></description>
+      <author>団野 弘之,団野 弘之</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I902582</guid>
+      <pubDate>Sat, 1 Apr 2000 06:38:39 +0900</pubDate>
+      <dc:title>妙昌寺蔵六十巻正法眼蔵写本について</dc:title>
+      <dcndl:titleTranscription>ミョウショウジゾウ ロクジッカン ショウボウ ゲンゾウ シャホン ニ ツイテ</dcndl:titleTranscription>
+      <dc:creator>団野 弘之</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">902582</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I902582"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520572357059446912"/>
+      <dc:description>掲載誌：宗学研究(通号 10) p.44～51</dc:description>
+    </item>
+  </channel>
+</rss>

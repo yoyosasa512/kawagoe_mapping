@@ -1,0 +1,464 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>養寿院 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E9%A4%8A%E5%AF%BF%E9%99%A2&amp;cnt=20</link>
+    <description>Search results for title=養寿院 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>42</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>医則 (養寿院医則)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000139-I000000226</link>
+      <description><![CDATA[<p>平安養寺院蔵版,1751,<p><ul><li>タイトル：医則 (養寿院医則)</li><li>タイトル（読み）：イソク(ヨウジュインイソク)</li><li>責任表示：山脇 東洋</li></ul>]]></description>
+      <author>山脇 東洋,山脇 東洋</author>
+      <category>図書</category>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000139-I000000226</guid>
+      <pubDate>Thu, 8 Jun 2023 09:00:00 +0900</pubDate>
+      <dc:title>医則 (養寿院医則)</dc:title>
+      <dcndl:titleTranscription>イソク(ヨウジュインイソク)</dcndl:titleTranscription>
+      <dc:creator>山脇 東洋</dc:creator>
+      <dcndl:creatorTranscription>ヤマワキ トウヨウ</dcndl:creatorTranscription>
+      <dc:publisher>平安養寺院蔵版</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1751</dc:date>
+      <dcterms:issued>寛延4年9月</dcterms:issued>
+      <dc:description>我が国最初の人体解剖を実施することなどにより実証医学への幕を開いた山脇東洋が医師の守るべき注意十を掲げ附録として彼が翻刻した『外台秘要方』序などをまとめたものである。（解題：樋口誠太郎）</dc:description>
+      <dc:description>和漢101</dc:description>
+      <dc:description>和</dc:description>
+      <dc:description>コレクション：千葉大学附属図書館亥鼻分館所蔵 古医書コレクション = Rare eastern medicine book collection</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.ll.chiba-u.jp/da/koisho/108278/"/>
+      <dc:description> 1751</dc:description>
+    </item>
+    <item>
+      <title>近世漢方医学書集成 電子版 : 全116巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028213841</link>
+      <description><![CDATA[<p>名著出版,2016,<p><ul><li>タイトル：近世漢方医学書集成 電子版 : 全116巻</li><li>タイトル（読み）：キンセイ カンポウ イガクショ シュウセイ デンシバン : ゼン 116カン</li><li>責任表示：大塚敬節, 矢数道明 責任編集,山田光胤, 寺師睦宗, 大塚恭男, 矢数圭堂, 松田邦夫 編</li><li>NDC(10)：490.9</li></ul>]]></description>
+      <author>大塚, 敬節, 1900-1980,矢数, 道明, 1905-2002,山田, 光胤, 1924-,寺師, 睦宗, 1923-,大塚, 恭男, 1930-2009,矢数, 圭堂,松田, 邦夫, 1929-,大塚敬節, 矢数道明 責任編集,山田光胤, 寺師睦宗, 大塚恭男, 矢数圭堂, 松田邦夫 編</author>
+      <category>電子資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028213841</guid>
+      <pubDate>Mon, 26 Jun 2017 22:01:28 +0900</pubDate>
+      <dc:title>近世漢方医学書集成 電子版 : 全116巻</dc:title>
+      <dcndl:titleTranscription>キンセイ カンポウ イガクショ シュウセイ デンシバン : ゼン 116カン</dcndl:titleTranscription>
+      <dc:creator>大塚, 敬節, 1900-1980</dc:creator>
+      <dc:creator>矢数, 道明, 1905-2002</dc:creator>
+      <dc:creator>山田, 光胤, 1924-</dc:creator>
+      <dc:creator>寺師, 睦宗, 1923-</dc:creator>
+      <dc:creator>大塚, 恭男, 1930-2009</dc:creator>
+      <dc:creator>矢数, 圭堂</dc:creator>
+      <dc:creator>松田, 邦夫, 1929-</dc:creator>
+      <dcndl:creatorTranscription>オオツカ, ヨシノリ, 1900-1980</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤカズ, ドウメイ, 1905-2002</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤマダ, テルタネ, 1924-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシ, ボクソウ, 1923-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オオツカ, ヤスオ, 1930-2009</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤカズ, ケイドウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツダ, クニオ, 1929-</dcndl:creatorTranscription>
+      <dc:publisher>名著出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>[2016]</dcterms:issued>
+      <dcndl:price>500000円</dcndl:price>
+      <dc:extent>USBメモリ 1個</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028213841</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22904044</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YH511</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">490.9</dc:subject>
+      <dc:description>箱入 (15×20cm)</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028213841"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13309896"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>近世漢方医学書集成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001432666</link>
+      <description><![CDATA[<p>13 (後藤艮山.山脇東洋),名著出版,1979,<p><ul><li>タイトル：近世漢方医学書集成</li><li>タイトル（読み）：キンセイ カンポウ イガクショ シュウセイ</li><li>責任表示：大塚敬節, 矢数道明 責任編集</li></ul>]]></description>
+      <author>大塚, 敬節, 1900-1980,矢数, 道明, 1905-2002,大塚敬節, 矢数道明 責任編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001432666</guid>
+      <pubDate>Sat, 2 May 2015 07:06:30 +0900</pubDate>
+      <dc:title>近世漢方医学書集成</dc:title>
+      <dcndl:titleTranscription>キンセイ カンポウ イガクショ シュウセイ</dcndl:titleTranscription>
+      <dc:creator>大塚, 敬節, 1900-1980</dc:creator>
+      <dc:creator>矢数, 道明, 1905-2002</dc:creator>
+      <dcndl:creatorTranscription>オオツカ, ヨシノリ, 1900-1980</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤカズ, ドウメイ, 1905-2002</dcndl:creatorTranscription>
+      <dcndl:volume>13 (後藤艮山.山脇東洋)</dcndl:volume>
+      <dc:publisher>名著出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.10</dcterms:issued>
+      <dcndl:price>6000円</dcndl:price>
+      <dc:extent>598p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001432666</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">80002092</dc:identifier>
+      <dc:subject>漢方医学</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">490.9</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">SC851</dc:subject>
+      <dc:description>複製</dc:description>
+      <dc:description>後藤艮山, 山脇東洋の肖像あり</dc:description>
+      <dc:description>限定版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100641156"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100139173"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190035089"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100513248"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1104076529"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001432666"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12755835"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>艮山吉益養寿院経験方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000105-I000012074</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：艮山吉益養寿院経験方</li><li>タイトル（読み）：コンザン ヨシマス ヨウジュイン ケイケンホウ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000105-I000012074</guid>
+      <pubDate>Mon, 17 Oct 2022 09:00:00 +0900</pubDate>
+      <dc:title>艮山吉益養寿院経験方</dc:title>
+      <dcndl:titleTranscription>コンザン ヨシマス ヨウジュイン ケイケンホウ</dcndl:titleTranscription>
+      <dc:extent>写 和大</dc:extent>
+      <dc:description>富士川文庫</dc:description>
+      <dc:description>画像あり</dc:description>
+      <dc:description>国文学研究資料館「日本語の歴史的典籍の国際共同研究ネットワーク構築計画」により電子化(平成28年度)</dc:description>
+      <dc:description>画像二次利用自由(所蔵表示)</dc:description>
+      <dc:description>京都大学附属図書館 Main Library, Kyoto University || https://rmda.kulib.kyoto-u.ac.jp/reuse</dc:description>
+      <rdfs:seeAlso rdf:resource="https://m.kulib.kyoto-u.ac.jp/webopac/RB00002626"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>差上申御請書之事 : （大生郷村の内、東叡山養寿院兼帯所天神社領百姓37軒の宗門人別改帳の差出につき）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I247330</link>
+      <description><![CDATA[<p>1750-01-29,<p><ul><li>タイトル：差上申御請書之事 : （大生郷村の内、東叡山養寿院兼帯所天神社領百姓37軒の宗門人別改帳の差出につき）</li><li>責任表示：岡田郡大生郷村善助他4名</li></ul>]]></description>
+      <author>岡田郡大生郷村善助他4名</author>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I247330</guid>
+      <pubDate>Tue, 29 Aug 2023 09:35:35 +0900</pubDate>
+      <dc:title>差上申御請書之事 : （大生郷村の内、東叡山養寿院兼帯所天神社領百姓37軒の宗門人別改帳の差出につき）</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1750-01-29</dc:date>
+      <dcterms:issued>寛延3（庚午）．正．29</dcterms:issued>
+      <dc:extent>1通</dc:extent>
+      <dc:description>状</dc:description>
+      <dc:description>文書・記録</dc:description>
+      <dc:description>古文書、E</dc:description>
+      <dc:description>坂野家文書－E/戸口－1．大生郷村のすがた</dc:description>
+      <dc:description>ウェブ公開</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/joso-city/catalog/mp011270-200010"/>
+      <dc:description> 1750-01-29</dc:description>
+    </item>
+    <item>
+      <title>三家方函、水病</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1571698600156206592</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：三家方函、水病</li></ul>]]></description>
+      <author>山脇東洋</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1571698600156206592</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>三家方函、水病</dc:title>
+      <dc:creator>山脇東洋</dc:creator>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1571698600156206592"/>
+      <dc:description>掲載誌：養寿院方鑑</dc:description>
+    </item>
+    <item>
+      <title>三家方函</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000105-I000012184</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：三家方函</li><li>タイトル（読み）：サンカ ホウカン</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000105-I000012184</guid>
+      <pubDate>Mon, 10 Oct 2022 09:00:00 +0900</pubDate>
+      <dc:title>三家方函</dc:title>
+      <dcndl:titleTranscription>サンカ ホウカン</dcndl:titleTranscription>
+      <dc:extent>写 和中</dc:extent>
+      <dc:description>富士川文庫</dc:description>
+      <dc:description>画像あり</dc:description>
+      <dc:description>収: 養寿院方鑑、蒲蘆亭方極、成章堂主剤(附: 家蔵方)</dc:description>
+      <dc:description>「京都大学附属図書館所蔵『富士川文庫』保存・公開のための修復・電子化事業-わが国の医学の歴史を俯瞰する研究基盤構築のために-( 機能強化経費)」により電子化(平成28年度)</dc:description>
+      <dc:description>画像二次利用自由(所蔵表示)</dc:description>
+      <dc:description>京都大学附属図書館 Main Library, Kyoto University || https://rmda.kulib.kyoto-u.ac.jp/reuse</dc:description>
+      <rdfs:seeAlso rdf:resource="https://m.kulib.kyoto-u.ac.jp/webopac/RB00002756"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>諸家経験雑治方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000105-I000012636</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：諸家経験雑治方</li><li>タイトル（読み）：ショカ ケイケン ザッチホウ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000105-I000012636</guid>
+      <pubDate>Mon, 10 Oct 2022 09:00:00 +0900</pubDate>
+      <dc:title>諸家経験雑治方</dc:title>
+      <dcndl:titleTranscription>ショカ ケイケン ザッチホウ</dcndl:titleTranscription>
+      <dc:extent>写 和中</dc:extent>
+      <dc:description>富士川文庫</dc:description>
+      <dc:description>画像あり</dc:description>
+      <dc:description>収: 養寿院方函、簡方類函、東洞先生腹診伝、壬戌筆記、小児虫にて病気とかよふすを知事</dc:description>
+      <dc:description>「京都大学附属図書館所蔵『富士川文庫』保存・公開のための修復・電子化事業-わが国の医学の歴史を俯瞰する研究基盤構築のために-( 機能強化経費)」により電子化(平成28年度)</dc:description>
+      <dc:description>画像二次利用自由(所蔵表示)</dc:description>
+      <dc:description>京都大学附属図書館 Main Library, Kyoto University || https://rmda.kulib.kyoto-u.ac.jp/reuse</dc:description>
+      <rdfs:seeAlso rdf:resource="https://m.kulib.kyoto-u.ac.jp/webopac/RB00003291"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>初代養寿院山脇玄心とその門人達の伝記に関する知見</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I24111109105225</link>
+      <description><![CDATA[<p>八木淳夫,1999,<p><ul><li>タイトル：初代養寿院山脇玄心とその門人達の伝記に関する知見</li><li>タイトル（読み）：ショダイ ヨウジュイン ヤマワキ ゲンシン ト ソノ モンジン タチ ノ デンキ ニ カンスル チケン</li><li>責任表示：八木淳夫 著</li><li>NDC(10)：289.1</li><li>NDC(9)：289.1</li></ul>]]></description>
+      <author>八木, 淳夫,八木淳夫 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I24111109105225</guid>
+      <pubDate>Sun, 17 Jul 2022 13:17:31 +0900</pubDate>
+      <dc:title>初代養寿院山脇玄心とその門人達の伝記に関する知見</dc:title>
+      <dcndl:titleTranscription>ショダイ ヨウジュイン ヤマワキ ゲンシン ト ソノ モンジン タチ ノ デンキ ニ カンスル チケン</dcndl:titleTranscription>
+      <dc:creator>八木, 淳夫</dc:creator>
+      <dcndl:creatorTranscription>ヤギ, アツオ</dcndl:creatorTranscription>
+      <dc:publisher>八木淳夫</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>1999</dcterms:issued>
+      <dc:extent>13p ; 21cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:OPLMARCNO">1109105225</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC10">289.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">289.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289.1</dc:subject>
+      <dc:description>啓迪第17号・1999年4月別刷</dc:description>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109105225"/>
+      <dc:description> 1999</dc:description>
+    </item>
+    <item>
+      <title>花井先生家蔵方　善寿院経験方　山脇茶談　養寿院方函</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000133-IorgnB115000023</link>
+      <description><![CDATA[<p>写,<p><ul><li>タイトル：花井先生家蔵方　善寿院経験方　山脇茶談　養寿院方函</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000133-IorgnB115000023</guid>
+      <pubDate>Tue, 8 Nov 2022 21:00:00 +0900</pubDate>
+      <dc:title>花井先生家蔵方　善寿院経験方　山脇茶談　養寿院方函</dc:title>
+      <dc:publisher>写</dc:publisher>
+      <dc:extent>25</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/shosho/detail/orgn/B115000023"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>府内備考</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010780005</link>
+      <description><![CDATA[<p>第52冊,写,<p><ul><li>タイトル：府内備考</li><li>タイトル（読み）：フナイ ビコウ</li><li>責任表示：三島政行,神谷信順 編</li></ul>]]></description>
+      <author>三島, 政行, 1780-1856,神谷, 信順, 江戸時代後期,三島政行,神谷信順 編</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010780005</guid>
+      <pubDate>Fri, 27 Oct 2017 01:21:54 +0900</pubDate>
+      <dc:title>府内備考</dc:title>
+      <dcndl:titleTranscription>フナイ ビコウ</dcndl:titleTranscription>
+      <dc:creator>三島, 政行, 1780-1856</dc:creator>
+      <dc:creator>神谷, 信順, 江戸時代後期</dc:creator>
+      <dcndl:creatorTranscription>ミシマ, マサユキ, 1780-1856</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>カミヤ, ノブヨリ, エド ジダイ コウキ</dcndl:creatorTranscription>
+      <dcndl:volume>第52冊</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010780005</dc:identifier>
+      <dc:subject>地誌</dc:subject>
+      <dc:description>続編</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010780005"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>(養寿院)方函 2巻・附録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000105-I000014076</link>
+      <description><![CDATA[<p>1816,<p><ul><li>タイトル：(養寿院)方函 2巻・附録</li><li>タイトル（読み）：ホウカン</li><li>責任表示：山脇東洋(尚徳)著</li></ul>]]></description>
+      <author>山脇東洋(尚徳)著,山脇東洋(尚徳)著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000105-I000014076</guid>
+      <pubDate>Mon, 17 Oct 2022 09:00:00 +0900</pubDate>
+      <dc:title>(養寿院)方函 2巻・附録</dc:title>
+      <dcndl:titleTranscription>ホウカン</dcndl:titleTranscription>
+      <dc:creator>山脇東洋(尚徳)著</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1816</dc:date>
+      <dc:extent>刊 和小</dc:extent>
+      <dc:description>富士川文庫</dc:description>
+      <dc:description>画像あり</dc:description>
+      <dc:description>「京都大学附属図書館所蔵『富士川文庫』保存・公開のための修復・電子化事業-わが国の医学の歴史を俯瞰する研究基盤構築のために-(機能強化経費)」により電子化(平成28年度)</dc:description>
+      <dc:description>画像二次利用自由(所蔵表示)</dc:description>
+      <dc:description>京都大学附属図書館 Main Library, Kyoto University || https://rmda.kulib.kyoto-u.ac.jp/reuse</dc:description>
+      <rdfs:seeAlso rdf:resource="https://m.kulib.kyoto-u.ac.jp/webopac/RB00005053"/>
+      <dc:description> 1816</dc:description>
+    </item>
+    <item>
+      <title>養壽院醫則</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000050-I000033209</link>
+      <description><![CDATA[<p>林芳兵衞,1841,<p><ul><li>タイトル：養壽院醫則</li><li>責任表示：山脇尚徳 著,[山脇]侃 校</li></ul>]]></description>
+      <author>山脇 東洋,山脇 東門,山脇尚徳 著,[山脇]侃 校</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000050-I000033209</guid>
+      <pubDate>Thu, 26 Aug 2021 09:00:00 +0900</pubDate>
+      <dc:title>養壽院醫則</dc:title>
+      <dc:creator>山脇 東洋</dc:creator>
+      <dc:creator>山脇 東門</dc:creator>
+      <dc:publisher>林芳兵衞</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1841</dc:date>
+      <dcterms:issued>天保12[1841]</dcterms:issued>
+      <dc:extent>1冊 ;26cm</dc:extent>
+      <dc:description>序・見返し題:醫則 題簽書名:養壽院醫則並附録</dc:description>
+      <dc:description>序:縣孝孺ほか</dc:description>
+      <dc:description>共同刊行:林權兵衞(京都) 養壽院藏板</dc:description>
+      <dc:description>和装</dc:description>
+      <dc:description>印記:岡氏弆藏,九折堂山田氏圖書之記,慎,齋</dc:description>
+      <dc:description>岡了允,山田業広旧蔵</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.wul.waseda.ac.jp/kotenseki/html/ya09/ya09_00899/"/>
+      <dc:description> 1841</dc:description>
+    </item>
+    <item>
+      <title>養寿院医則</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000143-I1000102963</link>
+      <description><![CDATA[<p>林芳兵衛,1841,<p><ul><li>タイトル：養寿院医則</li><li>責任表示：山脇尚徳著,山脇保校</li></ul>]]></description>
+      <author>山脇尚徳著,山脇保校</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000143-I1000102963</guid>
+      <pubDate>Fri, 6 Jun 2025 00:00:00 +0900</pubDate>
+      <dc:title>養寿院医則</dc:title>
+      <dc:publisher>林芳兵衛</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1841</dc:date>
+      <dcterms:issued>天保12年</dcterms:issued>
+      <dc:extent>1冊</dc:extent>
+      <dc:subject>医学</dc:subject>
+      <dc:description>形態 : 刊</dc:description>
+      <dc:description>種別 : 古典籍</dc:description>
+      <dc:description>目録名 : 茨城大学附属図書館蔵菅文庫国書目録</dc:description>
+      <dc:description>目録作成者 : 田口守作成|佐藤雅子・会沢孝子・磯崎慶子・中村陽子・田中吉子協力|茨城大学附属図書館編集発行</dc:description>
+      <dc:description>目録作成年 : 昭和56年（1981）</dc:description>
+      <rdfs:seeAlso rdf:resource="https://digitalcollection.lib.ibaraki.ac.jp/kan-kokusho/001000102963/"/>
+      <dc:description> 1841</dc:description>
+    </item>
+    <item>
+      <title>養寿院医則</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000135-I160240</link>
+      <description><![CDATA[<p>[京都]養壽院,<p><ul><li>タイトル：養寿院医則</li><li>責任表示：山脇尚德著, [山脇]侃校</li></ul>]]></description>
+      <author>山脇尚德著, [山脇]侃校</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000135-I160240</guid>
+      <pubDate>Mon, 19 Feb 2024 09:00:00 +0900</pubDate>
+      <dc:title>養寿院医則</dc:title>
+      <dcndl:edition>刊本</dcndl:edition>
+      <dc:publisher>[京都]養壽院</dc:publisher>
+      <dcterms:issued>寛延4(1751)序</dcterms:issued>
+      <dc:extent>1（冊）</dc:extent>
+      <dc:description>見返しに「賜養壽院」の朱印あり</dc:description>
+      <dc:description>巻末に「附録」あり</dc:description>
+      <dc:description>請求記号：690.9-202-W-1</dc:description>
+      <rdfs:seeAlso rdf:resource="https://da.library.ryukoku.ac.jp/page/160240"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>「養寿院方凾」　全</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000140-I30766</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：「養寿院方凾」　全</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000140-I30766</guid>
+      <pubDate>Mon, 29 May 2023 00:31:12 +0900</pubDate>
+      <dc:title>「養寿院方凾」　全</dc:title>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <rdfs:seeAlso rdf:resource="https://archive.otepia.kochi.jp/webmuseum/detail?cls=history_data&amp;pkey=LH202200082"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>養寿院経験法</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000135-I190239</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：養寿院経験法</li><li>責任表示：[山脇東洋著]</li></ul>]]></description>
+      <author>[山脇東洋著]</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000135-I190239</guid>
+      <pubDate>Mon, 19 Feb 2024 09:00:00 +0900</pubDate>
+      <dc:title>養寿院経験法</dc:title>
+      <dcndl:edition>写本</dcndl:edition>
+      <dc:extent>1（冊）</dc:extent>
+      <dc:description>写本</dc:description>
+      <dc:description>朱墨の書入れあり</dc:description>
+      <dc:description>「養壽院山脇先生校正方凾」合綴</dc:description>
+      <dc:description>巻末に「…壬辰秋九月十有二日平安東洞熟書之終矣/日本豊州/吉良三白」とあり</dc:description>
+      <dc:description>請求記号：690.9-274-W-1</dc:description>
+      <rdfs:seeAlso rdf:resource="https://da.library.ryukoku.ac.jp/page/190239"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>養寿院玄冲門人録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1571417125681360896</link>
+      <description><![CDATA[<p>1980,<p><ul><li>タイトル：養寿院玄冲門人録</li></ul>]]></description>
+      <author>京都府医師会編</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1571417125681360896</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>養寿院玄冲門人録</dc:title>
+      <dc:creator>京都府医師会編</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1571417125681360896"/>
+      <dc:description>掲載誌：京都の医学史 1980</dc:description>
+    </item>
+    <item>
+      <title>養壽院様御葬送諸雑記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000113-ISPL0118529</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：養壽院様御葬送諸雑記</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000113-ISPL0118529</guid>
+      <pubDate>Thu, 24 Mar 2022 09:00:00 +0900</pubDate>
+      <dc:title>養壽院様御葬送諸雑記</dc:title>
+      <dcterms:issued>天保6年</dcterms:issued>
+      <dc:extent>1冊:14cm</dc:extent>
+      <dc:description>家制・習俗:吉凶行事:『佐賀県立図書館所蔵蓮池鍋島家文庫目録・倉永家資料目録』（佐賀県立図書館　1985年）</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.sagalibdb.jp/komonjo/detail?id=18529"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>養壽院〓則 1巻附録1巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I2612110926283</link>
+      <description><![CDATA[<p>林芳兵衞,1841,<p><ul><li>タイトル：養壽院〓則 1巻附録1巻</li><li>タイトル（読み）：ヨウジュイン イソク</li><li>責任表示：山脇 東洋,山脇 東門</li><li>NDC(9)：490.9</li></ul>]]></description>
+      <author>山脇 東洋,山脇 東門,山脇 東洋,山脇 東門</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I2612110926283</guid>
+      <pubDate>Mon, 24 Mar 2025 09:00:00 +0900</pubDate>
+      <dc:title>養壽院〓則 1巻附録1巻</dc:title>
+      <dcndl:titleTranscription>ヨウジュイン イソク</dcndl:titleTranscription>
+      <dc:creator>山脇 東洋</dc:creator>
+      <dc:creator>山脇 東門</dc:creator>
+      <dcndl:creatorTranscription>ヤマワキ トウヨウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤマワキ トウモン</dcndl:creatorTranscription>
+      <dc:publisher>林芳兵衞</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1841</dc:date>
+      <dc:extent>1冊 ; 26cm</dc:extent>
+      <dc:subject>東洋医学</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">490.9</dc:subject>
+      <dc:description>序・見返しの書名: 〓則</dc:description>
+      <dc:description>刊本</dc:description>
+      <dc:description>原本: 寛延4序刊</dc:description>
+      <dc:description>平安養壽院藏板</dc:description>
+      <dc:description>印記: 吉川藏</dc:description>
+      <dc:description>共同刊行: 林權兵衞</dc:description>
+      <dc:description>和装</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opacs.pref.kyoto.lg.jp/mylimedio/search/book.do?bibid=338492"/>
+      <dc:description> 1841</dc:description>
+    </item>
+  </channel>
+</rss>

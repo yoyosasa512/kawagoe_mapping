@@ -1,0 +1,515 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>新河岸川 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E6%96%B0%E6%B2%B3%E5%B2%B8%E5%B7%9D&amp;cnt=20</link>
+    <description>Search results for title=新河岸川 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>199</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>荒川・新河岸川流域下内間木村の「村差出明細帳」 : 当村ニ田方一向無御座候</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033057778</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：荒川・新河岸川流域下内間木村の「村差出明細帳」 : 当村ニ田方一向無御座候</li><li>タイトル（読み）：アラカワ ・ シンガシガワ リュウイキ カ ナイ カン キムラ ノ 「 ムラ サシダシ メイサイチョウ 」 : トウ ムラ ニ タガタ イッコウ ムギョザコウ</li><li>責任表示：清水 正彦</li></ul>]]></description>
+      <author>清水 正彦,清水 正彦</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033057778</guid>
+      <pubDate>Fri, 22 Sep 2023 20:20:23 +0900</pubDate>
+      <dc:title>荒川・新河岸川流域下内間木村の「村差出明細帳」 : 当村ニ田方一向無御座候</dc:title>
+      <dcndl:titleTranscription>アラカワ ・ シンガシガワ リュウイキ カ ナイ カン キムラ ノ 「 ムラ サシダシ メイサイチョウ 」 : トウ ムラ ニ タガタ イッコウ ムギョザコウ</dcndl:titleTranscription>
+      <dc:creator>清水 正彦</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033057778</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033057778"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520860532183760896"/>
+      <dc:description>掲載誌：朝霞市博物館研究紀要 13 p.49-59</dc:description>
+    </item>
+    <item>
+      <title>荒川水系新河岸川及びその支流の水質・生物調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116643221</link>
+      <description><![CDATA[<p>埼玉県西部第一広域行政推進協議会公害部会（川越市企画財政部企画課内）,1984,<p><ul><li>タイトル：荒川水系新河岸川及びその支流の水質・生物調査報告書</li><li>タイトル（読み）：アラカワ　スイケイ　シンガシガワ　オヨビ　ソノ　シリュウ　ノ　スイシツ　セイブツ　チョウサ　ホウコクショ</li><li>責任表示：埼玉県西部第一広域行政推進協議会公害部会 〔編〕</li></ul>]]></description>
+      <author>埼玉県西部第一広域行政推進協議会公害部会,埼玉県西部第一広域行政推進協議会公害部会 〔編〕</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116643221</guid>
+      <pubDate>Sat, 25 Nov 2000 00:00:00 +0900</pubDate>
+      <dc:title>荒川水系新河岸川及びその支流の水質・生物調査報告書</dc:title>
+      <dcndl:titleTranscription>アラカワ　スイケイ　シンガシガワ　オヨビ　ソノ　シリュウ　ノ　スイシツ　セイブツ　チョウサ　ホウコクショ</dcndl:titleTranscription>
+      <dc:creator>埼玉県西部第一広域行政推進協議会公害部会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン, セイブ, ダイイチ, コウイキ, ギョウセイ, スイシン, キョウギカイ, コウガイ, ブカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県西部第一広域行政推進協議会公害部会（川越市企画財政部企画課内）</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1984</dc:date>
+      <dcterms:issued>１９８４．３</dcterms:issued>
+      <dc:extent>５８ｐ ; ２６ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">623560600</dc:identifier>
+      <dc:subject>入間郡</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116643221"/>
+      <dc:description> 1984</dc:description>
+    </item>
+    <item>
+      <title>荒川水系新河岸川・柳瀬川浸水想定区域図 : １：５００００</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121100567482</link>
+      <description><![CDATA[<p>埼玉県県土整備部河川砂防課,2006,<p><ul><li>タイトル：荒川水系新河岸川・柳瀬川浸水想定区域図 : １：５００００</li><li>タイトル（読み）：アラカワ　スイケイ　シンガシガワ　ヤナセガワ　シンスイ　ソウテイ　クイキズ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121100567482</guid>
+      <pubDate>Sun, 23 Jan 2000 00:00:00 +0900</pubDate>
+      <dc:title>荒川水系新河岸川・柳瀬川浸水想定区域図 : １：５００００</dc:title>
+      <dcndl:titleTranscription>アラカワ　スイケイ　シンガシガワ　ヤナセガワ　シンスイ　ソウテイ　クイキズ</dcndl:titleTranscription>
+      <dc:publisher>埼玉県県土整備部河川砂防課</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>２００６．５</dcterms:issued>
+      <dc:extent>１枚 ; ６０×８５ｃｍ</dc:extent>
+      <dc:subject>北足立郡</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100567482"/>
+      <dc:description> 2006</dc:description>
+    </item>
+    <item>
+      <title>板橋区洪水ハザードマップ 白子川・新河岸川・石神井川版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004322950</link>
+      <description><![CDATA[<p>[東京都]板橋区防災課,2003,<p><ul><li>タイトル：板橋区洪水ハザードマップ 白子川・新河岸川・石神井川版</li><li>タイトル（読み）：イタバシク コウズイ ハザード マップ : シラコガワ シンガシガワ シャクジイガワバン</li><li>NDC(9)：369.33</li></ul>]]></description>
+      <author>東京都板橋区</author>
+      <category>地図</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000004322950</guid>
+      <pubDate>Wed, 25 May 2011 02:54:48 +0900</pubDate>
+      <dc:title>板橋区洪水ハザードマップ 白子川・新河岸川・石神井川版</dc:title>
+      <dcndl:titleTranscription>イタバシク コウズイ ハザード マップ : シラコガワ シンガシガワ シャクジイガワバン</dcndl:titleTranscription>
+      <dc:creator>東京都板橋区</dc:creator>
+      <dcndl:creatorTranscription>トウキョウト イタバシク</dcndl:creatorTranscription>
+      <dc:publisher>[東京都]板橋区防災課</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.8</dcterms:issued>
+      <dc:extent>地図 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000004322950</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21057246</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YG35-Z</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">369.33</dc:subject>
+      <dc:description>裏面: 荒川版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000004322950"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>板橋区洪水ハザードマップ : 新河岸川・石神井・白子川版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I13111106749825</link>
+      <description><![CDATA[<p>板橋区防災課,2005,<p><ul><li>タイトル：板橋区洪水ハザードマップ : 新河岸川・石神井・白子川版</li><li>タイトル（読み）：イタバシク コウズイ ハザード マップ : シンガシガワ シャクジイ シラコガワ バン</li><li>責任表示：[板橋区防災課 編]</li></ul>]]></description>
+      <author>[板橋区防災課,[板橋区防災課 編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I13111106749825</guid>
+      <pubDate>Sat, 25 Apr 2020 10:11:41 +0900</pubDate>
+      <dc:title>板橋区洪水ハザードマップ : 新河岸川・石神井・白子川版</dc:title>
+      <dcndl:titleTranscription>イタバシク コウズイ ハザード マップ : シンガシガワ シャクジイ シラコガワ バン</dcndl:titleTranscription>
+      <dc:creator>[板橋区防災課</dc:creator>
+      <dc:publisher>板橋区防災課</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+      <dcterms:issued>2005.7</dcterms:issued>
+      <dc:extent>地図1枚 色刷 ; 42×60cm(折りたたみ21cm)</dc:extent>
+      <dc:description>1:20000</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1106749825"/>
+      <dc:description> 2005</dc:description>
+    </item>
+    <item>
+      <title>稲葉峯子歌集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023268137</link>
+      <description><![CDATA[<p>砂子屋書房,2011,978-4-7904-1371-4<p><ul><li>タイトル：稲葉峯子歌集</li><li>タイトル（読み）：イナバ ミネコ カシュウ</li><li>責任表示：稲葉峯子 著</li><li>シリーズ名：現代短歌文庫 ; 94</li><li>シリーズ名（読み）：ゲンダイ タンカ ブンコ ; 94</li><li>NDC(9)：911.168</li></ul>]]></description>
+      <author>稲葉, 峯子, 1930-2013,稲葉峯子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023268137</guid>
+      <pubDate>Tue, 28 May 2024 18:53:46 +0900</pubDate>
+      <dc:title>稲葉峯子歌集</dc:title>
+      <dcndl:titleTranscription>イナバ ミネコ カシュウ</dcndl:titleTranscription>
+      <dc:creator>稲葉, 峯子, 1930-2013</dc:creator>
+      <dcndl:creatorTranscription>イナバ, ミネコ, 1930-2013</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>現代短歌文庫 ; 94</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ゲンダイ タンカ ブンコ ; 94</dcndl:seriesTitleTranscription>
+      <dc:publisher>砂子屋書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.11</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>154p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7904-1371-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023268137</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22040524</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">145032700</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH191</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">911.168</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152010470"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811505192"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1101232926"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023268137"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00206741"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB09592191"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>入間川・新河岸川水系における生物相と水質について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859810914325</link>
+      <description><![CDATA[<p>埼玉県公害センター : 埼玉大学教育学部生物学教室,<p><ul><li>タイトル：入間川・新河岸川水系における生物相と水質について</li><li>タイトル（読み）：イルマガワ・シンガシガワ スイケイ ニオケル セイブツソウ ト スイシツ ニツイテ</li></ul>]]></description>
+      <author>埼玉県公害センター,埼玉大学教育学部生物学教室</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859810914325</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>入間川・新河岸川水系における生物相と水質について</dc:title>
+      <dcndl:titleTranscription>イルマガワ・シンガシガワ スイケイ ニオケル セイブツソウ ト スイシツ ニツイテ</dcndl:titleTranscription>
+      <dc:creator>埼玉県公害センター</dc:creator>
+      <dc:creator>埼玉大学教育学部生物学教室</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン コウガイ センター</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>サイタマ ダイガク キョウイク ガクブ セイブツガク キョウシツ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県公害センター : 埼玉大学教育学部生物学教室</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dcterms:issued>[197-]-</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB24509637</dc:identifier>
+      <dc:subject>入間川</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">517.3</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ME352</dc:subject>
+      <dc:description>[1]は昭和49年に行われた調査の報告書</dc:description>
+      <dc:description>2は昭和52年に行われた調査の報告書 (昭和49年につづく調査)</dc:description>
+      <dc:description>[1]表紙および2 p1による責任表示: 埼玉県公害センター, 埼玉大学教育学部生物学教室</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB24509637"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>雨水貯留浸透に係わる事業及び制度紹介(No.70)新河岸川流域水循環マスタープランの策定</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029861192</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：雨水貯留浸透に係わる事業及び制度紹介(No.70)新河岸川流域水循環マスタープランの策定</li><li>タイトル（読み）：ウスイ チョリュウ シントウ ニ カカワル ジギョウ オヨビ セイド ショウカイ(No.70)シンガシガワ リュウイキスイ ジュンカン マスター プラン ノ サクテイ</li><li>責任表示：松本 将能,渡邊 晋也,矢部 隆幸,宇土 祐一,内山 雄介,荒川 泰二</li></ul>]]></description>
+      <author>松本 将能,渡邊 晋也,矢部 隆幸,宇土 祐一,内山 雄介,荒川 泰二,松本 将能,渡邊 晋也,矢部 隆幸,宇土 祐一,内山 雄介,荒川 泰二</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029861192</guid>
+      <pubDate>Tue, 8 Aug 2023 19:35:58 +0900</pubDate>
+      <dc:title>雨水貯留浸透に係わる事業及び制度紹介(No.70)新河岸川流域水循環マスタープランの策定</dc:title>
+      <dcndl:titleTranscription>ウスイ チョリュウ シントウ ニ カカワル ジギョウ オヨビ セイド ショウカイ(No.70)シンガシガワ リュウイキスイ ジュンカン マスター プラン ノ サクテイ</dcndl:titleTranscription>
+      <dc:creator>松本 将能</dc:creator>
+      <dc:creator>渡邊 晋也</dc:creator>
+      <dc:creator>矢部 隆幸</dc:creator>
+      <dc:creator>宇土 祐一</dc:creator>
+      <dc:creator>内山 雄介</dc:creator>
+      <dc:creator>荒川 泰二</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029861192</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZN5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029861192"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980705534614016"/>
+      <dc:description>掲載誌：水循環 = Journal of hydrological system : 貯留と浸透 / 雨水貯留浸透技術協会 編 p.34-38</dc:description>
+    </item>
+    <item>
+      <title>うつくしの街川越 : 小江戸成長物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</link>
+      <description><![CDATA[<p>一色出版,2019,978-4-909383-11-2<p><ul><li>タイトル：うつくしの街川越 : 小江戸成長物語</li><li>タイトル（読み）：ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</li><li>責任表示：山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</li><li>NDC(10)：213.4</li></ul>]]></description>
+      <author>山野, 清二郎, 1942-,松尾, 鉄城,寺島, 悦恩, 1948-,小林, 範子,山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</guid>
+      <pubDate>Mon, 26 Aug 2019 22:19:14 +0900</pubDate>
+      <dc:title>うつくしの街川越 : 小江戸成長物語</dc:title>
+      <dcndl:titleTranscription>ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dc:creator>松尾, 鉄城</dc:creator>
+      <dc:creator>寺島, 悦恩, 1948-</dc:creator>
+      <dc:creator>小林, 範子</dc:creator>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツオ, テツキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシマ, エツオ, 1948-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コバヤシ, ノリコ</dcndl:creatorTranscription>
+      <dc:publisher>一色出版</dc:publisher>
+      <dc:publisher>悠書館 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909383-11-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029753704</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23253833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33941694</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198062857"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2921871&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153387240"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000946206"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120277306"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110364271"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111545867"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029753704"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4073955"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033620311"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13472745"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB28780530"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784909383112"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>江戸周辺における商品流通の諸段階--新河岸川舟運の展開をめぐって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I615428</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸周辺における商品流通の諸段階--新河岸川舟運の展開をめぐって</li><li>タイトル（読み）：エド シュウヘン ニ オケル ショウヒン リュウツウ ノ ショ ダンカイ シンガシガワ シュウウン ノ テンカイ オ メグッテ</li><li>責任表示：児玉 彰三郎</li></ul>]]></description>
+      <author>児玉 彰三郎,児玉 彰三郎</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I615428</guid>
+      <pubDate>Wed, 22 Jul 2015 01:21:24 +0900</pubDate>
+      <dc:title>江戸周辺における商品流通の諸段階--新河岸川舟運の展開をめぐって</dc:title>
+      <dcndl:titleTranscription>エド シュウヘン ニ オケル ショウヒン リュウツウ ノ ショ ダンカイ シンガシガワ シュウウン ノ テンカイ オ メグッテ</dcndl:titleTranscription>
+      <dc:creator>児玉 彰三郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">615428</dc:identifier>
+      <dc:subject>近世</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZG1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I615428"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520572357227620224"/>
+      <dc:description>掲載誌：歴史評論 = Historical journal / 歴史科学協議会 編(通号 111) p.????</dc:description>
+    </item>
+    <item>
+      <title>江戸周辺における商品流通の諸段階 : 新河岸川舟運の展開をめぐって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116686881</link>
+      <description><![CDATA[<p>〔埼玉県立浦和図書館（製作）〕,196?,<p><ul><li>タイトル：江戸周辺における商品流通の諸段階 : 新河岸川舟運の展開をめぐって</li><li>タイトル（読み）：エド　シュウヘン　ニ　オケル　ショウヒン　リュウツウ　ノ　ショダンカイ : シンガシガワ　シュウウン　ノ　テンカイ　オ　メグッテ</li><li>責任表示：児玉彰三郎 〔著〕</li></ul>]]></description>
+      <author>児玉, 彰三郎,児玉彰三郎 〔著〕</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116686881</guid>
+      <pubDate>Sun, 23 Mar 2025 21:45:52 +0900</pubDate>
+      <dc:title>江戸周辺における商品流通の諸段階 : 新河岸川舟運の展開をめぐって</dc:title>
+      <dcndl:titleTranscription>エド　シュウヘン　ニ　オケル　ショウヒン　リュウツウ　ノ　ショダンカイ : シンガシガワ　シュウウン　ノ　テンカイ　オ　メグッテ</dcndl:titleTranscription>
+      <dc:creator>児玉, 彰三郎</dc:creator>
+      <dcndl:creatorTranscription>コダマ，ショウザブロウ</dcndl:creatorTranscription>
+      <dc:publisher>〔埼玉県立浦和図書館（製作）〕</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">196?</dc:date>
+      <dcterms:issued>〔１９６－〕</dcterms:issued>
+      <dc:extent>〔１５〕ｐ ; ２１ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">624499700</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>「歴史評論」１１１号　１９５９年１１月刊ｐ１２－２６の複写</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116686881"/>
+      <dc:description> 196?</dc:description>
+    </item>
+    <item>
+      <title>河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859750971835</link>
+      <description><![CDATA[<p>ふじみ野市立上福岡歴史民俗資料館,2008,<p><ul><li>タイトル：河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展</li><li>タイトル（読み）：カシバ ト カシドウ : シンカシガワ シュウウン オ チュウシン ニ : ダイ23カイ トクベツテン</li><li>責任表示：ふじみ野市立上福岡歴史民俗資料館編</li></ul>]]></description>
+      <author>ふじみ野市立上福岡歴史民俗資料館,ふじみ野市立上福岡歴史民俗資料館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859750971835</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展</dc:title>
+      <dcndl:titleTranscription>カシバ ト カシドウ : シンカシガワ シュウウン オ チュウシン ニ : ダイ23カイ トクベツテン</dcndl:titleTranscription>
+      <dc:creator>ふじみ野市立上福岡歴史民俗資料館</dc:creator>
+      <dcndl:creatorTranscription>フジミノ シリツ カミフクオカ レキシ ミンゾク シリョウカン</dcndl:creatorTranscription>
+      <dc:publisher>ふじみ野市立上福岡歴史民俗資料館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA87599433</dc:identifier>
+      <dc:subject>展覧会カタログ</dc:subject>
+      <dc:description>展覧会カタログ</dc:description>
+      <dc:description>会期: 平成20年9月27日(土)〜11月25日(日)</dc:description>
+      <dc:description>タイトルは表紙による</dc:description>
+      <dc:description>折り込図1枚</dc:description>
+      <dc:description>河川整備関係年表: p3</dc:description>
+      <dc:description>展示資料目録: p31-32</dc:description>
+      <dc:description>引用・参考文献: 巻末</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100883600"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA87599433"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展図録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009747537</link>
+      <description><![CDATA[<p>ふじみ野市立上福岡歴史民俗資料館,2008,<p><ul><li>タイトル：河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展図録</li><li>タイトル（読み）：カシバ ト カシミチ : シンガシガワ シュウウン オ チュウシン ニ : ダイ23カイ トクベツテン ズロク</li><li>責任表示：ふじみ野市立上福岡歴史民俗資料館 編</li><li>NDC(9)：684.02134</li></ul>]]></description>
+      <author>上福岡歴史民俗資料館 (ふじみ野市立),ふじみ野市立上福岡歴史民俗資料館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009747537</guid>
+      <pubDate>Fri, 21 Nov 2008 22:59:47 +0900</pubDate>
+      <dc:title>河岸場と河岸道 : 新河岸川舟運を中心に : 第23回特別展図録</dc:title>
+      <dcndl:titleTranscription>カシバ ト カシミチ : シンガシガワ シュウウン オ チュウシン ニ : ダイ23カイ トクベツテン ズロク</dcndl:titleTranscription>
+      <dc:creator>上福岡歴史民俗資料館 (ふじみ野市立)</dc:creator>
+      <dcndl:creatorTranscription>カミフクオカ レキシ ミンゾク シリョウカン (フジミノ シリツ)</dcndl:creatorTranscription>
+      <dc:publisher>ふじみ野市立上福岡歴史民俗資料館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.9</dcterms:issued>
+      <dc:extent>32p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009747537</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21496971</dc:identifier>
+      <dc:subject>河川運送--埼玉県--ふじみ野市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DK175</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">684.02134</dc:subject>
+      <dc:description>会期・会場: 平成20年9月27日-11月23日 ふじみ野市立上福岡歴史民俗資料館ほか</dc:description>
+      <dc:description>折り込1枚</dc:description>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009747537"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>河岸場の今昔 : 新河岸川舟運と舟問屋「伊勢安」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384802098078</link>
+      <description><![CDATA[<p>武州新河岸川舟運史料刊行会,1973,<p><ul><li>タイトル：河岸場の今昔 : 新河岸川舟運と舟問屋「伊勢安」</li><li>タイトル（読み）：カシバ ノ コンジャク : シン カシセン シュウウン ト フナドイヤ イセヤス</li><li>責任表示：齋藤貞夫編著</li></ul>]]></description>
+      <author>齋藤, 貞夫,齋藤貞夫編著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384802098078</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>河岸場の今昔 : 新河岸川舟運と舟問屋「伊勢安」</dc:title>
+      <dcndl:titleTranscription>カシバ ノ コンジャク : シン カシセン シュウウン ト フナドイヤ イセヤス</dcndl:titleTranscription>
+      <dc:creator>齋藤, 貞夫</dc:creator>
+      <dcndl:creatorTranscription>サイトウ, サダオ</dcndl:creatorTranscription>
+      <dc:publisher>武州新河岸川舟運史料刊行会</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1973</dc:date>
+      <dcterms:issued>1973.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN08944130</dc:identifier>
+      <dc:subject>伊勢安</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN08944130"/>
+      <dc:description> 1973</dc:description>
+    </item>
+    <item>
+      <title>河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116263474</link>
+      <description><![CDATA[<p>武州新河岸川舟運史料刊行会,1973,<p><ul><li>タイトル：河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</li><li>タイトル（読み）：カシバ　ノ　コンジャク : シンガシガワ　シュウウン　ト　フナドンヤ　イセアン</li><li>責任表示：斎藤貞夫 編著</li></ul>]]></description>
+      <author>斎藤, 貞夫,斎藤貞夫 編著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116263474</guid>
+      <pubDate>Mon, 13 Nov 2000 00:00:00 +0900</pubDate>
+      <dc:title>河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</dc:title>
+      <dcndl:titleTranscription>カシバ　ノ　コンジャク : シンガシガワ　シュウウン　ト　フナドンヤ　イセアン</dcndl:titleTranscription>
+      <dc:creator>斎藤, 貞夫</dc:creator>
+      <dcndl:creatorTranscription>サイトウ, サダオ</dcndl:creatorTranscription>
+      <dc:publisher>武州新河岸川舟運史料刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1973</dc:date>
+      <dcterms:issued>１９７３</dcterms:issued>
+      <dc:extent>８５ｐ ; ２２ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">624533800</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116263474"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1101396850"/>
+      <dc:description> 1973</dc:description>
+    </item>
+    <item>
+      <title>河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11211989043</link>
+      <description><![CDATA[<p>武州新河川舟運史料刊行会,1973,<p><ul><li>タイトル：河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</li><li>タイトル（読み）：カシバ ノ コンジャク : シンガシガワ シュウウン ト フナドンヤ イセヤス</li><li>責任表示：斎藤 貞夫 編著</li><li>NDC(10)：684.02134</li><li>NDC(9)：684.02134</li></ul>]]></description>
+      <author>斎藤 貞夫,斎藤 貞夫 編著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11211989043</guid>
+      <pubDate>Tue, 8 Jan 2019 09:00:00 +0900</pubDate>
+      <dc:title>河岸場の今昔 : 新河岸川舟運と船問屋「伊勢安」</dc:title>
+      <dcndl:titleTranscription>カシバ ノ コンジャク : シンガシガワ シュウウン ト フナドンヤ イセヤス</dcndl:titleTranscription>
+      <dc:creator>斎藤 貞夫</dc:creator>
+      <dcndl:creatorTranscription>サイトウ,サダオ</dcndl:creatorTranscription>
+      <dc:publisher>武州新河川舟運史料刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1973</dc:date>
+      <dcterms:issued>1973</dcterms:issued>
+      <dcndl:price>¥1000</dcndl:price>
+      <dc:extent>85p ; 21cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">94213544</dc:identifier>
+      <dc:subject>河川運送</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">684.02134</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">684.02134</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">684.02134</dc:subject>
+      <dc:description>武州新河岸川五河岸年表:p73〜84</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1989043&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154877833"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <dc:description> 1973</dc:description>
+    </item>
+    <item>
+      <title>河川情報収集調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I12111000101321844</link>
+      <description><![CDATA[<p>昭和54年度,関東地方建設局,1980-03,<p><ul><li>タイトル：河川情報収集調査報告書</li><li>タイトル（読み）：カセン ジョウホウ シュウシュウ チョウサ ホウコクショ</li><li>各巻タイトル：鶴見川 新河岸川 真間川</li><li>各巻タイトル（読み）：ツルミガワ シンガシガワ ママガワ</li><li>NDC(9)：517.213</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I12111000101321844</guid>
+      <pubDate>Sat, 21 Mar 2026 09:05:30 +0900</pubDate>
+      <dc:title>河川情報収集調査報告書</dc:title>
+      <dcndl:titleTranscription>カセン ジョウホウ シュウシュウ チョウサ ホウコクショ</dcndl:titleTranscription>
+      <dcndl:volume>昭和54年度</dcndl:volume>
+      <dcndl:volumeTitle>鶴見川 新河岸川 真間川</dcndl:volumeTitle>
+      <dcndl:volumeTitleTranscription>ツルミガワ シンガシガワ ママガワ</dcndl:volumeTitleTranscription>
+      <dc:publisher>関東地方建設局</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1980-03</dc:date>
+      <dcterms:issued>1980.3</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>106p</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">26200024</dc:identifier>
+      <dc:subject>河川-関東地方</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">517.213</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000101321844"/>
+      <dc:description> 1980-03</dc:description>
+    </item>
+    <item>
+      <title>河川におけるビスフェノールA</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390282680146232064</link>
+      <description><![CDATA[<p>2003,<p><ul><li>タイトル：河川におけるビスフェノールA</li></ul>]]></description>
+      <author>中村 佳代,福井 吉孝,太田 裕史,柳沢 哲士</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390282680146232064</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>河川におけるビスフェノールA</dc:title>
+      <dc:creator>中村 佳代</dc:creator>
+      <dc:creator>福井 吉孝</dc:creator>
+      <dc:creator>太田 裕史</dc:creator>
+      <dc:creator>柳沢 哲士</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003</dcterms:issued>
+      <dc:subject>Endocrine disrupters</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.2208/prohe.47.1093"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390282680146232064"/>
+      <dc:description>掲載誌：水工学論文集 2003 p.1093-1098</dc:description>
+    </item>
+    <item>
+      <title>河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I1121188557</link>
+      <description><![CDATA[<p>埼玉県公害センター,<p><ul><li>タイトル：河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</li><li>タイトル（読み）：カセン ノ セイブツ チョウサ ホウクショ : イルマガワ シンガシガワ スイケイ ニ オケル セイブツソウ ト スイシツ ニ ツイテ</li><li>NDC(9)：462.134</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I1121188557</guid>
+      <pubDate>Tue, 8 Jan 2019 09:00:00 +0900</pubDate>
+      <dc:title>河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</dc:title>
+      <dcndl:titleTranscription>カセン ノ セイブツ チョウサ ホウクショ : イルマガワ シンガシガワ スイケイ ニ オケル セイブツソウ ト スイシツ ニ ツイテ</dcndl:titleTranscription>
+      <dc:publisher>埼玉県公害センター</dc:publisher>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>89p ; 25cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">462.134</dc:subject>
+      <dc:description>共同刊行:埼玉大学教育学部生物学教室</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=188557&amp;ctg=1"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007952874</link>
+      <description><![CDATA[<p>[埼玉県公害センター],<p><ul><li>タイトル：河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</li><li>タイトル（読み）：カセン ノ セイブツ チョウサ ホウコクショ</li><li>責任表示：埼玉県公害センター, 埼玉大学教育学部生物学教室 編</li></ul>]]></description>
+      <author>埼玉県公害センター, 埼玉大学教育学部生物学教室 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007952874</guid>
+      <pubDate>Mon, 24 Oct 2005 20:06:39 +0900</pubDate>
+      <dc:title>河川の生物調査報告書 : 入間川・新河岸川水系における生物相と水質について</dc:title>
+      <dcndl:titleTranscription>カセン ノ セイブツ チョウサ ホウコクショ</dcndl:titleTranscription>
+      <dc:publisher>[埼玉県公害センター]</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dcterms:issued>[19--]</dcterms:issued>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007952874</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20888023</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y121</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007952874"/>
+      <dc:description/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,565 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越 神社 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A+%E7%A5%9E%E7%A4%BE&amp;cnt=20</link>
+    <description>Search results for title=川越 神社 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>53</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>朝日之舎日記 : 川越氷川神社祠官山田衛居日記集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001443247</link>
+      <description><![CDATA[<p>川越市,1979,<p><ul><li>タイトル：朝日之舎日記 : 川越氷川神社祠官山田衛居日記集</li><li>タイトル（読み）：アサヒノヤ ニッキ</li><li>責任表示：山田衛居 [著],川越市総務部市史編纂室 編</li></ul>]]></description>
+      <author>山田, 衛居, 1849-,川越市,山田衛居 [著],川越市総務部市史編纂室 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001443247</guid>
+      <pubDate>Mon, 14 Apr 1980 09:00:00 +0900</pubDate>
+      <dc:title>朝日之舎日記 : 川越氷川神社祠官山田衛居日記集</dc:title>
+      <dcndl:titleTranscription>アサヒノヤ ニッキ</dcndl:titleTranscription>
+      <dc:creator>山田, 衛居, 1849-</dc:creator>
+      <dc:creator>川越市</dc:creator>
+      <dcndl:creatorTranscription>ヤマダ, モリイ, 1849-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>カワゴエシ</dcndl:creatorTranscription>
+      <dc:publisher>川越市</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.11</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>321p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001443247</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">80012680</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116282870"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100100491"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001443247"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9641834"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN05393085"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>愛宕神社古墳北遺跡</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070988</link>
+      <description><![CDATA[<p>川越市遺跡調査会,1989-10-31,<p><ul><li>タイトル：愛宕神社古墳北遺跡</li><li>責任表示：小泉,功,田中,信</li></ul>]]></description>
+      <author>小泉,功,田中,信,小泉,功,田中,信</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070988</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>愛宕神社古墳北遺跡</dc:title>
+      <dc:creator>小泉,功</dc:creator>
+      <dc:creator>田中,信</dc:creator>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1989-10-31</dc:date>
+      <dcterms:issued>1989-10-31</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49735"/>
+      <dc:description>掲載誌：川越市遺跡調査会報告書 1989-10-31</dc:description>
+    </item>
+    <item>
+      <title>愛宕神社古墳遺跡&lt;第2次調査&gt;新宿2丁目遺跡&lt;第1次調査&gt;</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11211677690</link>
+      <description><![CDATA[<p>川越市遺跡調査会,2002,<p><ul><li>タイトル：愛宕神社古墳遺跡<第2次調査>新宿2丁目遺跡<第1次調査></li><li>タイトル（読み）：アタゴ ジンジャ コフン イセキ ダイニジ チョウサ アラジュク ニチョウメ イセキ ダイイチジ チョウサ</li><li>シリーズ名：川越市遺跡調査会調査報告書 ; 第28集</li><li>NDC(10)：210.0254</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11211677690</guid>
+      <pubDate>Tue, 8 Jan 2019 09:00:00 +0900</pubDate>
+      <dc:title>愛宕神社古墳遺跡&lt;第2次調査&gt;新宿2丁目遺跡&lt;第1次調査&gt;</dc:title>
+      <dcndl:titleTranscription>アタゴ ジンジャ コフン イセキ ダイニジ チョウサ アラジュク ニチョウメ イセキ ダイイチジ チョウサ</dcndl:titleTranscription>
+      <dcndl:seriesTitle>川越市遺跡調査会調査報告書 ; 第28集</dcndl:seriesTitle>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>30p ; 30cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">05101706</dc:identifier>
+      <dc:subject>遺跡・遺物-川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">210.0254</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1677690&amp;ctg=1"/>
+      <dc:description> 2002</dc:description>
+    </item>
+    <item>
+      <title>愛宕神社古墳遺跡</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001120727</link>
+      <description><![CDATA[<p>第2次調査,川越市遺跡調査会,2003-03,<p><ul><li>タイトル：愛宕神社古墳遺跡</li><li>タイトル（読み）：アタゴ ジンジャ コフン イセキ</li><li>シリーズ名：川越市遺跡調査会調査報告書　：　第28集</li><li>シリーズ名（読み）：カワゴエシ イセキ チョウサカイ チョウサ ホウコクショ</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001120727</guid>
+      <pubDate>Wed, 27 Sep 2023 08:33:08 +0900</pubDate>
+      <dc:title>愛宕神社古墳遺跡</dc:title>
+      <dcndl:titleTranscription>アタゴ ジンジャ コフン イセキ</dcndl:titleTranscription>
+      <dcndl:volume>第2次調査</dcndl:volume>
+      <dcndl:seriesTitle>川越市遺跡調査会調査報告書　：　第28集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエシ イセキ チョウサカイ チョウサ ホウコクショ</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-03</dc:date>
+      <dcterms:issued>2003.3</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>30p</dc:extent>
+      <dc:subject>遺跡・遺物-川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001120727"/>
+      <dc:description> 2003-03</dc:description>
+    </item>
+    <item>
+      <title>愛宕神社古墳遺跡(第2次調査)・新宿2丁目遺跡(第1次調査)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007402310</link>
+      <description><![CDATA[<p>川越市遺跡調査会,2003,<p><ul><li>タイトル：愛宕神社古墳遺跡(第2次調査)・新宿2丁目遺跡(第1次調査)</li><li>タイトル（読み）：アタゴ ジンジャ コフン イセキ ダイ 2ジ チョウサ シンジュク 2チョウメ イセキ ダイ 1ジ チョウサ</li><li>シリーズ名：川越市遺跡調査会調査報告書 ; 第28集</li><li>シリーズ名（読み）：カワゴエシ イセキ チョウサカイ チョウサ ホウコクショ ; ダイ 28シュウ</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>川越市遺跡調査会</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007402310</guid>
+      <pubDate>Fri, 16 Jul 2004 23:55:51 +0900</pubDate>
+      <dc:title>愛宕神社古墳遺跡(第2次調査)・新宿2丁目遺跡(第1次調査)</dc:title>
+      <dcndl:titleTranscription>アタゴ ジンジャ コフン イセキ ダイ 2ジ チョウサ シンジュク 2チョウメ イセキ ダイ 1ジ チョウサ</dcndl:titleTranscription>
+      <dc:creator>川越市遺跡調査会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ イセキ チョウサカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越市遺跡調査会調査報告書 ; 第28集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエシ イセキ チョウサカイ チョウサ ホウコクショ ; ダイ 28シュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>[2003]</dcterms:issued>
+      <dc:extent>30p 図版7p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007402310</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20612909</dc:identifier>
+      <dc:subject>川越市--遺跡・遺物</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB121</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49756"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100354332"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007402310"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA9139023X"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>愛宕神社古墳北遺跡 : 地下式坑及び関連遺構群の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002073137</link>
+      <description><![CDATA[<p>川越市遺跡調査会,1989,<p><ul><li>タイトル：愛宕神社古墳北遺跡 : 地下式坑及び関連遺構群の調査</li><li>タイトル（読み）：アタゴ ジンジャ コフン キタ イセキ</li><li>シリーズ名：川越市遺跡調査会報告書 ; 第6集</li></ul>]]></description>
+      <author>川越市遺跡調査会</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002073137</guid>
+      <pubDate>Tue, 28 Oct 1997 09:00:00 +0900</pubDate>
+      <dc:title>愛宕神社古墳北遺跡 : 地下式坑及び関連遺構群の調査</dc:title>
+      <dcndl:titleTranscription>アタゴ ジンジャ コフン キタ イセキ</dcndl:titleTranscription>
+      <dc:creator>川越市遺跡調査会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ イセキ チョウサカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越市遺跡調査会報告書 ; 第6集</dcndl:seriesTitle>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1989</dc:date>
+      <dcterms:issued>1989.10</dcterms:issued>
+      <dc:extent>50p 図版14p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002073137</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">91007772</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB131</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116290493"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/507733"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002073137"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13234104"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN14639244"/>
+      <dc:description> 1989</dc:description>
+    </item>
+    <item>
+      <title>うつくしの街川越 : 小江戸成長物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</link>
+      <description><![CDATA[<p>一色出版,2019,978-4-909383-11-2<p><ul><li>タイトル：うつくしの街川越 : 小江戸成長物語</li><li>タイトル（読み）：ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</li><li>責任表示：山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</li><li>NDC(10)：213.4</li></ul>]]></description>
+      <author>山野, 清二郎, 1942-,松尾, 鉄城,寺島, 悦恩, 1948-,小林, 範子,山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</guid>
+      <pubDate>Mon, 26 Aug 2019 22:19:14 +0900</pubDate>
+      <dc:title>うつくしの街川越 : 小江戸成長物語</dc:title>
+      <dcndl:titleTranscription>ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dc:creator>松尾, 鉄城</dc:creator>
+      <dc:creator>寺島, 悦恩, 1948-</dc:creator>
+      <dc:creator>小林, 範子</dc:creator>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツオ, テツキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシマ, エツオ, 1948-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コバヤシ, ノリコ</dcndl:creatorTranscription>
+      <dc:publisher>一色出版</dc:publisher>
+      <dc:publisher>悠書館 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909383-11-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029753704</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23253833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33941694</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198062857"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2921871&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153387240"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000946206"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120277306"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110364271"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111545867"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029753704"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4073955"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033620311"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13472745"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB28780530"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784909383112"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>上寺山時田家文書 ; 三芳野神社近代史料</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959856315965</link>
+      <description><![CDATA[<p>川越市立博物館,1993,<p><ul><li>タイトル：上寺山時田家文書 ; 三芳野神社近代史料</li><li>タイトル（読み）：カミテラヤマ トキタケ モンジョ ; ミヨシノ ジンジャ キンダイ シリョウ</li></ul>]]></description>
+      <author>川越市立博物館</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959856315965</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>上寺山時田家文書 ; 三芳野神社近代史料</dc:title>
+      <dcndl:titleTranscription>カミテラヤマ トキタケ モンジョ ; ミヨシノ ジンジャ キンダイ シリョウ</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN11526547</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN11526547"/>
+      <dc:description> 1993</dc:description>
+    </item>
+    <item>
+      <title>川越金山神社の文化遺産と鍛冶町の人々</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121115991251</link>
+      <description><![CDATA[<p>金山会,1998,<p><ul><li>タイトル：川越金山神社の文化遺産と鍛冶町の人々</li><li>タイトル（読み）：カワゴエ　カナヤマ　ジンジャ　ノ　ブンカ　イサン　ト　カジマチ　ノ　ヒトビト</li><li>責任表示：小泉功 著 ; 箕田隆實 著</li></ul>]]></description>
+      <author>小泉, 功,箕田, 隆實,小泉功 著 ; 箕田隆實 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121115991251</guid>
+      <pubDate>Wed, 30 Oct 2024 21:14:59 +0900</pubDate>
+      <dc:title>川越金山神社の文化遺産と鍛冶町の人々</dc:title>
+      <dcndl:titleTranscription>カワゴエ　カナヤマ　ジンジャ　ノ　ブンカ　イサン　ト　カジマチ　ノ　ヒトビト</dcndl:titleTranscription>
+      <dc:creator>小泉, 功</dc:creator>
+      <dc:creator>箕田, 隆實</dc:creator>
+      <dcndl:creatorTranscription>コイズミ，イサオ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ミノダ，タカザネ</dcndl:creatorTranscription>
+      <dc:publisher>金山会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>１９９８．１０</dcterms:issued>
+      <dc:extent>３９ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1115991251"/>
+      <dc:description> 1998</dc:description>
+    </item>
+    <item>
+      <title>川越市指定文化財古文書目録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I42111000002806498</link>
+      <description><![CDATA[<p>四,川越市教育委員会,1988-03,<p><ul><li>タイトル：川越市指定文化財古文書目録</li><li>タイトル（読み）：カワゴエシ　シテイブンカザイ　コモンジョモクロク</li><li>各巻タイトル：氷川神社文書・郭町北野家文書</li><li>各巻タイトル（読み）：ヒカワジンジャモンジョ　クルワマチキタノケモンジョ</li><li>NDC(9)：213.4</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I42111000002806498</guid>
+      <pubDate>Sat, 26 Mar 2022 05:00:16 +0900</pubDate>
+      <dc:title>川越市指定文化財古文書目録</dc:title>
+      <dcndl:titleTranscription>カワゴエシ　シテイブンカザイ　コモンジョモクロク</dcndl:titleTranscription>
+      <dcndl:volume>四</dcndl:volume>
+      <dcndl:volumeTitle>氷川神社文書・郭町北野家文書</dcndl:volumeTitle>
+      <dcndl:volumeTitleTranscription>ヒカワジンジャモンジョ　クルワマチキタノケモンジョ</dcndl:volumeTitleTranscription>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1988-03</dc:date>
+      <dcterms:issued>1988.3</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>15ｐ</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116215383"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002806498"/>
+      <dc:description> 1988-03</dc:description>
+    </item>
+    <item>
+      <title>川越市指定有形文化財元町二丁目六塚稲荷神社本殿修理工事報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028087947</link>
+      <description><![CDATA[<p>六塚稲荷神社,2017,<p><ul><li>タイトル：川越市指定有形文化財元町二丁目六塚稲荷神社本殿修理工事報告書</li><li>タイトル（読み）：カワゴエシ シテイ ユウケイ ブンカザイ モトマチ ニチョウメ ムツズカ イナリ ジンジャ ホンデン シュウリ コウジ ホウコクショ</li><li>責任表示：文化財工学研究所 編</li><li>NDC(10)：521.817</li></ul>]]></description>
+      <author>文化財工学研究所,文化財工学研究所 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028087947</guid>
+      <pubDate>Mon, 15 May 2017 22:34:15 +0900</pubDate>
+      <dc:title>川越市指定有形文化財元町二丁目六塚稲荷神社本殿修理工事報告書</dc:title>
+      <dcndl:titleTranscription>カワゴエシ シテイ ユウケイ ブンカザイ モトマチ ニチョウメ ムツズカ イナリ ジンジャ ホンデン シュウリ コウジ ホウコクショ</dcndl:titleTranscription>
+      <dc:creator>文化財工学研究所</dc:creator>
+      <dcndl:creatorTranscription>ブンカザイ コウガク ケンキュウジョ</dcndl:creatorTranscription>
+      <dc:publisher>六塚稲荷神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.3</dcterms:issued>
+      <dc:extent>37p 図版[17] 枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028087947</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22883188</dc:identifier>
+      <dc:subject>六塚稲荷神社 (川越市)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KA341</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">521.817</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101865311"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028087947"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB27550513"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>川越市内神社建築の様式の変遷に関する研究</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I7876361</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：川越市内神社建築の様式の変遷に関する研究</li><li>タイトル（読み）：カワゴエ シナイ ジンジャ ケンチク ノ ヨウシキ ノ ヘンセン ニ カンスル ケンキュウ</li><li>責任表示：藤澤 彰</li></ul>]]></description>
+      <author>藤澤 彰,藤澤 彰</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I7876361</guid>
+      <pubDate>Wed, 28 Jun 2017 05:16:12 +0900</pubDate>
+      <dc:title>川越市内神社建築の様式の変遷に関する研究</dc:title>
+      <dcndl:titleTranscription>カワゴエ シナイ ジンジャ ケンチク ノ ヨウシキ ノ ヘンセン ニ カンスル ケンキュウ</dcndl:titleTranscription>
+      <dc:creator>藤澤 彰</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">7876361</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZM2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I7876361"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520009409816665728"/>
+      <dc:description>掲載誌：特別教育・研究報告集 p.131～134</dc:description>
+    </item>
+    <item>
+      <title>川越市日枝神社遺跡 : 地方特定道路（改築）整備事業（県道川越越生線）事業関係埋蔵文化財発掘調査報告</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I15111106295844</link>
+      <description><![CDATA[<p>埼玉県埋蔵文化財調査事業団,2007,<p><ul><li>タイトル：川越市日枝神社遺跡 : 地方特定道路（改築）整備事業（県道川越越生線）事業関係埋蔵文化財発掘調査報告</li><li>タイトル（読み）：ｶﾜｺﾞｴｼ ﾋｴ ｼﾞﾝｼﾞｬ ｲｾｷ : ﾁﾎｳ ﾄｸﾃｲ ﾄﾞｳﾛ ｶｲﾁｸ ｾｲﾋﾞ ｼﾞｷﾞｮｳ ｹﾝﾄﾞｳ ｶﾜｺﾞｴ ｵｺﾞｾｾﾝ ｼﾞｷﾞｮｳ ｶﾝｹｲ ﾏｲｿﾞｳ ﾌﾞﾝｶｻﾞｲ ﾊｯｸﾂ ﾁｮｳｻ ﾎｳｺｸ</li><li>責任表示：埼玉県埋蔵文化財調査事業団 ［編］</li><li>シリーズ名：埼玉県埋蔵文化財調査事業団報告書 ; 第３４４集</li><li>シリーズ名（読み）：ｻｲﾀﾏｹﾝ ﾏｲｿﾞｳ ﾌﾞﾝｶｻﾞｲ ﾁｮｳｻ ｼﾞｷﾞｮｳﾀﾞﾝ ﾎｳｺｸｼｮ ; ﾀﾞｲ 344 ｼｭｳ</li></ul>]]></description>
+      <author>埼玉県埋蔵文化財調査事業団,埼玉県埋蔵文化財調査事業団 ［編］</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I15111106295844</guid>
+      <pubDate>Tue, 28 Oct 2008 00:00:00 +0900</pubDate>
+      <dc:title>川越市日枝神社遺跡 : 地方特定道路（改築）整備事業（県道川越越生線）事業関係埋蔵文化財発掘調査報告</dc:title>
+      <dcndl:titleTranscription>ｶﾜｺﾞｴｼ ﾋｴ ｼﾞﾝｼﾞｬ ｲｾｷ : ﾁﾎｳ ﾄｸﾃｲ ﾄﾞｳﾛ ｶｲﾁｸ ｾｲﾋﾞ ｼﾞｷﾞｮｳ ｹﾝﾄﾞｳ ｶﾜｺﾞｴ ｵｺﾞｾｾﾝ ｼﾞｷﾞｮｳ ｶﾝｹｲ ﾏｲｿﾞｳ ﾌﾞﾝｶｻﾞｲ ﾊｯｸﾂ ﾁｮｳｻ ﾎｳｺｸ</dcndl:titleTranscription>
+      <dc:creator>埼玉県埋蔵文化財調査事業団</dc:creator>
+      <dcndl:creatorTranscription>ｻｲﾀﾏｹﾝ, ﾏｲｿﾞｳ, ﾌﾞﾝｶｻﾞｲ, ﾁｮｳｻ, ｼﾞｷﾞｮｳﾀﾞﾝ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>埼玉県埋蔵文化財調査事業団報告書 ; 第３４４集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ｻｲﾀﾏｹﾝ ﾏｲｿﾞｳ ﾌﾞﾝｶｻﾞｲ ﾁｮｳｻ ｼﾞｷﾞｮｳﾀﾞﾝ ﾎｳｺｸｼｮ ; ﾀﾞｲ 344 ｼｭｳ</dcndl:seriesTitleTranscription>
+      <dc:publisher>埼玉県埋蔵文化財調査事業団</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>２００７．６</dcterms:issued>
+      <dc:extent>３０ｐ　図版８ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1106295844"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>川越市立博物館収蔵文書目録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002359274</link>
+      <description><![CDATA[<p>4 (上寺山時田家文書・三芳野神社近代史料),川越市立博物館,1993,<p><ul><li>タイトル：川越市立博物館収蔵文書目録</li><li>タイトル（読み）：カワゴエ シリツ ハクブツカン シュウゾウ モンジョ モクロク</li></ul>]]></description>
+      <author>川越市立博物館</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002359274</guid>
+      <pubDate>Tue, 10 Jan 1995 09:00:00 +0900</pubDate>
+      <dc:title>川越市立博物館収蔵文書目録</dc:title>
+      <dcndl:titleTranscription>カワゴエ シリツ ハクブツカン シュウゾウ モンジョ モクロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:volume>4 (上寺山時田家文書・三芳野神社近代史料)</dcndl:volume>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.3</dcterms:issued>
+      <dc:extent>48p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002359274</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">95004895</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB2</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002359274"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13207649"/>
+      <dc:description> 1993</dc:description>
+    </item>
+    <item>
+      <title>川越の神社建築</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007560900</link>
+      <description><![CDATA[<p>川越市教育委員会,2004,<p><ul><li>タイトル：川越の神社建築</li><li>タイトル（読み）：カワゴエ ノ ジンジャ ケンチク</li><li>責任表示：川越市教育委員会 編</li><li>NDC(9)：521.817</li></ul>]]></description>
+      <author>川越市教育委員会,川越市教育委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007560900</guid>
+      <pubDate>Sat, 11 Dec 2004 01:00:08 +0900</pubDate>
+      <dc:title>川越の神社建築</dc:title>
+      <dcndl:titleTranscription>カワゴエ ノ ジンジャ ケンチク</dcndl:titleTranscription>
+      <dc:creator>川越市教育委員会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.3</dcterms:issued>
+      <dc:extent>211p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007560900</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20701093</dc:identifier>
+      <dc:subject>神社建築--埼玉県--川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KA341</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">521.817</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100421597"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1944661&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154612623"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1102486660"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007560900"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA71159409"/>
+      <dc:description> 2004</dc:description>
+    </item>
+    <item>
+      <title>川越氷川神社 : 川越</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009723094</link>
+      <description><![CDATA[<p>さきたま出版会,2008,978-4-87891-267-2<p><ul><li>タイトル：川越氷川神社 : 川越</li><li>タイトル（読み）：カワゴエ ヒカワ ジンジャ : カワゴエ</li><li>責任表示：柳田敏司 監修,山野清二郎 文・写真</li><li>シリーズ名：さきたま文庫 ; 67</li><li>シリーズ名（読み）：サキタマ ブンコ</li><li>NDC(9)：175.934</li></ul>]]></description>
+      <author>柳田, 敏司, 1926-,山野, 清二郎, 1942-,柳田敏司 監修,山野清二郎 文・写真</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009723094</guid>
+      <pubDate>Fri, 5 Dec 2008 19:40:11 +0900</pubDate>
+      <dc:title>川越氷川神社 : 川越</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヒカワ ジンジャ : カワゴエ</dcndl:titleTranscription>
+      <dc:creator>柳田, 敏司, 1926-</dc:creator>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dcndl:creatorTranscription>ヤナギダ, トシジ, 1926-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>さきたま文庫 ; 67</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>サキタマ ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>さきたま出版会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.10</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>37p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-87891-267-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009723094</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21503532</dc:identifier>
+      <dc:subject>氷川神社 (川越市)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HL61</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">175.934</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1100873049"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1913819&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811122324"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009723094"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I028838625"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11126285"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA87365647"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784878912672"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>川越氷川神社誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116340066</link>
+      <description><![CDATA[<p>氷川神社社務所,1968,<p><ul><li>タイトル：川越氷川神社誌</li><li>タイトル（読み）：カワゴエ　ヒカワ　ジンジャシ</li><li>責任表示：山田勝利 〔編〕</li></ul>]]></description>
+      <author>山田, 勝利,山田勝利 〔編〕</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116340066</guid>
+      <pubDate>Wed, 15 Nov 2000 00:00:00 +0900</pubDate>
+      <dc:title>川越氷川神社誌</dc:title>
+      <dcndl:titleTranscription>カワゴエ　ヒカワ　ジンジャシ</dcndl:titleTranscription>
+      <dc:creator>山田, 勝利</dc:creator>
+      <dcndl:creatorTranscription>ヤマダ, カツトシ</dcndl:creatorTranscription>
+      <dc:publisher>氷川神社社務所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1968</dc:date>
+      <dcterms:issued>１９６８</dcterms:issued>
+      <dc:extent>１８ｐ　図版 ; ２２ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116340066"/>
+      <dc:description> 1968</dc:description>
+    </item>
+    <item>
+      <title>川越氷川神社本殿 : 江戸彫りの極致</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032879132</link>
+      <description><![CDATA[<p>川越氷川神社,2022,<p><ul><li>タイトル：川越氷川神社本殿 : 江戸彫りの極致</li><li>タイトル（読み）：カワゴエ ヒカワ ジンジャ ホンデン : エドボリ ノ キョクチ</li><li>責任表示：六田知弘, 六田春彦 写真,伊東龍一 解説・監修</li><li>NDC(10)：713.021</li></ul>]]></description>
+      <author>六田, 知弘, 1956-,六田, 春彦, 1992-,伊東, 竜一, 1957-,六田知弘, 六田春彦 写真,伊東龍一 解説・監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032879132</guid>
+      <pubDate>Thu, 10 Aug 2023 23:32:52 +0900</pubDate>
+      <dc:title>川越氷川神社本殿 : 江戸彫りの極致</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヒカワ ジンジャ ホンデン : エドボリ ノ キョクチ</dcndl:titleTranscription>
+      <dc:creator>六田, 知弘, 1956-</dc:creator>
+      <dc:creator>六田, 春彦, 1992-</dc:creator>
+      <dc:creator>伊東, 竜一, 1957-</dc:creator>
+      <dcndl:creatorTranscription>ムダ, トモヒロ, 1956-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ムダ, ハルヒコ, 1992-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イトウ, リュウイチ, 1957-</dcndl:creatorTranscription>
+      <dc:publisher>川越氷川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.12</dcterms:issued>
+      <dcndl:price>4000円</dcndl:price>
+      <dc:extent>111 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032879132</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23869292</dc:identifier>
+      <dc:subject>建築彫刻--日本--歴史--江戸時代--図集</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KB16</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">713.021</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198349088"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032879132"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419</link>
+      <description><![CDATA[<p>小泉功,2004,<p><ul><li>タイトル：巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</li><li>タイトル（読み）：キョジュ コボクタチ : レキシ オ ネンリン ニ キザム : コエド カワゴエ : ジイン ジンジャ 35セン</li><li>責任表示：小泉功, 宜保宏 共著</li><li>NDC(9)：653.2134</li></ul>]]></description>
+      <author>小泉, 功, 1927-,宜保, 宏, 1933-,小泉功, 宜保宏 共著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419</guid>
+      <pubDate>Wed, 27 Apr 2005 00:42:51 +0900</pubDate>
+      <dc:title>巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</dc:title>
+      <dcndl:titleTranscription>キョジュ コボクタチ : レキシ オ ネンリン ニ キザム : コエド カワゴエ : ジイン ジンジャ 35セン</dcndl:titleTranscription>
+      <dc:creator>小泉, 功, 1927-</dc:creator>
+      <dc:creator>宜保, 宏, 1933-</dc:creator>
+      <dcndl:creatorTranscription>コイズミ, イサオ, 1927-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ギボ, ヒロシ, 1933-</dcndl:creatorTranscription>
+      <dc:publisher>小泉功</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.3</dcterms:issued>
+      <dcndl:price>1500円 (税込)</dcndl:price>
+      <dc:extent>95p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007691419</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20763276</dc:identifier>
+      <dc:subject>樹木--埼玉県--川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">RB321</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">653.2134</dc:subject>
+      <dc:description>折り込2枚</dc:description>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419"/>
+      <dc:description> 2004</dc:description>
+    </item>
+    <item>
+      <title>熊野神社西遺跡（1次から3次）発掘調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070996</link>
+      <description><![CDATA[<p>川越市教育委員会,1993-09-01,<p><ul><li>タイトル：熊野神社西遺跡（1次から3次）発掘調査報告書</li><li>責任表示：小泉,功</li></ul>]]></description>
+      <author>小泉,功,小泉,功</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070996</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>熊野神社西遺跡（1次から3次）発掘調査報告書</dc:title>
+      <dc:creator>小泉,功</dc:creator>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993-09-01</dc:date>
+      <dcterms:issued>1993-09-01</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49743"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 1993-09-01</dc:description>
+    </item>
+  </channel>
+</rss>

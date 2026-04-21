@@ -1,0 +1,242 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>寺院 川越 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%AF%BA%E9%99%A2+%E5%B7%9D%E8%B6%8A&amp;cnt=20</link>
+    <description>Search results for title=寺院 川越 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>9</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>永代供養墓 天台宗 最明寺(埼玉県川越市) 建立から9年、手作りホームページで申し込み件数を増やし続ける</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10830072</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：永代供養墓 天台宗 最明寺(埼玉県川越市) 建立から9年、手作りホームページで申し込み件数を増やし続ける</li><li>タイトル（読み）：エイタイ クヨウ ボ テンダイシュウ サイミョウジ サイタマケン カワゴエシ コンリュウ カラ 9ネン テズクリ ホームページ デ モウシコミ ケンスウ オ フヤシ ツズケル</li><li>シリーズ名：寺院のための「永代供養墓・納骨堂」取り組み法 ; 取り組み事例 寺院編</li><li>シリーズ名（読み）：ジイン ノ タメ ノ エイタイ クヨウ ボ ノウコツドウ トリクミ ホウ ; トリクミ ジレイ ジインヘン</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10830072</guid>
+      <pubDate>Tue, 25 Oct 2022 02:32:38 +0900</pubDate>
+      <dc:title>永代供養墓 天台宗 最明寺(埼玉県川越市) 建立から9年、手作りホームページで申し込み件数を増やし続ける</dc:title>
+      <dcndl:titleTranscription>エイタイ クヨウ ボ テンダイシュウ サイミョウジ サイタマケン カワゴエシ コンリュウ カラ 9ネン テズクリ ホームページ デ モウシコミ ケンスウ オ フヤシ ツズケル</dcndl:titleTranscription>
+      <dcndl:seriesTitle>寺院のための「永代供養墓・納骨堂」取り組み法 ; 取り組み事例 寺院編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジイン ノ タメ ノ エイタイ クヨウ ボ ノウコツドウ トリクミ ホウ ; トリクミ ジレイ ジインヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10830072</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10830072"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521417755417536640"/>
+      <dc:description>掲載誌：仏事 p.42～45</dc:description>
+    </item>
+    <item>
+      <title>川越市内寺院建築の基礎的研究</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10629110</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：川越市内寺院建築の基礎的研究</li><li>タイトル（読み）：カワゴエ シナイ ジイン ケンチク ノ キソテキ ケンキュウ</li><li>責任表示：藤澤 彰</li></ul>]]></description>
+      <author>藤澤 彰,藤澤 彰</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10629110</guid>
+      <pubDate>Wed, 28 Jun 2017 05:16:18 +0900</pubDate>
+      <dc:title>川越市内寺院建築の基礎的研究</dc:title>
+      <dcndl:titleTranscription>カワゴエ シナイ ジイン ケンチク ノ キソテキ ケンキュウ</dcndl:titleTranscription>
+      <dc:creator>藤澤 彰</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10629110</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZM2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10629110"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520290884789602560"/>
+      <dc:description>掲載誌：特別教育・研究報告集 p.153～160</dc:description>
+    </item>
+    <item>
+      <title>川越の寺院建築</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010542161</link>
+      <description><![CDATA[<p>川越市教育委員会,2008,<p><ul><li>タイトル：川越の寺院建築</li><li>タイトル（読み）：カワゴエ ノ ジイン ケンチク</li><li>責任表示：川越市教育委員会 編</li><li>NDC(9)：521.818</li></ul>]]></description>
+      <author>川越市教育委員会,川越市教育委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010542161</guid>
+      <pubDate>Tue, 15 Sep 2009 19:38:14 +0900</pubDate>
+      <dc:title>川越の寺院建築</dc:title>
+      <dcndl:titleTranscription>カワゴエ ノ ジイン ケンチク</dcndl:titleTranscription>
+      <dc:creator>川越市教育委員会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.3</dcterms:issued>
+      <dc:extent>193p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010542161</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21644396</dc:identifier>
+      <dc:subject>寺院建築--埼玉県--川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KA344</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">521.818</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101010879"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1103778753"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010542161"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA91383540"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419</link>
+      <description><![CDATA[<p>小泉功,2004,<p><ul><li>タイトル：巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</li><li>タイトル（読み）：キョジュ コボクタチ : レキシ オ ネンリン ニ キザム : コエド カワゴエ : ジイン ジンジャ 35セン</li><li>責任表示：小泉功, 宜保宏 共著</li><li>NDC(9)：653.2134</li></ul>]]></description>
+      <author>小泉, 功, 1927-,宜保, 宏, 1933-,小泉功, 宜保宏 共著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419</guid>
+      <pubDate>Wed, 27 Apr 2005 00:42:51 +0900</pubDate>
+      <dc:title>巨樹・古木たち : 歴史を年輪に刻む : 小江戸・川越 : 寺院・神社35選</dc:title>
+      <dcndl:titleTranscription>キョジュ コボクタチ : レキシ オ ネンリン ニ キザム : コエド カワゴエ : ジイン ジンジャ 35セン</dcndl:titleTranscription>
+      <dc:creator>小泉, 功, 1927-</dc:creator>
+      <dc:creator>宜保, 宏, 1933-</dc:creator>
+      <dcndl:creatorTranscription>コイズミ, イサオ, 1927-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ギボ, ヒロシ, 1933-</dcndl:creatorTranscription>
+      <dc:publisher>小泉功</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.3</dcterms:issued>
+      <dcndl:price>1500円 (税込)</dcndl:price>
+      <dc:extent>95p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007691419</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20763276</dc:identifier>
+      <dc:subject>樹木--埼玉県--川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">RB321</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">653.2134</dc:subject>
+      <dc:description>折り込2枚</dc:description>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007691419"/>
+      <dc:description> 2004</dc:description>
+    </item>
+    <item>
+      <title>考古論集 : 川越哲志先生退官記念論文集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008293151</link>
+      <description><![CDATA[<p>川越哲志先生退官記念事業会,2005,<p><ul><li>タイトル：考古論集 : 川越哲志先生退官記念論文集</li><li>タイトル（読み）：コウコ ロンシュウ : カワゴエ テツシ センセイ タイカン キネン ロンブンシュウ</li><li>責任表示：川越哲志先生退官記念事業会 編</li><li>NDC(9)：210.2</li></ul>]]></description>
+      <author>川越, 哲志, 1941-,川越哲志先生退官記念事業会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008293151</guid>
+      <pubDate>Fri, 20 Oct 2006 18:24:17 +0900</pubDate>
+      <dc:title>考古論集 : 川越哲志先生退官記念論文集</dc:title>
+      <dcndl:titleTranscription>コウコ ロンシュウ : カワゴエ テツシ センセイ タイカン キネン ロンブンシュウ</dcndl:titleTranscription>
+      <dc:creator>川越, 哲志, 1941-</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ, テツシ, 1941-</dcndl:creatorTranscription>
+      <dc:publisher>川越哲志先生退官記念事業会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+      <dcterms:issued>2005.11</dcterms:issued>
+      <dcndl:price>7500円</dcndl:price>
+      <dc:extent>937p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008293151</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21112275</dc:identifier>
+      <dc:subject>日本--歴史--原始時代--論文集</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB111</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.2</dc:subject>
+      <dc:description>肖像あり</dc:description>
+      <dc:description>文献あり</dc:description>
+      <dc:description>年譜あり</dc:description>
+      <dc:description>著作目録あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1106774453"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B10211502"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008293151"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA74862387"/>
+      <dc:description> 2005</dc:description>
+    </item>
+    <item>
+      <title>埼玉県川越市の寺院の墓の岩質について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027660715</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：埼玉県川越市の寺院の墓の岩質について</li><li>タイトル（読み）：サイタマケン カワゴエシ ノ ジイン ノ ハカ ノ ガンシツ ニ ツイテ</li><li>責任表示：松岡 喜久次</li></ul>]]></description>
+      <author>松岡 喜久次,松岡 喜久次</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027660715</guid>
+      <pubDate>Mon, 24 Oct 2016 23:25:01 +0900</pubDate>
+      <dc:title>埼玉県川越市の寺院の墓の岩質について</dc:title>
+      <dcndl:titleTranscription>サイタマケン カワゴエシ ノ ジイン ノ ハカ ノ ガンシツ ニ ツイテ</dcndl:titleTranscription>
+      <dc:creator>松岡 喜久次</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027660715</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027660715"/>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.15080/chitoka.77.0_38"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390848250115323136"/>
+      <dc:description>掲載誌：地学教育と科学運動 / 「地学教育と科学運動」編集委員会 編 77 p.38-42</dc:description>
+    </item>
+    <item>
+      <title>浄土宗全書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939</link>
+      <description><![CDATA[<p>第11-20巻,浄土宗宗典刊行会,1907,<p><ul><li>タイトル：浄土宗全書</li><li>タイトル（読み）：ジョウドシュウ ゼンショ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939</guid>
+      <pubDate>Wed, 26 Jul 2006 01:42:23 +0900</pubDate>
+      <dc:title>浄土宗全書</dc:title>
+      <dcndl:titleTranscription>ジョウドシュウ ゼンショ</dcndl:titleTranscription>
+      <dcndl:volume>第11-20巻</dcndl:volume>
+      <dc:publisher>浄土宗宗典刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1907</dc:date>
+      <dcterms:issued>明40-大3</dcterms:issued>
+      <dc:extent>10冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000527939</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40046832</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">188.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939"/>
+      <dc:description> 1907</dc:description>
+    </item>
+    <item>
+      <title>浄土宗全書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936</link>
+      <description><![CDATA[<p>第20巻 (第10輯 寺誌宗史1-2),浄土宗開宗八百年記念慶讃準備局,1972,<p><ul><li>タイトル：浄土宗全書</li><li>タイトル（読み）：ジョウドシュウ ゼンショ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936</guid>
+      <pubDate>Thu, 3 Aug 2000 02:20:00 +0900</pubDate>
+      <dc:title>浄土宗全書</dc:title>
+      <dcndl:titleTranscription>ジョウドシュウ ゼンショ</dcndl:titleTranscription>
+      <dcndl:volume>第20巻 (第10輯 寺誌宗史1-2)</dcndl:volume>
+      <dc:publisher>浄土宗開宗八百年記念慶讃準備局</dc:publisher>
+      <dc:publisher>山喜房仏書林 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>1972</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001243936</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">74011670</dc:identifier>
+      <dc:subject>浄土宗</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">188.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HM151</dc:subject>
+      <dc:description>浄土宗宗典刊行会明治40-大正3年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100609925"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101292848"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101516489"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12270619"/>
+      <dc:description> 1972</dc:description>
+    </item>
+    <item>
+      <title>歴史を年輪に刻む巨樹・古木たち : 小江戸・川越 : 寺院・神社３５選</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121100365181</link>
+      <description><![CDATA[<p>小泉功,2004,<p><ul><li>タイトル：歴史を年輪に刻む巨樹・古木たち : 小江戸・川越 : 寺院・神社３５選</li><li>タイトル（読み）：レキシ　オ　ネンリン　ニ　キザム　キョジュ　コボクタチ : コエド　カワゴエ : ジイン　ジンジャ　サンジュウゴセン</li><li>責任表示：小泉功 著 ; 宜保宏 著</li></ul>]]></description>
+      <author>小泉, 功,宜保, 宏,小泉功 著 ; 宜保宏 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121100365181</guid>
+      <pubDate>Fri, 7 Jan 2000 00:00:00 +0900</pubDate>
+      <dc:title>歴史を年輪に刻む巨樹・古木たち : 小江戸・川越 : 寺院・神社３５選</dc:title>
+      <dcndl:titleTranscription>レキシ　オ　ネンリン　ニ　キザム　キョジュ　コボクタチ : コエド　カワゴエ : ジイン　ジンジャ　サンジュウゴセン</dcndl:titleTranscription>
+      <dc:creator>小泉, 功</dc:creator>
+      <dc:creator>宜保, 宏</dc:creator>
+      <dcndl:creatorTranscription>コイズミ, イサオ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ギボ, ヒロシ</dcndl:creatorTranscription>
+      <dc:publisher>小泉功</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>２００４．３</dcterms:issued>
+      <dc:extent>９５ｐ ; ２１ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100365181"/>
+      <dc:description> 2004</dc:description>
+    </item>
+  </channel>
+</rss>

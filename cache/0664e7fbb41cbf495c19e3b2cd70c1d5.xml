@@ -1,0 +1,347 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越高校 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A%E9%AB%98%E6%A0%A1&amp;cnt=20</link>
+    <description>Search results for title=川越高校 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>13</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002715963</link>
+      <description><![CDATA[<p>埼玉県立川越高等学校第三期生還暦の文集刊行委員会,1994,<p><ul><li>タイトル：おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</li><li>タイトル（読み）：オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン : カワゴエ コウコウ ダイ サンキセイ カンレキ ノ ブンシュウ</li><li>責任表示：埼玉県立川越高等学校第三期生還暦の文集刊行委員会 編</li><li>NDC(9)：376.48</li></ul>]]></description>
+      <author>川越高等学校第三期生,埼玉県立川越高等学校第三期生還暦の文集刊行委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002715963</guid>
+      <pubDate>Tue, 15 Jun 1999 00:07:00 +0900</pubDate>
+      <dc:title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</dc:title>
+      <dcndl:titleTranscription>オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン : カワゴエ コウコウ ダイ サンキセイ カンレキ ノ ブンシュウ</dcndl:titleTranscription>
+      <dc:creator>川越高等学校第三期生</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウトウ ガッコウ ダイ サンキセイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越高等学校第三期生還暦の文集刊行委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+      <dcterms:issued>1994.3</dcterms:issued>
+      <dc:extent>719p 図版24枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002715963</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">99059757</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">FC36</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">376.48</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116548511"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002715963"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13952603"/>
+      <dc:description> 1994</dc:description>
+    </item>
+    <item>
+      <title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002715964</link>
+      <description><![CDATA[<p>増補別冊,埼玉県立川越高等学校第三期生還暦の文集刊行委員会,1998,<p><ul><li>タイトル：おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</li><li>タイトル（読み）：オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン : カワゴエ コウコウ ダイ サンキセイ カンレキ ノ ブンシュウ</li><li>責任表示：埼玉県立川越高等学校第三期生還暦の文集刊行委員会 [編]</li><li>NDC(9)：376.48</li></ul>]]></description>
+      <author>川越高等学校第三期生,埼玉県立川越高等学校第三期生還暦の文集刊行委員会 [編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002715964</guid>
+      <pubDate>Tue, 15 Jun 1999 00:07:00 +0900</pubDate>
+      <dc:title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間 : 川越高校第三期生還暦の文集</dc:title>
+      <dcndl:titleTranscription>オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン : カワゴエ コウコウ ダイ サンキセイ カンレキ ノ ブンシュウ</dcndl:titleTranscription>
+      <dc:creator>川越高等学校第三期生</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウトウ ガッコウ ダイ サンキセイ</dcndl:creatorTranscription>
+      <dcndl:volume>増補別冊</dcndl:volume>
+      <dc:publisher>埼玉県立川越高等学校第三期生還暦の文集刊行委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>1998.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>205p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002715964</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">99059758</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">FC36</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">376.48</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002715964"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13886414"/>
+      <dc:description> 1998</dc:description>
+    </item>
+    <item>
+      <title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間川越高校第三期生還暦の文集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384878352794</link>
+      <description><![CDATA[<p>[埼玉県立川越高等学校第三期生還暦の文集刊行委員会],1998,<p><ul><li>タイトル：おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間川越高校第三期生還暦の文集</li><li>タイトル（読み）：オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン カワゴエ コウトウ ガッコウ ダイ3キセイ カンレキ ノ ブンシュウ</li><li>責任表示：埼玉県立川越高等学校第三期生還暦の文集刊行委員会[編]</li><li>NDC(9)：376.4</li></ul>]]></description>
+      <author>埼玉県立川越高等学校第三期生還暦の文集刊行委員会,埼玉県立川越高等学校第三期生還暦の文集刊行委員会[編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384878352794</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>おーい、楠の木よ : 戦中戦後ひとつ校舎に六年間川越高校第三期生還暦の文集</dc:title>
+      <dcndl:titleTranscription>オーイ クスノキ ヨ : センチュウ センゴ ヒトツ コウシャ ニ ロクネンカン カワゴエ コウトウ ガッコウ ダイ3キセイ カンレキ ノ ブンシュウ</dcndl:titleTranscription>
+      <dc:creator>埼玉県立川越高等学校第三期生還暦の文集刊行委員会</dc:creator>
+      <dcndl:creatorTranscription>サイタマ ケンリツ カワゴエ コウトウ ガッコウ ダイ3キセイ カンレキ ノ ブンシュウ カンコウ イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>[埼玉県立川越高等学校第三期生還暦の文集刊行委員会]</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>1998.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA60119810</dc:identifier>
+      <dc:subject>高等学校 -- 埼玉県</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FC36</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">376.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA60119810"/>
+      <dc:description> 1998</dc:description>
+    </item>
+    <item>
+      <title>川越高校新聞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213</link>
+      <description><![CDATA[<p>埼玉県立川越高校100周年記念事業実行委員会,1999,<p><ul><li>タイトル：川越高校新聞</li><li>タイトル（読み）：カワゴエ コウコウ シンブン</li><li>責任表示：県立川越高校新聞部 [編]</li></ul>]]></description>
+      <author>川越高校新聞部,県立川越高校新聞部 [編]</author>
+      <category>新聞</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213</guid>
+      <pubDate>Tue, 15 Feb 2000 09:00:00 +0900</pubDate>
+      <dc:title>川越高校新聞</dc:title>
+      <dcndl:titleTranscription>カワゴエ コウコウ シンブン</dcndl:titleTranscription>
+      <dc:creator>川越高校新聞部</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウコウ シンブンブ</dcndl:creatorTranscription>
+      <dcndl:edition>縮刷版</dcndl:edition>
+      <dc:publisher>埼玉県立川越高校100周年記念事業実行委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>1999</dcterms:issued>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000107213</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">00113131</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZZ27</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <dc:description>複製本の編者: 「川越高校新聞縮刷版」編集委員会 原紙の出版者, 出版年: 県立川越高校新聞部 1950～1998</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213"/>
+      <dc:description> 1999</dc:description>
+    </item>
+    <item>
+      <title>川越高校新聞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213-i10694640</link>
+      <description><![CDATA[<p>1-226 19500700-19981100,埼玉県立川越高校100周年記念事業実行委員会,1950-1998,<p><ul><li>タイトル：川越高校新聞</li><li>タイトル（読み）：カワゴエ コウコウ シンブン</li><li>責任表示：県立川越高校新聞部 [編]</li></ul>]]></description>
+      <author>川越高校新聞部,県立川越高校新聞部 [編]</author>
+      <category>新聞</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213-i10694640</guid>
+      <pubDate>Tue, 15 Feb 2000 09:00:00 +0900</pubDate>
+      <dc:title>川越高校新聞</dc:title>
+      <dcndl:titleTranscription>カワゴエ コウコウ シンブン</dcndl:titleTranscription>
+      <dc:creator>川越高校新聞部</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウコウ シンブンブ</dcndl:creatorTranscription>
+      <dcndl:volume>1-226 19500700-19981100</dcndl:volume>
+      <dcndl:edition>縮刷版</dcndl:edition>
+      <dc:publisher>埼玉県立川越高校100周年記念事業実行委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1950-1998</dc:date>
+      <dcterms:issued>1950-1998</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000107213</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZZ27</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <dc:description>複製本の編者: 「川越高校新聞縮刷版」編集委員会 原紙の出版者, 出版年: 県立川越高校新聞部 1950～1998</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000107213-i10694640"/>
+      <dc:description> 1950-1998</dc:description>
+    </item>
+    <item>
+      <title>川越高校のリベラルアーツ教育 : ノーベル賞からウォーターボーイズまで輩出する</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029919410</link>
+      <description><![CDATA[<p>川越高校同窓会,2019,978-4-8109-1333-0<p><ul><li>タイトル：川越高校のリベラルアーツ教育 : ノーベル賞からウォーターボーイズまで輩出する</li><li>タイトル（読み）：カワゴエ コウコウ ノ リベラル アーツ キョウイク : ノーベルショウ カラ ウォーター ボーイズ マデ ハイシュツ スル</li><li>責任表示：神山典士 著</li><li>NDC(10)：376.48</li></ul>]]></description>
+      <author>神山, 典士, 1960-,神山典士 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029919410</guid>
+      <pubDate>Fri, 25 Oct 2019 00:53:53 +0900</pubDate>
+      <dc:title>川越高校のリベラルアーツ教育 : ノーベル賞からウォーターボーイズまで輩出する</dc:title>
+      <dcndl:titleTranscription>カワゴエ コウコウ ノ リベラル アーツ キョウイク : ノーベルショウ カラ ウォーター ボーイズ マデ ハイシュツ スル</dcndl:titleTranscription>
+      <dc:creator>神山, 典士, 1960-</dc:creator>
+      <dcndl:creatorTranscription>コウヤマ, ノリオ, 1960-</dcndl:creatorTranscription>
+      <dc:publisher>川越高校同窓会</dc:publisher>
+      <dc:publisher>青月社 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.9</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>351p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8109-1333-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029919410</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23280806</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33969787</dc:identifier>
+      <dc:subject>川越高等学校 (埼玉県立)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FB22</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">376.48</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198069932"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2939553&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13730663"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014741970"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812339613"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110365293"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1102226890"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111864385"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029919410"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4210695"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I12155063"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB29081978"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>川越高校野球部七十年史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002023098</link>
+      <description><![CDATA[<p>埼玉県立川越高等学校野球部OB会,1989,<p><ul><li>タイトル：川越高校野球部七十年史</li><li>タイトル（読み）：カワゴエ コウコウ ヤキュウブ シチジュウネンシ</li><li>責任表示：川高野球部七十年史編さん実行委員会 編</li></ul>]]></description>
+      <author>川越高等学校野球部OB会,川高野球部七十年史編さん実行委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002023098</guid>
+      <pubDate>Thu, 29 Mar 1990 09:00:00 +0900</pubDate>
+      <dc:title>川越高校野球部七十年史</dc:title>
+      <dcndl:titleTranscription>カワゴエ コウコウ ヤキュウブ シチジュウネンシ</dcndl:titleTranscription>
+      <dc:creator>川越高等学校野球部OB会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウトウ ガッコウ ヤキュウブ OBカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越高等学校野球部OB会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1989</dc:date>
+      <dcterms:issued>1989.5</dcterms:issued>
+      <dc:extent>271p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002023098</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">90017045</dc:identifier>
+      <dc:subject>川越高等学校野球部</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FS35</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">783.7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116841287"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002023098"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13196254"/>
+      <dc:description> 1989</dc:description>
+    </item>
+    <item>
+      <title>川越高校野球部百年史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029393946</link>
+      <description><![CDATA[<p>埼玉県立川越高等学校野球部OB会,2018,<p><ul><li>タイトル：川越高校野球部百年史</li><li>タイトル（読み）：カワゴエ コウコウ ヤキュウブ ヒャクネンシ</li><li>責任表示：川越高等学校野球部百年史編纂実行委員会 編</li><li>NDC(10)：783.7</li></ul>]]></description>
+      <author>川越高等学校野球部OB会,川越高等学校野球部百年史編纂実行委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029393946</guid>
+      <pubDate>Fri, 1 Feb 2019 00:38:56 +0900</pubDate>
+      <dc:title>川越高校野球部百年史</dc:title>
+      <dcndl:titleTranscription>カワゴエ コウコウ ヤキュウブ ヒャクネンシ</dcndl:titleTranscription>
+      <dc:creator>川越高等学校野球部OB会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウトウ ガッコウ ヤキュウブ OBカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越高等学校野球部OB会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.12</dcterms:issued>
+      <dc:extent>393p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029393946</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23162089</dc:identifier>
+      <dc:subject>川越高等学校野球部</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FS35</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">783.7</dc:subject>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198006106"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029393946"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>五年目を迎えて : 川越高校での実践をふまえて</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I028204595</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：五年目を迎えて : 川越高校での実践をふまえて</li><li>タイトル（読み）：ゴネンメ オ ムカエテ : カワゴエ コウコウ デ ノ ジッセン オ フマエテ</li><li>責任表示：栁澤 有一郎</li></ul>]]></description>
+      <author>栁澤 有一郎,栁澤 有一郎</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I028204595</guid>
+      <pubDate>Fri, 9 Jun 2017 01:56:04 +0900</pubDate>
+      <dc:title>五年目を迎えて : 川越高校での実践をふまえて</dc:title>
+      <dcndl:titleTranscription>ゴネンメ オ ムカエテ : カワゴエ コウコウ デ ノ ジッセン オ フマエテ</dcndl:titleTranscription>
+      <dc:creator>栁澤 有一郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028204595</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I028204595"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291853579177216"/>
+      <dc:description>掲載誌：研究集録 / 埼玉県高等学校国語科教育研究会 [編] 57 p.30-32</dc:description>
+    </item>
+    <item>
+      <title>埼玉県立川越高等学校山岳部九十周年記念CD</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011100706</link>
+      <description><![CDATA[<p>埼玉県立川越高等学校山岳部OB会,2008,<p><ul><li>タイトル：埼玉県立川越高等学校山岳部九十周年記念CD</li><li>タイトル（読み）：サイタマ ケンリツ カワゴエ コウトウ ガッコウ サンガクブ キュウジッシュウネン キネン CD</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011100706</guid>
+      <pubDate>Wed, 16 Feb 2011 23:24:27 +0900</pubDate>
+      <dc:title>埼玉県立川越高等学校山岳部九十周年記念CD</dc:title>
+      <dcndl:titleTranscription>サイタマ ケンリツ カワゴエ コウトウ ガッコウ サンガクブ キュウジッシュウネン キネン CD</dcndl:titleTranscription>
+      <dc:publisher>埼玉県立川越高等学校山岳部OB会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>[2008.1]</dcterms:issued>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">GRV-005</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011100706</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21878750</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011100706"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>創立記念誌 : 川越高校120周年 : 1世紀の重み×20年の弾み</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032831527</link>
+      <description><![CDATA[<p>埼玉県立川越高等学校,2019,<p><ul><li>タイトル：創立記念誌 : 川越高校120周年 : 1世紀の重み×20年の弾み</li><li>タイトル（読み）：ソウリツ キネンシ : カワゴエ コウコウ 120シュウネン : 1セイキ ノ オモミ × 20ネン ノ ハズミ</li><li>責任表示：埼玉県立川越高等学校創立120周年記念誌編集委員会 編集</li><li>NDC(10)：376.48</li></ul>]]></description>
+      <author>川越高等学校 (埼玉県立),埼玉県立川越高等学校創立120周年記念誌編集委員会 編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032831527</guid>
+      <pubDate>Wed, 7 Jun 2023 23:17:26 +0900</pubDate>
+      <dc:title>創立記念誌 : 川越高校120周年 : 1世紀の重み×20年の弾み</dc:title>
+      <dcndl:titleTranscription>ソウリツ キネンシ : カワゴエ コウコウ 120シュウネン : 1セイキ ノ オモミ × 20ネン ノ ハズミ</dcndl:titleTranscription>
+      <dc:creator>川越高等学校 (埼玉県立)</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ コウトウ ガッコウ (サイタマ ケンリツ)</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越高等学校</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.11</dcterms:issued>
+      <dc:extent>118 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032831527</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23842258</dc:identifier>
+      <dc:subject>川越高等学校 (埼玉県立)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FB22</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">376.48</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032831527"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>半世紀の教員生活を振り返って(3)充実期の川越高校時代</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033696324</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：半世紀の教員生活を振り返って(3)充実期の川越高校時代</li><li>タイトル（読み）：ハンセイキ ノ キョウイン セイカツ オ フリカエッテ(3)ジュウジツキ ノ カワゴエ コウコウ ジダイ</li><li>責任表示：滝澤 民夫</li></ul>]]></description>
+      <author>滝澤 民夫,滝澤 民夫</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033696324</guid>
+      <pubDate>Thu, 19 Sep 2024 00:30:06 +0900</pubDate>
+      <dc:title>半世紀の教員生活を振り返って(3)充実期の川越高校時代</dc:title>
+      <dcndl:titleTranscription>ハンセイキ ノ キョウイン セイカツ オ フリカエッテ(3)ジュウジツキ ノ カワゴエ コウコウ ジダイ</dcndl:titleTranscription>
+      <dc:creator>滝澤 民夫</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033696324</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033696324"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520583037801759744"/>
+      <dc:description>掲載誌：歴史地理教育 / 歴史教育者協議会 編 974 p.80-83</dc:description>
+    </item>
+    <item>
+      <title>名門高校の校風と人脈(158)川越高校(埼玉県立・川越市) 「ウォーターボーイズ」の舞台</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I026715001</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：名門高校の校風と人脈(158)川越高校(埼玉県立・川越市) 「ウォーターボーイズ」の舞台</li><li>タイトル（読み）：メイモン コウコウ ノ コウフウ ト ジンミャク(158)カワゴエ コウコウ(サイタマ ケンリツ ・ カワゴエシ) 「 ウォーターボーイズ 」 ノ ブタイ</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I026715001</guid>
+      <pubDate>Wed, 9 Sep 2015 20:40:06 +0900</pubDate>
+      <dc:title>名門高校の校風と人脈(158)川越高校(埼玉県立・川越市) 「ウォーターボーイズ」の舞台</dc:title>
+      <dcndl:titleTranscription>メイモン コウコウ ノ コウフウ ト ジンミャク(158)カワゴエ コウコウ(サイタマ ケンリツ ・ カワゴエシ) 「 ウォーターボーイズ 」 ノ ブタイ</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026715001</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I026715001"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522825129950094336"/>
+      <dc:description>掲載誌：エコノミスト 36(通号 4413) p.64-65</dc:description>
+    </item>
+  </channel>
+</rss>

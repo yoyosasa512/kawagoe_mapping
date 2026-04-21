@@ -1,0 +1,454 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越城 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A%E5%9F%8E&amp;cnt=20</link>
+    <description>Search results for title=川越城 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>102</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>荒川右岸におけるいわゆる「宮ノ台式集落」の一様相</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390572175421473408</link>
+      <description><![CDATA[<p>2003-07-31,<p><ul><li>タイトル：荒川右岸におけるいわゆる「宮ノ台式集落」の一様相</li></ul>]]></description>
+      <author>天ヶ嶋,岳</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390572175421473408</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>荒川右岸におけるいわゆる「宮ノ台式集落」の一様相</dc:title>
+      <dc:creator>天ヶ嶋,岳</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-07-31</dc:date>
+      <dcterms:issued>2003-07-31</dcterms:issued>
+      <dc:subject>天ヶ嶋岳</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/3846"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390572175421473408"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 : 川越城跡　第11次調査 2003-07-31 p.76-84</dc:description>
+    </item>
+    <item>
+      <title>上杉・北条氏時代の川越城下町-中-</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I494413</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：上杉・北条氏時代の川越城下町-中-</li><li>タイトル（読み）：ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ チュウ</li><li>責任表示：岡村 一郎</li></ul>]]></description>
+      <author>岡村 一郎,岡村 一郎</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I494413</guid>
+      <pubDate>Fri, 23 Oct 2009 22:46:15 +0900</pubDate>
+      <dc:title>上杉・北条氏時代の川越城下町-中-</dc:title>
+      <dcndl:titleTranscription>ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ チュウ</dcndl:titleTranscription>
+      <dc:creator>岡村 一郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">494413</dc:identifier>
+      <dc:subject>埼玉県</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I494413"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262179895204224"/>
+      <dc:description>掲載誌：武蔵野史談 / 埼玉県郷土文化会 [編] 1 p.26～32</dc:description>
+    </item>
+    <item>
+      <title>上杉・北条氏時代の川越城下町-下-</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I504668</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：上杉・北条氏時代の川越城下町-下-</li><li>タイトル（読み）：ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ ゲ</li><li>責任表示：岡村 一郎</li></ul>]]></description>
+      <author>岡村 一郎,岡村 一郎</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I504668</guid>
+      <pubDate>Fri, 23 Oct 2009 22:46:15 +0900</pubDate>
+      <dc:title>上杉・北条氏時代の川越城下町-下-</dc:title>
+      <dcndl:titleTranscription>ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ ゲ</dcndl:titleTranscription>
+      <dc:creator>岡村 一郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">504668</dc:identifier>
+      <dc:subject>埼玉県</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I504668"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980705859248128"/>
+      <dc:description>掲載誌：武蔵野史談 / 埼玉県郷土文化会 [編] 2 p.67～72</dc:description>
+    </item>
+    <item>
+      <title>上杉・北条氏時代の川越城下町-上-</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I5224678</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：上杉・北条氏時代の川越城下町-上-</li><li>タイトル（読み）：ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ ジョウ</li><li>責任表示：岡村 一郎</li></ul>]]></description>
+      <author>岡村 一郎,岡村 一郎</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I5224678</guid>
+      <pubDate>Mon, 27 Aug 2001 22:53:47 +0900</pubDate>
+      <dc:title>上杉・北条氏時代の川越城下町-上-</dc:title>
+      <dcndl:titleTranscription>ウエスギ ホウジョウ シ ジダイ ノ カワゴエ ジョウカマチ ジョウ</dcndl:titleTranscription>
+      <dc:creator>岡村 一郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">5224678</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I5224678"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523669555204878720"/>
+      <dc:description>掲載誌：武蔵野史談 / 埼玉県郷土文化会 [編] 6 p.204～208</dc:description>
+    </item>
+    <item>
+      <title>うつくしの街川越 : 小江戸成長物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</link>
+      <description><![CDATA[<p>一色出版,2019,978-4-909383-11-2<p><ul><li>タイトル：うつくしの街川越 : 小江戸成長物語</li><li>タイトル（読み）：ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</li><li>責任表示：山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</li><li>NDC(10)：213.4</li></ul>]]></description>
+      <author>山野, 清二郎, 1942-,松尾, 鉄城,寺島, 悦恩, 1948-,小林, 範子,山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</guid>
+      <pubDate>Mon, 26 Aug 2019 22:19:14 +0900</pubDate>
+      <dc:title>うつくしの街川越 : 小江戸成長物語</dc:title>
+      <dcndl:titleTranscription>ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dc:creator>松尾, 鉄城</dc:creator>
+      <dc:creator>寺島, 悦恩, 1948-</dc:creator>
+      <dc:creator>小林, 範子</dc:creator>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツオ, テツキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシマ, エツオ, 1948-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コバヤシ, ノリコ</dcndl:creatorTranscription>
+      <dc:publisher>一色出版</dc:publisher>
+      <dc:publisher>悠書館 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909383-11-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029753704</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23253833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33941694</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198062857"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2921871&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153387240"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000946206"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120277306"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110364271"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111545867"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029753704"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4073955"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033620311"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13472745"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB28780530"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784909383112"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>太田道灌縄武州河越之城圖</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334812473278</link>
+      <description><![CDATA[<p>篠原 [写],<p><ul><li>タイトル：太田道灌縄武州河越之城圖</li><li>タイトル（読み）：オオタ ドウカン ナワ ブシュウ カワゴエ ノ シロズ</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334812473278</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>太田道灌縄武州河越之城圖</dc:title>
+      <dcndl:titleTranscription>オオタ ドウカン ナワ ブシュウ カワゴエ ノ シロズ</dcndl:titleTranscription>
+      <dc:publisher>篠原 [写]</dc:publisher>
+      <dcterms:issued>[書写年不明]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC06963840</dc:identifier>
+      <dc:description>和漢古書につき記述対象資料毎に書誌レコード作成</dc:description>
+      <dc:description>写本</dc:description>
+      <dc:description>書名は端裏書による</dc:description>
+      <dc:description>題簽の書名: 武州川越城図 : 太田道潅縄</dc:description>
+      <dc:description>端裏に「篠原(印)」とあり</dc:description>
+      <dc:description>彩色図版</dc:description>
+      <dc:description>畳物</dc:description>
+      <dc:description>印記: 「南葵文庫」</dc:description>
+      <dc:description>虫損あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BC06963840"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>川越市埋蔵文化財発掘調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001599101</link>
+      <description><![CDATA[<p>第17集,川越市教育委員会,2007-03,<p><ul><li>タイトル：川越市埋蔵文化財発掘調査報告書</li><li>タイトル（読み）：カワゴエシ マイゾウ ブンカザイ ハックツ チョウサ ホウコクショ</li><li>責任表示：川越市教育委員会／編</li><li>各巻タイトル：川越城跡　：　第22・23・24次発掘調査報告書</li><li>各巻タイトル（読み）：カワゴエジョウアト　ダイニジュウニ ニジュウサン ニジュウヨジ ハックツ チョウサ ホウコクショ</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>川越市教育委員会,川越市教育委員会／編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001599101</guid>
+      <pubDate>Tue, 27 Sep 2022 02:00:22 +0900</pubDate>
+      <dc:title>川越市埋蔵文化財発掘調査報告書</dc:title>
+      <dcndl:titleTranscription>カワゴエシ マイゾウ ブンカザイ ハックツ チョウサ ホウコクショ</dcndl:titleTranscription>
+      <dc:creator>川越市教育委員会</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:volume>第17集</dcndl:volume>
+      <dcndl:volumeTitle>川越城跡　：　第22・23・24次発掘調査報告書</dcndl:volumeTitle>
+      <dcndl:volumeTitleTranscription>カワゴエジョウアト　ダイニジュウニ ニジュウサン ニジュウヨジ ハックツ チョウサ ホウコクショ</dcndl:volumeTitleTranscription>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007-03</dc:date>
+      <dcterms:issued>2007.3</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>44p 図版5枚</dc:extent>
+      <dc:subject>遺跡・遺物-川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001599101"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2296058&amp;ctg=1"/>
+      <dc:description> 2007-03</dc:description>
+    </item>
+    <item>
+      <title>川越城跡第38次調査・第40次調査の成果報告</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032259501</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：川越城跡第38次調査・第40次調査の成果報告</li><li>タイトル（読み）：カワゴエ シロアト ダイ38ジ チョウサ ・ ダイ40ジ チョウサ ノ セイカ ホウコク</li><li>責任表示：髙木 麻里帆</li><li>シリーズ名：第175回特別例会報告</li><li>シリーズ名（読み）：ダイ175カイ トクベツ レイカイ ホウコク</li></ul>]]></description>
+      <author>髙木 麻里帆,髙木 麻里帆</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032259501</guid>
+      <pubDate>Fri, 15 Jul 2022 20:06:36 +0900</pubDate>
+      <dc:title>川越城跡第38次調査・第40次調査の成果報告</dc:title>
+      <dcndl:titleTranscription>カワゴエ シロアト ダイ38ジ チョウサ ・ ダイ40ジ チョウサ ノ セイカ ホウコク</dcndl:titleTranscription>
+      <dc:creator>髙木 麻里帆</dc:creator>
+      <dcndl:seriesTitle>第175回特別例会報告</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ダイ175カイ トクベツ レイカイ ホウコク</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032259501</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032259501"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520855732132679296"/>
+      <dc:description>掲載誌：江戸遺跡研究 / 江戸遺跡研究会 編 9 p.121-127</dc:description>
+    </item>
+    <item>
+      <title>川越城出土の土人形について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390290700444746240</link>
+      <description><![CDATA[<p>2001-11-30,<p><ul><li>タイトル：川越城出土の土人形について</li></ul>]]></description>
+      <author>大谷,徹</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390290700444746240</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越城出土の土人形について</dc:title>
+      <dc:creator>大谷,徹</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2001-11-30</dc:date>
+      <dcterms:issued>2001-11-30</dcterms:issued>
+      <dc:subject>川越城</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/3934"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390290700444746240"/>
+      <dc:description>掲載誌：埼玉県埋蔵文化財調査事業団報告書 : 川越城・小在家2 2001-11-30 p.253-256</dc:description>
+    </item>
+    <item>
+      <title>川越城・小在家2</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005050246</link>
+      <description><![CDATA[<p>（財）埼玉県埋蔵文化財調査事業団,2001-11-30,<p><ul><li>タイトル：川越城・小在家2</li><li>責任表示：金子,直行,大谷,徹,佐々木,健策</li></ul>]]></description>
+      <author>金子,直行,大谷,徹,佐々木,健策,金子,直行,大谷,徹,佐々木,健策</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005050246</guid>
+      <pubDate>Thu, 3 Jul 2025 18:42:40 +0900</pubDate>
+      <dc:title>川越城・小在家2</dc:title>
+      <dc:creator>金子,直行</dc:creator>
+      <dc:creator>大谷,徹</dc:creator>
+      <dc:creator>佐々木,健策</dc:creator>
+      <dc:publisher>（財）埼玉県埋蔵文化財調査事業団</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2001-11-30</dc:date>
+      <dcterms:issued>2001-11-30</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/26906"/>
+      <dc:description>掲載誌：埼玉県埋蔵文化財調査事業団報告書 2001-11-30</dc:description>
+    </item>
+    <item>
+      <title>川越・城と町まちの歴史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001596938</link>
+      <description><![CDATA[<p>聚海書林,1982,4-915521-13-3<p><ul><li>タイトル：川越・城と町まちの歴史</li><li>タイトル（読み）：カワゴエ シロ ト マチマチ ノ レキシ</li><li>責任表示：小泉功, 斎藤貞夫 著</li></ul>]]></description>
+      <author>小泉, 功, 1927-,斎藤, 貞夫, 1938-,小泉功, 斎藤貞夫 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001596938</guid>
+      <pubDate>Fri, 18 Mar 1983 09:00:00 +0900</pubDate>
+      <dc:title>川越・城と町まちの歴史</dc:title>
+      <dcndl:titleTranscription>カワゴエ シロ ト マチマチ ノ レキシ</dcndl:titleTranscription>
+      <dc:creator>小泉, 功, 1927-</dc:creator>
+      <dc:creator>斎藤, 貞夫, 1938-</dc:creator>
+      <dcndl:creatorTranscription>コイズミ, イサオ, 1927-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>サイトウ, サダオ, 1938-</dcndl:creatorTranscription>
+      <dc:publisher>聚海書林</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1982</dc:date>
+      <dcterms:issued>1982.12</dcterms:issued>
+      <dcndl:price>1900円</dcndl:price>
+      <dc:extent>279p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-915521-13-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-915521-13-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001596938</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">83014044</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <dc:description>年表・参考文献: p272～277</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1112805004"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116217439"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1322652&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100108636"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100030647"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0136209/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10264759"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000663344"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001596938"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9642730"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN03137710"/>
+      <dc:description> 1982</dc:description>
+    </item>
+    <item>
+      <title>川越城「堀」小考</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390009225468051584</link>
+      <description><![CDATA[<p>2003-07-31,<p><ul><li>タイトル：川越城「堀」小考</li></ul>]]></description>
+      <author>天ヶ嶋,岳</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390009225468051584</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越城「堀」小考</dc:title>
+      <dc:creator>天ヶ嶋,岳</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-07-31</dc:date>
+      <dcterms:issued>2003-07-31</dcterms:issued>
+      <dc:subject>川越城</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/3845"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390009225468051584"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 : 川越城跡　第11次調査 2003-07-31 p.69-75</dc:description>
+    </item>
+    <item>
+      <title>川越城本丸西遺跡家老詰所移築にともなう発掘調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070992</link>
+      <description><![CDATA[<p>川越市遺跡調査会,1991-03-31,<p><ul><li>タイトル：川越城本丸西遺跡家老詰所移築にともなう発掘調査報告書</li><li>責任表示：小泉,功</li></ul>]]></description>
+      <author>小泉,功,小泉,功</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005070992</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>川越城本丸西遺跡家老詰所移築にともなう発掘調査報告書</dc:title>
+      <dc:creator>小泉,功</dc:creator>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991-03-31</dc:date>
+      <dcterms:issued>1991-03-31</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49739"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 1991-03-31</dc:description>
+    </item>
+    <item>
+      <title>川越城下町散策 : 小江戸歴史ウォーキングのすすめ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1573105975191474432</link>
+      <description><![CDATA[<p>2007-06-15,<p><ul><li>タイトル：川越城下町散策 : 小江戸歴史ウォーキングのすすめ</li></ul>]]></description>
+      <author>田中 敦子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1573105975191474432</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越城下町散策 : 小江戸歴史ウォーキングのすすめ</dc:title>
+      <dc:creator>田中 敦子</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2007-06-15</dc:date>
+      <dcterms:issued>2007-06-15</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1573105975191474432"/>
+      <dc:description>掲載誌：土木学会誌 6 2007-06-15 p.34-35</dc:description>
+    </item>
+    <item>
+      <title>川越城址(初雁武徳殿)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I58665</link>
+      <description><![CDATA[<p>川越市役所,<p><ul><li>タイトル：川越城址(初雁武徳殿)</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I58665</guid>
+      <pubDate>Tue, 2 Dec 2025 16:41:29 +0900</pubDate>
+      <dc:title>川越城址(初雁武徳殿)</dc:title>
+      <dc:publisher>川越市役所</dc:publisher>
+      <dc:description>静止画</dc:description>
+      <dc:description>絵葉書</dc:description>
+      <dc:description>川越名勝絵葉書</dc:description>
+      <dc:description>この 作品 は クリエイティブ・コモンズ 表示 4.0 国際 ライセンスの下に提供されています。</dc:description>
+      <dc:description>ウェブ公開</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/tamashin/catalog/mp2020e053232-200010"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>川越城主時代の柳沢吉保</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I008970004080793</link>
+      <description><![CDATA[<p>川越市立博物館・美術館,2014-10,<p><ul><li>タイトル：川越城主時代の柳沢吉保</li><li>責任表示：福留, 真紀,Fukutome, Maki</li></ul>]]></description>
+      <author>福留, 真紀,Fukutome, Maki,福留, 真紀,Fukutome, Maki</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I008970004080793</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>川越城主時代の柳沢吉保</dc:title>
+      <dc:creator>福留, 真紀</dc:creator>
+      <dc:creator>Fukutome, Maki</dc:creator>
+      <dc:publisher>川越市立博物館・美術館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2014-10</dc:date>
+      <dcterms:issued>2014-10</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <dc:description>identifier:oai:t2r2.star.titech.ac.jp:50399967</dc:description>
+      <rdfs:seeAlso rdf:resource="http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100757911"/>
+      <dc:description>掲載誌：川越市立博物館・美術館特別展『没後３００年記念柳沢吉保とその時代―柳沢文庫伝来の品々を中心に―』展示図録 2014-10</dc:description>
+    </item>
+    <item>
+      <title>川越城主時代の柳澤吉保</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1010000782180934272</link>
+      <description><![CDATA[<p>2014,<p><ul><li>タイトル：川越城主時代の柳澤吉保</li></ul>]]></description>
+      <author>福留 真紀</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1010000782180934272</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>川越城主時代の柳澤吉保</dc:title>
+      <dc:creator>福留 真紀</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1010000782180934272"/>
+      <dc:description>掲載誌：川越市立博物館・同美術館『没後300年記念　柳澤吉保とその時代　－柳沢文庫伝来の品々を中心に－』展示図録 2014 p.5-6</dc:description>
+    </item>
+    <item>
+      <title>川越城跡</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005050245</link>
+      <description><![CDATA[<p>（財）埼玉県埋蔵文化財調査事業団,2005-03-31,<p><ul><li>タイトル：川越城跡</li><li>責任表示：栗岡,潤,安生,素明</li></ul>]]></description>
+      <author>栗岡,潤,安生,素明,栗岡,潤,安生,素明</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005050245</guid>
+      <pubDate>Thu, 29 Aug 2024 18:18:11 +0900</pubDate>
+      <dc:title>川越城跡</dc:title>
+      <dc:creator>栗岡,潤</dc:creator>
+      <dc:creator>安生,素明</dc:creator>
+      <dc:publisher>（財）埼玉県埋蔵文化財調査事業団</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2005-03-31</dc:date>
+      <dcterms:issued>2005-03-31</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/26905"/>
+      <dc:description>掲載誌：埼玉県埋蔵文化財調査事業団報告書 300 2005-03-31</dc:description>
+    </item>
+    <item>
+      <title>川越城跡　第11次調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005071010</link>
+      <description><![CDATA[<p>川越市遺跡調査会,2003-07-31,<p><ul><li>タイトル：川越城跡　第11次調査</li><li>責任表示：天ヶ嶋,岳</li></ul>]]></description>
+      <author>天ヶ嶋,岳,天ヶ嶋,岳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005071010</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>川越城跡　第11次調査</dc:title>
+      <dc:creator>天ヶ嶋,岳</dc:creator>
+      <dc:publisher>川越市遺跡調査会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-07-31</dc:date>
+      <dcterms:issued>2003-07-31</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49757"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 2003-07-31</dc:description>
+    </item>
+    <item>
+      <title>川越城跡（第15次発掘調査報告書）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005071011</link>
+      <description><![CDATA[<p>川越市教育委員会,2003-12-22,<p><ul><li>タイトル：川越城跡（第15次発掘調査報告書）</li><li>責任表示：井口,信久</li></ul>]]></description>
+      <author>井口,信久,井口,信久</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005071011</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>川越城跡（第15次発掘調査報告書）</dc:title>
+      <dc:creator>井口,信久</dc:creator>
+      <dc:publisher>川越市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-12-22</dc:date>
+      <dcterms:issued>2003-12-22</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/49758"/>
+      <dc:description>掲載誌：川越市遺跡調査会調査報告書 2003-12-22</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,468 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>酒井忠勝 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E9%85%92%E4%BA%95%E5%BF%A0%E5%8B%9D&amp;cnt=20</link>
+    <description>Search results for title=酒井忠勝 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>178</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>（江戸幕府老中連署覚 酒井忠勝在国御礼への返書）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_517221</link>
+      <description><![CDATA[<p>1642-08-26,<p><ul><li>タイトル：（江戸幕府老中連署覚 酒井忠勝在国御礼への返書）</li><li>責任表示：阿部対馬守他2名</li><li>シリーズ名：酒井家文庫</li></ul>]]></description>
+      <author>阿部対馬守他2名,阿部対馬守他2名</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_517221</guid>
+      <pubDate>Sat, 3 Jun 2023 09:54:00 +0900</pubDate>
+      <dc:title>（江戸幕府老中連署覚 酒井忠勝在国御礼への返書）</dc:title>
+      <dc:creator>阿部対馬守他2名</dc:creator>
+      <dcndl:seriesTitle>酒井家文庫</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1642-08-26</dc:date>
+      <dcterms:issued>1642年08月26日</dcterms:issued>
+      <dc:description>折紙 目録種別：古文書（資料） 管理セクション：小浜市</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-517221"/>
+      <dc:description> 1642-08-26</dc:description>
+    </item>
+    <item>
+      <title>圓心上書 : 井伊直孝 ; 仰景録 : 酒井忠勝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859795599931</link>
+      <description><![CDATA[<p>國史研究會,1917,<p><ul><li>タイトル：圓心上書 : 井伊直孝 ; 仰景録 : 酒井忠勝</li><li>タイトル（読み）：エンシン ジョウショ : イイ ナオタカ ; ギョウケイロク : サカイ タダカツ</li><li>責任表示：堀田璋左右, 川上多助共編 ; 萩野由之監修</li></ul>]]></description>
+      <author>堀田, 璋左右,川上, 多助,萩野, 由之,井伊, 直孝,酒井, 忠勝,堀田璋左右, 川上多助共編 ; 萩野由之監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859795599931</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>圓心上書 : 井伊直孝 ; 仰景録 : 酒井忠勝</dc:title>
+      <dcndl:titleTranscription>エンシン ジョウショ : イイ ナオタカ ; ギョウケイロク : サカイ タダカツ</dcndl:titleTranscription>
+      <dc:creator>堀田, 璋左右</dc:creator>
+      <dc:creator>川上, 多助</dc:creator>
+      <dc:creator>萩野, 由之</dc:creator>
+      <dc:creator>井伊, 直孝</dc:creator>
+      <dc:creator>酒井, 忠勝</dc:creator>
+      <dcndl:creatorTranscription>ホッタ, ショウゾウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>カワカミ, タスケ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ハギノ, ヨシユキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イイ, ナオタカ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>サカイ, タダカツ</dcndl:creatorTranscription>
+      <dc:publisher>國史研究會</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1917</dc:date>
+      <dcterms:issued>1917.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA34179906</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA34179906"/>
+      <dc:description> 1917</dc:description>
+    </item>
+    <item>
+      <title>圓心上書　：　井伊直孝 : 迎景録　：　酒井忠勝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I07111100705818</link>
+      <description><![CDATA[<p>國史研究会,1917,<p><ul><li>タイトル：圓心上書　：　井伊直孝 : 迎景録　：　酒井忠勝</li><li>タイトル（読み）：エンシン　ジョウショ　イイ　ナオタカ : ゲイケイロク　サカイ　タダカツ</li><li>責任表示：堀田璋左右 ; 川上多助 編 ; 萩野由之 監修</li><li>シリーズ名：日本偉人言行資料</li><li>シリーズ名（読み）：ニホン　イジン　ゲンコウ　シリョウ</li><li>NDC(9)：281.08</li></ul>]]></description>
+      <author>堀田璋左右,川上多助,萩野由之,堀田璋左右 ; 川上多助 編 ; 萩野由之 監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I07111100705818</guid>
+      <pubDate>Sat, 23 Apr 2022 08:00:00 +0900</pubDate>
+      <dc:title>圓心上書　：　井伊直孝 : 迎景録　：　酒井忠勝</dc:title>
+      <dcndl:titleTranscription>エンシン　ジョウショ　イイ　ナオタカ : ゲイケイロク　サカイ　タダカツ</dcndl:titleTranscription>
+      <dc:creator>堀田璋左右</dc:creator>
+      <dc:creator>川上多助</dc:creator>
+      <dc:creator>萩野由之</dc:creator>
+      <dcndl:creatorTranscription>ホッタ, ショウゾウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>カワカミ, タスケ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ハギノ, ヨシユキ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>日本偉人言行資料</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ニホン　イジン　ゲンコウ　シリョウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>國史研究会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1917</dc:date>
+      <dcterms:issued>１９１７．６</dcterms:issued>
+      <dc:extent>２２２ｐ ; ２０ｃｍ</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">281.08</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100705818"/>
+      <dc:description> 1917</dc:description>
+    </item>
+    <item>
+      <title>円心上書 : 井伊直孝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I31111100982403</link>
+      <description><![CDATA[<p>国史研究会,1917,<p><ul><li>タイトル：円心上書 : 井伊直孝</li><li>タイトル（読み）：エンシン　ジョウショ : イイ　ナオタカ</li><li>責任表示：中野円心 〔著〕,山口安固 〔著〕 ; 堀田璋左右 共編 ; 川上多助 共編</li><li>シリーズ名：日本偉人言行資料</li><li>シリーズ名（読み）：ニホン　イジン　ゲンコウ　シリョウ</li></ul>]]></description>
+      <author>中野円心,山口安固,堀田璋左右,川上多助,中野円心 〔著〕,山口安固 〔著〕 ; 堀田璋左右 共編 ; 川上多助 共編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I31111100982403</guid>
+      <pubDate>Tue, 8 Mar 2011 00:00:00 +0900</pubDate>
+      <dc:title>円心上書 : 井伊直孝</dc:title>
+      <dcndl:titleTranscription>エンシン　ジョウショ : イイ　ナオタカ</dcndl:titleTranscription>
+      <dc:creator>中野円心</dc:creator>
+      <dc:creator>山口安固</dc:creator>
+      <dc:creator>堀田璋左右</dc:creator>
+      <dc:creator>川上多助</dc:creator>
+      <dcndl:creatorTranscription>ナカノ，エンシン</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤマグチ，ヤスカタ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ホッタ，ショウゾウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>カワカミ，タスケ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>日本偉人言行資料</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ニホン　イジン　ゲンコウ　シリョウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>国史研究会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1917</dc:date>
+      <dcterms:issued>1917.6</dcterms:issued>
+      <dcndl:price>１円</dcndl:price>
+      <dc:extent>５，２２２ｐ ; ２０ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">94320557</dc:identifier>
+      <dc:subject>井伊直孝</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100885657"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1103007053"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001010104583"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10211874"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10482438"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100982403"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100207765"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1104032204"/>
+      <dc:description> 1917</dc:description>
+    </item>
+    <item>
+      <title>贈従三位酒井忠勝墓前策命</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_517241</link>
+      <description><![CDATA[<p>1916-01-22,<p><ul><li>タイトル：贈従三位酒井忠勝墓前策命</li><li>シリーズ名：酒井家文庫</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_517241</guid>
+      <pubDate>Sat, 3 Jun 2023 09:54:00 +0900</pubDate>
+      <dc:title>贈従三位酒井忠勝墓前策命</dc:title>
+      <dcndl:seriesTitle>酒井家文庫</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1916-01-22</dc:date>
+      <dcterms:issued>1916年01月22日</dcterms:issued>
+      <dc:description>一紙 目録種別：古文書（資料） 管理セクション：小浜市</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-517241"/>
+      <dc:description> 1916-01-22</dc:description>
+    </item>
+    <item>
+      <title>小浜城を完成させた酒井忠勝公</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I18111104729437</link>
+      <description><![CDATA[<p>小浜城復元市民の会,2007,<p><ul><li>タイトル：小浜城を完成させた酒井忠勝公</li><li>タイトル（読み）：オバマジョウ オ カンセイサセタ サカイ タダカツコウ</li><li>責任表示：小浜城復元市民の会 [編]</li></ul>]]></description>
+      <author>オバマジョウ フクゲン シミン ノ カイ,小浜城復元市民の会 [編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I18111104729437</guid>
+      <pubDate>Wed, 9 Jan 2008 09:00:00 +0900</pubDate>
+      <dc:title>小浜城を完成させた酒井忠勝公</dc:title>
+      <dcndl:titleTranscription>オバマジョウ オ カンセイサセタ サカイ タダカツコウ</dcndl:titleTranscription>
+      <dc:creator>オバマジョウ フクゲン シミン ノ カイ</dc:creator>
+      <dcndl:creatorTranscription>オバマジョウ フクゲン シミン ノ カイ</dcndl:creatorTranscription>
+      <dc:publisher>小浜城復元市民の会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dc:extent>4p ; 30cm</dc:extent>
+      <dc:subject>酒井忠勝</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104729437/"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>小浜藩祖酒井忠勝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859718899154</link>
+      <description><![CDATA[<p>小浜市立図書館,1972,<p><ul><li>タイトル：小浜藩祖酒井忠勝</li><li>タイトル（読み）：オバマ ハンソ サカイ タダカツ</li><li>責任表示：小浜市立図書館編</li></ul>]]></description>
+      <author>小浜市立図書館,小浜市立図書館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859718899154</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>小浜藩祖酒井忠勝</dc:title>
+      <dcndl:titleTranscription>オバマ ハンソ サカイ タダカツ</dcndl:titleTranscription>
+      <dc:creator>小浜市立図書館</dc:creator>
+      <dcndl:creatorTranscription>オバマ シリツ トショカン</dcndl:creatorTranscription>
+      <dc:publisher>小浜市立図書館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>1974.12</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA8010965X</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC8">289.1</dc:subject>
+      <dc:description>奥付・背の書名: 酒井忠勝</dc:description>
+      <dc:description>酒井忠勝略年譜: p40-41</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA8010965X"/>
+      <dc:description> 1972</dc:description>
+    </item>
+    <item>
+      <title>小浜藩祖酒井忠勝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010691558</link>
+      <description><![CDATA[<p>小浜市立図書館,1974,<p><ul><li>タイトル：小浜藩祖酒井忠勝</li><li>タイトル（読み）：オバマハンソ サカイ タダカツ</li><li>責任表示：小浜市立図書館 編</li><li>シリーズ名：若狭人物叢書 ; 4</li><li>シリーズ名（読み）：ワカサ ジンブツ ソウショ</li></ul>]]></description>
+      <author>小浜市立図書館,小浜市立図書館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010691558</guid>
+      <pubDate>Wed, 10 Feb 2010 17:21:45 +0900</pubDate>
+      <dc:title>小浜藩祖酒井忠勝</dc:title>
+      <dcndl:titleTranscription>オバマハンソ サカイ タダカツ</dcndl:titleTranscription>
+      <dc:creator>小浜市立図書館</dc:creator>
+      <dcndl:creatorTranscription>オバマ シリツ トショカン</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>若狭人物叢書 ; 4</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ワカサ ジンブツ ソウショ</dcndl:seriesTitleTranscription>
+      <dc:publisher>小浜市立図書館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1974</dc:date>
+      <dcterms:issued>1974.12</dcterms:issued>
+      <dc:extent>42p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010691558</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21705026</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y121</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010691558"/>
+      <dc:description> 1974</dc:description>
+    </item>
+    <item>
+      <title>旧小浜藩主酒井忠勝寄進のタカの絵が日光東照宮で発見</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I031_2807736</link>
+      <description><![CDATA[<p>1959-06-19,<p><ul><li>タイトル：旧小浜藩主酒井忠勝寄進のタカの絵が日光東照宮で発見</li><li>シリーズ名：朝日新聞</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I031_2807736</guid>
+      <pubDate>Wed, 30 Nov 2022 17:56:00 +0900</pubDate>
+      <dc:title>旧小浜藩主酒井忠勝寄進のタカの絵が日光東照宮で発見</dc:title>
+      <dcndl:seriesTitle>朝日新聞</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1959-06-19</dc:date>
+      <dcterms:issued>1959年06月19日</dcterms:issued>
+      <dc:description>目録種別：新聞記事 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=031-2807736"/>
+      <dc:description>掲載誌：朝日新聞,朝 1959-06-19</dc:description>
+    </item>
+    <item>
+      <title>郷土史料展覧会目録 : 酒井忠勝公入城三百年紀念</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I18111103651754</link>
+      <description><![CDATA[<p>1934,<p><ul><li>タイトル：郷土史料展覧会目録 : 酒井忠勝公入城三百年紀念</li><li>タイトル（読み）：キョウド シリョウ テンランカイ モクロク</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I18111103651754</guid>
+      <pubDate>Sat, 20 May 2006 09:00:00 +0900</pubDate>
+      <dc:title>郷土史料展覧会目録 : 酒井忠勝公入城三百年紀念</dc:title>
+      <dcndl:titleTranscription>キョウド シリョウ テンランカイ モクロク</dcndl:titleTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">1934</dc:date>
+      <dc:extent>40p ; 19cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103651754/"/>
+      <dc:description> 1934</dc:description>
+    </item>
+    <item>
+      <title>記録書抜（酒井忠勝関係）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_517905</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：記録書抜（酒井忠勝関係）</li><li>シリーズ名：酒井家文庫</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_517905</guid>
+      <pubDate>Sat, 3 Jun 2023 09:57:00 +0900</pubDate>
+      <dc:title>記録書抜（酒井忠勝関係）</dc:title>
+      <dcndl:seriesTitle>酒井家文庫</dcndl:seriesTitle>
+      <dc:description>冊子 目録種別：古文書（資料） 管理セクション：小浜市</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-517905"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>仰景録 : 酒井忠勝言行録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I18111110129540</link>
+      <description><![CDATA[<p>若狭史学会,2015,<p><ul><li>タイトル：仰景録 : 酒井忠勝言行録</li><li>タイトル（読み）：ギョウケイ ロク</li><li>責任表示：岡村昌二郎 編</li></ul>]]></description>
+      <author>オカムラ,ショウジロウ,岡村昌二郎 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I18111110129540</guid>
+      <pubDate>Thu, 10 Sep 2015 09:00:00 +0900</pubDate>
+      <dc:title>仰景録 : 酒井忠勝言行録</dc:title>
+      <dcndl:titleTranscription>ギョウケイ ロク</dcndl:titleTranscription>
+      <dc:creator>オカムラ,ショウジロウ</dc:creator>
+      <dcndl:creatorTranscription>オカムラ,ショウジロウ</dcndl:creatorTranscription>
+      <dc:publisher>若狭史学会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcndl:price>非売品</dcndl:price>
+      <dc:extent>172p ; 19cm</dc:extent>
+      <dc:subject>小浜藩</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289.1</dc:subject>
+      <dc:description>略年表・系譜あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110129540/"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>仰景録 2巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007282863</link>
+      <description><![CDATA[<p>写,<p><ul><li>タイトル：仰景録 2巻</li><li>タイトル（読み）：ギョウケイロク</li><li>責任表示：山口安固</li></ul>]]></description>
+      <author>山口, 春水, 1692-1771,山口安固</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007282863</guid>
+      <pubDate>Tue, 25 Sep 2018 20:22:56 +0900</pubDate>
+      <dc:title>仰景録 2巻</dc:title>
+      <dcndl:titleTranscription>ギョウケイロク</dcndl:titleTranscription>
+      <dc:creator>山口, 春水, 1692-1771</dc:creator>
+      <dcndl:creatorTranscription>ヤマグチ, シュンスイ, 1692-1771</dcndl:creatorTranscription>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:extent>2冊 (合1冊)</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007282863</dc:identifier>
+      <dc:subject>伝記</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007282863"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>仰景録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809784797710</link>
+      <description><![CDATA[<p>[製作者不明],<p><ul><li>タイトル：仰景録</li><li>タイトル（読み）：ギョウケイロク</li><li>責任表示：山口安固識</li></ul>]]></description>
+      <author>山口, 春水,山口安固識</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809784797710</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>仰景録</dc:title>
+      <dcndl:titleTranscription>ギョウケイロク</dcndl:titleTranscription>
+      <dc:creator>山口, 春水</dc:creator>
+      <dcndl:creatorTranscription>ヤマグチ, シュンスイ</dcndl:creatorTranscription>
+      <dc:publisher>[製作者不明]</dc:publisher>
+      <dcterms:issued>[1---]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA58824514</dc:identifier>
+      <dc:description>稀覯本につき記述対象資料毎に書誌作成</dc:description>
+      <dc:description>写本</dc:description>
+      <dc:description>2巻2冊 (1帙入)</dc:description>
+      <dc:description>書き題簽, 坤の巻頭の書名: 空印仰景録</dc:description>
+      <dc:description>「國書總目録 補訂版」(岩波書店, 1989-1991)の参考項目書名: 酒井忠勝言行録, 酒井空印言行録</dc:description>
+      <dc:description>著者名は跋より</dc:description>
+      <dc:description>全[133]丁 (乾: [62]丁, 坤: [71]丁)</dc:description>
+      <dc:description>乾, 坤の最終丁は後表紙に貼付</dc:description>
+      <dc:description>跋に「明和二年乙酉十一月冬至日」とあり</dc:description>
+      <dc:description>保存状態: 汚損, 虫損あり, 表紙に焼損, くたびれあり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA58824514"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>（口宣案 酒井忠勝左近衛権少將）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_517237</link>
+      <description><![CDATA[<p>1643-10-14,<p><ul><li>タイトル：（口宣案 酒井忠勝左近衛権少將）</li><li>シリーズ名：酒井家文庫</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_517237</guid>
+      <pubDate>Sat, 3 Jun 2023 09:54:00 +0900</pubDate>
+      <dc:title>（口宣案 酒井忠勝左近衛権少將）</dc:title>
+      <dcndl:seriesTitle>酒井家文庫</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1643-10-14</dc:date>
+      <dcterms:issued>1643年10月14日</dcterms:issued>
+      <dc:description>一紙 目録種別：古文書（資料） 管理セクション：小浜市</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-517237"/>
+      <dc:description> 1643-10-14</dc:description>
+    </item>
+    <item>
+      <title>（口宣案 酒井忠勝従四位上叙）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_517236</link>
+      <description><![CDATA[<p>1643-10-14,<p><ul><li>タイトル：（口宣案 酒井忠勝従四位上叙）</li><li>シリーズ名：酒井家文庫</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_517236</guid>
+      <pubDate>Sat, 3 Jun 2023 09:54:00 +0900</pubDate>
+      <dc:title>（口宣案 酒井忠勝従四位上叙）</dc:title>
+      <dcndl:seriesTitle>酒井家文庫</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1643-10-14</dc:date>
+      <dcterms:issued>1643年10月14日</dcterms:issued>
+      <dc:description>一紙 目録種別：古文書（資料） 管理セクション：小浜市</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-517236"/>
+      <dc:description> 1643-10-14</dc:description>
+    </item>
+    <item>
+      <title>小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館25周年記念特別展展示図録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026808981</link>
+      <description><![CDATA[<p>川越市立博物館,2015,<p><ul><li>タイトル：小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館25周年記念特別展展示図録</li><li>タイトル（読み）：コボリ エンシュウ ト カワゴエ ハンシュ : エンシュウ ト サカイ タダカツ ノ コウリュウ オ チュウシン ニ : カイカン 25シュウネン キネン トクベツテン テンジ ズロク</li><li>責任表示：川越市立博物館 編</li><li>NDC(9)：791.2</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026808981</guid>
+      <pubDate>Sat, 16 Jun 2018 07:10:44 +0900</pubDate>
+      <dc:title>小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館25周年記念特別展展示図録</dc:title>
+      <dcndl:titleTranscription>コボリ エンシュウ ト カワゴエ ハンシュ : エンシュウ ト サカイ タダカツ ノ コウリュウ オ チュウシン ニ : カイカン 25シュウネン キネン トクベツテン テンジ ズロク</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.10</dcterms:issued>
+      <dc:extent>106p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026808981</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22655926</dc:identifier>
+      <dc:subject>茶道--歴史--江戸初期</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KD915</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">791.2</dc:subject>
+      <dc:description>会期: 平成27年10月10日-11月15日</dc:description>
+      <dc:description>年譜あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152739122"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026808981"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館二十五周年記念特別展</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859724555557</link>
+      <description><![CDATA[<p>川越市立博物館,2015,<p><ul><li>タイトル：小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館二十五周年記念特別展</li><li>タイトル（読み）：コボリ エンシュウ ト カワゴエ ハンシュ : エンシュウ ト サカイ タダカツ ノ コウリュウ オ チュウシン ニ : カイカン 25シュウネン キネン トクベツテン</li><li>責任表示：川越市立博物館編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859724555557</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>小堀遠州と川越藩主 : 遠州と酒井忠勝の交流を中心に : 開館二十五周年記念特別展</dc:title>
+      <dcndl:titleTranscription>コボリ エンシュウ ト カワゴエ ハンシュ : エンシュウ ト サカイ タダカツ ノ コウリュウ オ チュウシン ニ : カイカン 25シュウネン キネン トクベツテン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB1974368X</dc:identifier>
+      <dc:subject>展覧会カタログ</dc:subject>
+      <dc:description>展覧会カタログ</dc:description>
+      <dc:description>会期・会場: 2015年10月10日-11月15日:川越市立博物館</dc:description>
+      <dc:description>小堀遠州関係略年表: p102-103</dc:description>
+      <dc:description>展示資料一覧: p104-105</dc:description>
+      <dc:description>主要参考文献: p106</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101692222"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2516255&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB1974368X"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>古文書鑑上巻のうち伝・酒井忠勝書状</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I454708</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：古文書鑑上巻のうち伝・酒井忠勝書状</li><li>責任表示：伝・酒井忠勝</li></ul>]]></description>
+      <author>伝・酒井忠勝</author>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I454708</guid>
+      <pubDate>Wed, 10 Dec 2025 09:02:49 +0900</pubDate>
+      <dc:title>古文書鑑上巻のうち伝・酒井忠勝書状</dc:title>
+      <dcterms:issued>10月12日</dcterms:issued>
+      <dc:extent>1</dc:extent>
+      <dc:description>折紙</dc:description>
+      <dc:description>無し</dc:description>
+      <dc:description>真田宝物館収蔵資料－真田家資料－書画</dc:description>
+      <dc:description>ウェブ公開</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/nagano-city/catalog/sc00025225"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>宰相の道 : 大老 小浜藩酒井家初代藩主・酒井忠勝の生涯</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I18111105198956</link>
+      <description><![CDATA[<p>若狭史学会,2013,<p><ul><li>タイトル：宰相の道 : 大老 小浜藩酒井家初代藩主・酒井忠勝の生涯</li><li>タイトル（読み）：サイショウ ノ ミチ</li><li>責任表示：岡村昌二郎 著</li></ul>]]></description>
+      <author>オカムラ,ショウジロウ,岡村昌二郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I18111105198956</guid>
+      <pubDate>Sun, 27 Oct 2013 09:00:00 +0900</pubDate>
+      <dc:title>宰相の道 : 大老 小浜藩酒井家初代藩主・酒井忠勝の生涯</dc:title>
+      <dcndl:titleTranscription>サイショウ ノ ミチ</dcndl:titleTranscription>
+      <dc:creator>オカムラ,ショウジロウ</dc:creator>
+      <dcndl:creatorTranscription>オカムラ,ショウジロウ</dcndl:creatorTranscription>
+      <dc:publisher>若狭史学会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>436p ; 19cm</dc:extent>
+      <dc:subject>酒井忠勝</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">913.6</dc:subject>
+      <dc:description>奥付の副タイトル「大老 酒井忠勝の生涯」</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105198956/"/>
+      <dc:description> 2013</dc:description>
+    </item>
+  </channel>
+</rss>

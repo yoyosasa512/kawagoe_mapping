@@ -1,0 +1,538 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>神社 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E7%A5%9E%E7%A4%BE&amp;cnt=20</link>
+    <description>Search results for title=神社 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>59593</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>噫炎上せる粟嶋神社</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000533744</link>
+      <description><![CDATA[<p>松田真一,1925,<p><ul><li>タイトル：噫炎上せる粟嶋神社</li><li>タイトル（読み）：アア エンジョウセル アワシマ ジンジャ</li><li>責任表示：松田真一 著</li></ul>]]></description>
+      <author>松田, 真一,松田真一 著</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000533744</guid>
+      <pubDate>Fri, 16 Feb 1996 09:00:00 +0900</pubDate>
+      <dc:title>噫炎上せる粟嶋神社</dc:title>
+      <dcndl:titleTranscription>アア エンジョウセル アワシマ ジンジャ</dcndl:titleTranscription>
+      <dc:creator>松田, 真一</dc:creator>
+      <dcndl:creatorTranscription>マツダ, シンイチ</dcndl:creatorTranscription>
+      <dc:publisher>松田真一</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1925</dc:date>
+      <dcterms:issued>大正14</dcterms:issued>
+      <dc:extent>57p 図版</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000533744</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">42005940</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">175</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100081148"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000533744"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/911253"/>
+      <dc:description> 1925</dc:description>
+    </item>
+    <item>
+      <title>アーカイブズウイーク記念講演録 賀茂別雷神社文書と岡山の荘園</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033459072</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アーカイブズウイーク記念講演録 賀茂別雷神社文書と岡山の荘園</li><li>タイトル（読み）：アーカイブズウイーク キネン コウエンロク カモワケイカズチ ジンジャ ブンショ ト オカヤマ ノ ショウエン</li><li>責任表示：辰田 芳雄</li></ul>]]></description>
+      <author>辰田 芳雄,辰田 芳雄</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033459072</guid>
+      <pubDate>Thu, 9 May 2024 00:58:36 +0900</pubDate>
+      <dc:title>アーカイブズウイーク記念講演録 賀茂別雷神社文書と岡山の荘園</dc:title>
+      <dcndl:titleTranscription>アーカイブズウイーク キネン コウエンロク カモワケイカズチ ジンジャ ブンショ ト オカヤマ ノ ショウエン</dcndl:titleTranscription>
+      <dc:creator>辰田 芳雄</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033459072</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU8</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033459072"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520863102442550784"/>
+      <dc:description>掲載誌：岡山県立記録資料館紀要 / 岡山県立記録資料館 編 19 p.1-16</dc:description>
+    </item>
+    <item>
+      <title>鳴呼警神増田巡査 : 増田神社の由来</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I41111100014899</link>
+      <description><![CDATA[<p>佐賀県警察部,1931,<p><ul><li>タイトル：鳴呼警神増田巡査 : 増田神社の由来</li><li>タイトル（読み）：アア　ケイシン　マスダ　ジュンサ : マスダ　ジンジャ　ノ　ユライ</li><li>責任表示：連修 述</li></ul>]]></description>
+      <author>連, 修,連修 述</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I41111100014899</guid>
+      <pubDate>Wed, 23 Oct 2024 20:00:00 +0900</pubDate>
+      <dc:title>鳴呼警神増田巡査 : 増田神社の由来</dc:title>
+      <dcndl:titleTranscription>アア　ケイシン　マスダ　ジュンサ : マスダ　ジンジャ　ノ　ユライ</dcndl:titleTranscription>
+      <dc:creator>連, 修</dc:creator>
+      <dcndl:creatorTranscription>レン, シュウ</dcndl:creatorTranscription>
+      <dc:publisher>佐賀県警察部</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1931</dc:date>
+      <dcterms:issued>1931</dcterms:issued>
+      <dc:extent>２１ｐ ; １８ｃｍ</dc:extent>
+      <dc:subject>増田　太郎</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100014899"/>
+      <dc:description> 1931</dc:description>
+    </item>
+    <item>
+      <title>アースダイバー神社編</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031391451</link>
+      <description><![CDATA[<p>講談社,2021,978-4-06-521775-7<p><ul><li>タイトル：アースダイバー神社編</li><li>タイトル（読み）：アース ダイバー ジンジャヘン</li><li>責任表示：中沢新一 著</li><li>NDC(10)：175</li></ul>]]></description>
+      <author>中沢, 新一, 1950-,中沢新一 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031391451</guid>
+      <pubDate>Wed, 19 May 2021 19:11:47 +0900</pubDate>
+      <dc:title>アースダイバー神社編</dc:title>
+      <dcndl:titleTranscription>アース ダイバー ジンジャヘン</dcndl:titleTranscription>
+      <dc:creator>中沢, 新一, 1950-</dc:creator>
+      <dcndl:creatorTranscription>ナカザワ, シンイチ, 1950-</dcndl:creatorTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.4</dcterms:issued>
+      <dcndl:price>2200円</dcndl:price>
+      <dc:extent>366p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-521775-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031391451</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23524688</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34198057</dc:identifier>
+      <dc:subject>神社</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HL51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">175</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001580360"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104246717"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/1101297569/"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920846730"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1120365168"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120026038"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000614178"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102472452"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1110872219"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3100082&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153806369"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113871994"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3496281&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2545404"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1120383824"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000897861"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001411822/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000150202/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190572604"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000556837"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103764110"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1190676313"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4786210/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B11982882"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13925785"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015028640"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001119821"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1345421"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120206128"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120403572"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1130536349"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812489363"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12717905"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110504358"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001813789/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110603880"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130300553"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1120061512"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120546622"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111700978"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1102363406"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002938949"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1150279932"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110323949"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1112004968"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031391451"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4333139"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4337366"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BC06874762"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000288055S"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065217757"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>アーチ型向拝柱を持つ神社と大工高木 : 長岡市域歴史的建造物調査報告その2</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1570291227519040128</link>
+      <description><![CDATA[<p>2002-06-23,<p><ul><li>タイトル：アーチ型向拝柱を持つ神社と大工高木 : 長岡市域歴史的建造物調査報告その2</li></ul>]]></description>
+      <author>筑波 匡介,平山 育男,後藤 満</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1570291227519040128</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>アーチ型向拝柱を持つ神社と大工高木 : 長岡市域歴史的建造物調査報告その2</dc:title>
+      <dc:creator>筑波 匡介</dc:creator>
+      <dc:creator>平山 育男</dc:creator>
+      <dc:creator>後藤 満</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2002-06-23</dc:date>
+      <dcterms:issued>2002-06-23</dcterms:issued>
+      <dc:subject>アーチ型向拝柱</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1570291227519040128"/>
+      <dc:description>掲載誌：日本建築学会北陸支部研究報告集 45 2002-06-23 p.343-346</dc:description>
+    </item>
+    <item>
+      <title>アート作品「励ましの神社」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390294186609742464</link>
+      <description><![CDATA[<p>2022-11-08,<p><ul><li>タイトル：アート作品「励ましの神社」</li></ul>]]></description>
+      <author>南井 勇輝,糜 莎莎,張 彦芳</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390294186609742464</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>アート作品「励ましの神社」</dc:title>
+      <dc:creator>南井 勇輝</dc:creator>
+      <dc:creator>糜 莎莎</dc:creator>
+      <dc:creator>張 彦芳</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2022-11-08</dc:date>
+      <dcterms:issued>2022-11-08</dcterms:issued>
+      <dc:subject>social emotional learning</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.24520/designresearch.85.0_64"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390294186609742464"/>
+      <dc:description>掲載誌：芸術工学会誌 0 2022-11-08 p.64-65</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516</link>
+      <description><![CDATA[<p>湊川神社,2009,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009-</dcterms:issued>
+      <dc:extent>冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">01021442</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275379</link>
+      <description><![CDATA[<p>([1]) 2009.新春,湊川神社,2009,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275379</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>([1]) 2009.新春</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275379"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275408</link>
+      <description><![CDATA[<p>2号 2010年1月,湊川神社,2010,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275408</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>2号 2010年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275408"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275452</link>
+      <description><![CDATA[<p>3号 2011年1月,湊川神社,2011,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275452</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>3号 2011年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275452"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275480</link>
+      <description><![CDATA[<p>4号 2012年1月,湊川神社,2012,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275480</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>4号 2012年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275480"/>
+      <dc:description> 2012</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275519</link>
+      <description><![CDATA[<p>5号 2013年1月,湊川神社,2013,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275519</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>5号 2013年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275519"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275548</link>
+      <description><![CDATA[<p>6号 2014年1月,湊川神社,2014,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275548</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>6号 2014年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275548"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275591</link>
+      <description><![CDATA[<p>7号 2015年1月,湊川神社,2015,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275591</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>7号 2015年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275591"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275621</link>
+      <description><![CDATA[<p>8号 2016年1月,湊川神社,2016,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275621</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>8号 2016年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275621"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275668</link>
+      <description><![CDATA[<p>9号 2017年1月,湊川神社,2017,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275668</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>9号 2017年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275668"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275690</link>
+      <description><![CDATA[<p>10号 2018年1月,湊川神社,2018,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275690</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>10号 2018年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275690"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275760</link>
+      <description><![CDATA[<p>11号 2019年1月,湊川神社,2019,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275760</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>11号 2019年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275760"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275821</link>
+      <description><![CDATA[<p>12号 2020年1月,湊川神社,2020,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275821</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>12号 2020年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275821"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>あゝ楠公さん : 湊川神社社報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275957</link>
+      <description><![CDATA[<p>13号 2021年1月,湊川神社,2021,<p><ul><li>タイトル：あゝ楠公さん : 湊川神社社報</li><li>タイトル（読み）：アア ナンコウサン : ミナトガワ ジンジャ シャホウ</li></ul>]]></description>
+      <author>湊川神社 (神戸市)</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275957</guid>
+      <pubDate>Wed, 28 Jan 2009 20:10:30 +0900</pubDate>
+      <dc:title>あゝ楠公さん : 湊川神社社報</dc:title>
+      <dcndl:titleTranscription>アア ナンコウサン : ミナトガワ ジンジャ シャホウ</dcndl:titleTranscription>
+      <dc:creator>湊川神社 (神戸市)</dc:creator>
+      <dcndl:creatorTranscription>ミナトガワ ジンジャ (コウベシ)</dcndl:creatorTranscription>
+      <dcndl:volume>13号 2021年1月</dcndl:volume>
+      <dc:publisher>湊川神社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009979516</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH6</dc:subject>
+      <dc:description>本タイトル等は最新号による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009979516-i2275957"/>
+      <dc:description> 2021</dc:description>
+    </item>
+  </channel>
+</rss>

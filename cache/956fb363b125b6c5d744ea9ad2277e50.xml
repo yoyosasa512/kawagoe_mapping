@@ -1,0 +1,436 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>貝塚 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E8%B2%9D%E5%A1%9A&amp;cnt=20</link>
+    <description>Search results for title=貝塚 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>14721</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>アートプロジェクトにおける来場者評価プロセス : 第2回貝塚まちなかアートミュージアムにおける来場者調査を中心に</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027118822</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アートプロジェクトにおける来場者評価プロセス : 第2回貝塚まちなかアートミュージアムにおける来場者調査を中心に</li><li>タイトル（読み）：アートプロジェクト ニ オケル ライジョウシャ ヒョウカ プロセス : ダイ2カイ カイズカマチナカアートミュージアム ニ オケル ライジョウシャ チョウサ オ チュウシン ニ</li><li>責任表示：米田 晶</li></ul>]]></description>
+      <author>米田 晶,米田 晶</author>
+      <category>記事</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027118822</guid>
+      <pubDate>Wed, 26 Oct 2022 00:12:54 +0900</pubDate>
+      <dc:title>アートプロジェクトにおける来場者評価プロセス : 第2回貝塚まちなかアートミュージアムにおける来場者調査を中心に</dc:title>
+      <dcndl:titleTranscription>アートプロジェクト ニ オケル ライジョウシャ ヒョウカ プロセス : ダイ2カイ カイズカマチナカアートミュージアム ニ オケル ライジョウシャ チョウサ オ チュウシン ニ</dcndl:titleTranscription>
+      <dc:creator>米田 晶</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027118822</dc:identifier>
+      <dc:subject>アートプロジェクト</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZD33</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027118822"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520009410067247872"/>
+      <dc:description>掲載誌：日本観光研究学会全国大会学術論文集 = Proceedings of JITR annual conference p.305-308</dc:description>
+    </item>
+    <item>
+      <title>愛玩具</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390010457690149120</link>
+      <description><![CDATA[<p>1951-06-25,<p><ul><li>タイトル：愛玩具</li></ul>]]></description>
+      <author>大場,利夫</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390010457690149120</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛玩具</dc:title>
+      <dc:creator>大場,利夫</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1951-06-25</dc:date>
+      <dcterms:issued>1951-06-25</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/34677"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390010457690149120"/>
+      <dc:description>掲載誌：貝塚 1951-06-25 p.1-1</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121102972573</link>
+      <description><![CDATA[<p>第１編,福島県いわき建設事務所,1997,<p><ul><li>タイトル：相子島貝塚 : 縄文時代後・晩期貝塚の調査</li><li>タイトル（読み）：アイコシマ　カイズカ : ジョウモン　ジダイ　コウ　バンキ　カイズカ　ノ　チョウサ</li><li>責任表示：いわき市教育文化事業団 編</li><li>シリーズ名：いわき市埋蔵文化財調査報告 ; 第４７冊</li><li>シリーズ名（読み）：イワキシ　マイゾウ　ブンカザイ　チョウサ　ホウコク ; ４７</li></ul>]]></description>
+      <author>いわき市教育文化事業団,いわき市教育文化事業団 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121102972573</guid>
+      <pubDate>Wed, 31 May 2000 00:00:00 +0900</pubDate>
+      <dc:title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</dc:title>
+      <dcndl:titleTranscription>アイコシマ　カイズカ : ジョウモン　ジダイ　コウ　バンキ　カイズカ　ノ　チョウサ</dcndl:titleTranscription>
+      <dc:creator>いわき市教育文化事業団</dc:creator>
+      <dcndl:creatorTranscription>イワキシ, キョウイク, ブンカ, ジギョウダン</dcndl:creatorTranscription>
+      <dcndl:volume>第１編</dcndl:volume>
+      <dcndl:seriesTitle>いわき市埋蔵文化財調査報告 ; 第４７冊</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>イワキシ　マイゾウ　ブンカザイ　チョウサ　ホウコク ; ４７</dcndl:seriesTitleTranscription>
+      <dc:publisher>福島県いわき建設事務所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>１９９７．３</dcterms:issued>
+      <dc:extent>１４５ｐ　図版２５ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>いわき市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">212.6</dc:subject>
+      <dc:description>共同刊行：いわき市教育委員会</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100358385"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100949149"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000900372"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1102972573"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1105016635"/>
+      <dc:description> 1997</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121102972581</link>
+      <description><![CDATA[<p>第２編,福島県いわき建設事務所,1997,<p><ul><li>タイトル：相子島貝塚 : 縄文時代後・晩期貝塚の調査</li><li>タイトル（読み）：アイコシマ　カイズカ : ジョウモン　ジダイ　コウ　バンキ　カイズカ　ノ　チョウサ</li><li>責任表示：いわき市教育文化事業団 編</li><li>シリーズ名：いわき市埋蔵文化財調査報告 ; 第４７冊</li><li>シリーズ名（読み）：イワキシ　マイゾウ　ブンカザイ　チョウサ　ホウコク ; ４７</li></ul>]]></description>
+      <author>いわき市教育文化事業団,いわき市教育文化事業団 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121102972581</guid>
+      <pubDate>Wed, 31 May 2000 00:00:00 +0900</pubDate>
+      <dc:title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</dc:title>
+      <dcndl:titleTranscription>アイコシマ　カイズカ : ジョウモン　ジダイ　コウ　バンキ　カイズカ　ノ　チョウサ</dcndl:titleTranscription>
+      <dc:creator>いわき市教育文化事業団</dc:creator>
+      <dcndl:creatorTranscription>イワキシ, キョウイク, ブンカ, ジギョウダン</dcndl:creatorTranscription>
+      <dcndl:volume>第２編</dcndl:volume>
+      <dcndl:seriesTitle>いわき市埋蔵文化財調査報告 ; 第４７冊</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>イワキシ　マイゾウ　ブンカザイ　チョウサ　ホウコク ; ４７</dcndl:seriesTitleTranscription>
+      <dc:publisher>福島県いわき建設事務所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>１９９７．３</dcterms:issued>
+      <dc:extent>１４１ｐ　図版１２ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>いわき市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">212.6</dc:subject>
+      <dc:description>共同刊行：いわき市教育委員会</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100358386"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100949154"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000900373"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1102972581"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1105016636"/>
+      <dc:description> 1997</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002868767</link>
+      <description><![CDATA[<p>第1編,いわき市教育委員会,1997,<p><ul><li>タイトル：相子島貝塚 : 縄文時代後・晩期貝塚の調査</li><li>タイトル（読み）：アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</li><li>責任表示：いわき市教育文化事業団 編</li><li>シリーズ名：いわき市埋蔵文化財調査報告 ; 第47冊</li><li>シリーズ名（読み）：イワキシ マイゾウ ブンカザイ チョウサ ホウコク ; 47</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>いわき市教育文化事業団,いわき市教育文化事業団 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002868767</guid>
+      <pubDate>Wed, 20 Dec 2000 19:01:00 +0900</pubDate>
+      <dc:title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</dc:title>
+      <dcndl:titleTranscription>アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</dcndl:titleTranscription>
+      <dc:creator>いわき市教育文化事業団</dc:creator>
+      <dcndl:creatorTranscription>イワキシ キョウイク ブンカ ジギョウダン</dcndl:creatorTranscription>
+      <dcndl:volume>第1編</dcndl:volume>
+      <dcndl:seriesTitle>いわき市埋蔵文化財調査報告 ; 第47冊</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>イワキシ マイゾウ ブンカザイ チョウサ ホウコク ; 47</dcndl:seriesTitleTranscription>
+      <dc:publisher>いわき市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>1997.3</dcterms:issued>
+      <dc:extent>145p 図版25p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002868767</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20042746</dc:identifier>
+      <dc:subject>いわき市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB141</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:description>共同刊行: 福島県いわき建設事務所</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920876524"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101293909"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002868767"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/14048033"/>
+      <dc:description> 1997</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002868768</link>
+      <description><![CDATA[<p>第2編,いわき市教育委員会,1997,<p><ul><li>タイトル：相子島貝塚 : 縄文時代後・晩期貝塚の調査</li><li>タイトル（読み）：アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</li><li>責任表示：いわき市教育文化事業団 編</li><li>シリーズ名：いわき市埋蔵文化財調査報告 ; 第47冊</li><li>シリーズ名（読み）：イワキシ マイゾウ ブンカザイ チョウサ ホウコク ; 47</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>いわき市教育文化事業団,いわき市教育文化事業団 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002868768</guid>
+      <pubDate>Wed, 20 Dec 2000 19:02:00 +0900</pubDate>
+      <dc:title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</dc:title>
+      <dcndl:titleTranscription>アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</dcndl:titleTranscription>
+      <dc:creator>いわき市教育文化事業団</dc:creator>
+      <dcndl:creatorTranscription>イワキシ キョウイク ブンカ ジギョウダン</dcndl:creatorTranscription>
+      <dcndl:volume>第2編</dcndl:volume>
+      <dcndl:seriesTitle>いわき市埋蔵文化財調査報告 ; 第47冊</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>イワキシ マイゾウ ブンカザイ チョウサ ホウコク ; 47</dcndl:seriesTitleTranscription>
+      <dc:publisher>いわき市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>1997.3</dcterms:issued>
+      <dc:extent>141p 図版12p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002868768</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20042747</dc:identifier>
+      <dc:subject>いわき市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB141</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:description>共同刊行: 福島県いわき建設事務所</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920876525"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101293910"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002868768"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/14048032"/>
+      <dc:description> 1997</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809732082076</link>
+      <description><![CDATA[<p>福島県いわき建設事務所 : いわき市教育委員会,1997,<p><ul><li>タイトル：相子島貝塚 : 縄文時代後・晩期貝塚の調査</li><li>タイトル（読み）：アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</li><li>責任表示：いわき市教育文化事業団編集</li></ul>]]></description>
+      <author>いわき市教育文化事業団,いわき市教育文化事業団編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809732082076</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相子島貝塚 : 縄文時代後・晩期貝塚の調査</dc:title>
+      <dcndl:titleTranscription>アイコシマ カイズカ : ジョウモン ジダイ コウ バンキ カイズカ ノ チョウサ</dcndl:titleTranscription>
+      <dc:creator>いわき市教育文化事業団</dc:creator>
+      <dcndl:creatorTranscription>イワキシ キョウイク ブンカ ジギョウダン</dcndl:creatorTranscription>
+      <dc:publisher>福島県いわき建設事務所 : いわき市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>1997.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA46438229</dc:identifier>
+      <dc:subject>いわき市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB121</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.2</dc:subject>
+      <dc:description>付図:25枚(袋入)</dc:description>
+      <dc:description>各編に文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA46438229"/>
+      <dc:description> 1997</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005047257</link>
+      <description><![CDATA[<p>いわき建設事務所,1997-03-19,<p><ul><li>タイトル：相子島貝塚</li><li>責任表示：木幡,成雄,山崎,京美,江川,逸生,末永,成清,猪狩,みち子,黒住,耐二,掛川,陽子,渡邉,一雄</li></ul>]]></description>
+      <author>木幡,成雄,山崎,京美,江川,逸生,末永,成清,猪狩,みち子,黒住,耐二,掛川,陽子,渡邉,一雄,木幡,成雄,山崎,京美,江川,逸生,末永,成清,猪狩,みち子,黒住,耐二,掛川,陽子,渡邉,一雄</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005047257</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>相子島貝塚</dc:title>
+      <dc:creator>木幡,成雄</dc:creator>
+      <dc:creator>山崎,京美</dc:creator>
+      <dc:creator>江川,逸生</dc:creator>
+      <dc:creator>末永,成清</dc:creator>
+      <dc:creator>猪狩,みち子</dc:creator>
+      <dc:creator>黒住,耐二</dc:creator>
+      <dc:creator>掛川,陽子</dc:creator>
+      <dc:creator>渡邉,一雄</dc:creator>
+      <dc:publisher>いわき建設事務所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1997-03-19</dc:date>
+      <dcterms:issued>1997-03-19</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/23328"/>
+      <dc:description>掲載誌：いわき市埋蔵文化財調査報告 1997-03-19</dc:description>
+    </item>
+    <item>
+      <title>相子島貝塚採集の縄文土器</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390854882621091072</link>
+      <description><![CDATA[<p>1996-01-19,<p><ul><li>タイトル：相子島貝塚採集の縄文土器</li></ul>]]></description>
+      <author>木幡,成雄,小野,浩</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390854882621091072</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>相子島貝塚採集の縄文土器</dc:title>
+      <dc:creator>木幡,成雄</dc:creator>
+      <dc:creator>小野,浩</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1996-01-19</dc:date>
+      <dcterms:issued>1996-01-19</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/27107"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390854882621091072"/>
+      <dc:description>掲載誌：いわき市教育文化事業団研究紀要 1996-01-19 p.21-30</dc:description>
+    </item>
+    <item>
+      <title>相州カヤマ貝塚(全人)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390001205374482944</link>
+      <description><![CDATA[<p>1899,<p><ul><li>タイトル：相州カヤマ貝塚(全人)</li></ul>]]></description>
+      <author>佐藤 傳藏</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390001205374482944</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>相州カヤマ貝塚(全人)</dc:title>
+      <dc:creator>佐藤 傳藏</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1899</dc:date>
+      <dcterms:issued>1899</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.1537/ase1887.14.278a"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390001205374482944"/>
+      <dc:description>掲載誌：東京人類學會雜誌 157 1899 p.278a-279</dc:description>
+    </item>
+    <item>
+      <title>愛知県碧海郡明治村八剣貝塚について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390573407664794112</link>
+      <description><![CDATA[<p>1952-03-20,<p><ul><li>タイトル：愛知県碧海郡明治村八剣貝塚について</li></ul>]]></description>
+      <author>三井,博</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390573407664794112</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県碧海郡明治村八剣貝塚について</dc:title>
+      <dc:creator>三井,博</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1952-03-20</dc:date>
+      <dcterms:issued>1952-03-20</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/34713"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390573407664794112"/>
+      <dc:description>掲載誌：貝塚 1952-03-20 p.2-4</dc:description>
+    </item>
+    <item>
+      <title>愛知県安城市堀内貝塚の&lt;14&gt;^C年代測定</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390009224404568832</link>
+      <description><![CDATA[<p>2002-03,<p><ul><li>タイトル：愛知県安城市堀内貝塚の<14>^C年代測定</li></ul>]]></description>
+      <author>小田 寛貴,Oda Hirotaka,山本 直人,Yamamoto Naoto</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390009224404568832</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県安城市堀内貝塚の&lt;14&gt;^C年代測定</dc:title>
+      <dc:creator>小田 寛貴</dc:creator>
+      <dc:creator>Oda Hirotaka</dc:creator>
+      <dc:creator>山本 直人</dc:creator>
+      <dc:creator>Yamamoto Naoto</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2002-03</dc:date>
+      <dcterms:issued>2002-03</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://hdl.handle.net/2237/13554"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390009224404568832"/>
+      <dc:description>掲載誌：名古屋大学加速器質量分析計業績報告書 2002-03 p.170-176</dc:description>
+    </item>
+    <item>
+      <title>愛知県朝日貝塚</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815264086656</link>
+      <description><![CDATA[<p>1953-05-25,<p><ul><li>タイトル：愛知県朝日貝塚</li></ul>]]></description>
+      <author>犬山高校地歴部</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815264086656</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>愛知県朝日貝塚</dc:title>
+      <dc:creator>犬山高校地歴部</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1953-05-25</dc:date>
+      <dcterms:issued>1953-05-25</dcterms:issued>
+      <dc:subject>縄文</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/89037"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390292815264086656"/>
+      <dc:description>掲載誌：地歴学報 : 地歴学報 1 1953-05-25 p.3-19</dc:description>
+    </item>
+    <item>
+      <title>愛知県熱田貝塚出土の弥生式土器</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390854882575994496</link>
+      <description><![CDATA[<p>1930-01-15,<p><ul><li>タイトル：愛知県熱田貝塚出土の弥生式土器</li></ul>]]></description>
+      <author>杉山,寿栄男</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390854882575994496</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県熱田貝塚出土の弥生式土器</dc:title>
+      <dc:creator>杉山,寿栄男</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1930-01-15</dc:date>
+      <dcterms:issued>1930-01-15</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/57182"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390854882575994496"/>
+      <dc:description>掲載誌：史前学雑誌 1930-01-15 p.80-80</dc:description>
+    </item>
+    <item>
+      <title>愛知県渥美郡渥美町保美貝塚第2号貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815263032320</link>
+      <description><![CDATA[<p>1966-05-01,<p><ul><li>タイトル：愛知県渥美郡渥美町保美貝塚第2号貝塚の調査</li></ul>]]></description>
+      <author>久永,春男</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390292815263032320</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県渥美郡渥美町保美貝塚第2号貝塚の調査</dc:title>
+      <dc:creator>久永,春男</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1966-05-01</dc:date>
+      <dcterms:issued>1966-05-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/99190"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390292815263032320"/>
+      <dc:description>掲載誌：日本考古学協会総会研究発表要旨 1966-05-01 p.8-8</dc:description>
+    </item>
+    <item>
+      <title>愛知縣渥美郡福江町保美平城貝塚発掘概報</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390001204309725696</link>
+      <description><![CDATA[<p>1923,<p><ul><li>タイトル：愛知縣渥美郡福江町保美平城貝塚発掘概報</li></ul>]]></description>
+      <author>大山 柏</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390001204309725696</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知縣渥美郡福江町保美平城貝塚発掘概報</dc:title>
+      <dc:creator>大山 柏</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1923</dc:date>
+      <dcterms:issued>1923</dcterms:issued>
+      <dc:subject>General Medicine</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.1537/ase1911.38.1"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390001204309725696"/>
+      <dc:description>掲載誌：人類學雜誌 1 1923 p.1-25_5</dc:description>
+    </item>
+    <item>
+      <title>愛知県伊川津貝塚の人骨</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1573387450178432000</link>
+      <description><![CDATA[<p>1972,<p><ul><li>タイトル：愛知県伊川津貝塚の人骨</li></ul>]]></description>
+      <author>鈴木尚</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1573387450178432000</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県伊川津貝塚の人骨</dc:title>
+      <dc:creator>鈴木尚</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>1972</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1573387450178432000"/>
+      <dc:description>掲載誌：伊川津貝塚調査報告 1972</dc:description>
+    </item>
+    <item>
+      <title>愛知県大西貝塚</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390573407620821760</link>
+      <description><![CDATA[<p>1992-11-01,<p><ul><li>タイトル：愛知県大西貝塚</li></ul>]]></description>
+      <author>岩瀬,彰利</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390573407620821760</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県大西貝塚</dc:title>
+      <dc:creator>岩瀬,彰利</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1992-11-01</dc:date>
+      <dcterms:issued>1992-11-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/37605"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390573407620821760"/>
+      <dc:description>掲載誌：季刊考古学 1992-11-01 p.11-74</dc:description>
+    </item>
+    <item>
+      <title>愛知県大曲輪貝塚</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390855765216159872</link>
+      <description><![CDATA[<p>1983-03-31,<p><ul><li>タイトル：愛知県大曲輪貝塚</li></ul>]]></description>
+      <author>小島,一夫</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390855765216159872</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県大曲輪貝塚</dc:title>
+      <dc:creator>小島,一夫</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1983-03-31</dc:date>
+      <dcterms:issued>1983-03-31</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/100160"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390855765216159872"/>
+      <dc:description>掲載誌：日本考古学年報 1983-03-31 p.188-190</dc:description>
+    </item>
+    <item>
+      <title>愛知県刈谷市芋川貝塚の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390574290239731072</link>
+      <description><![CDATA[<p>1970-06,<p><ul><li>タイトル：愛知県刈谷市芋川貝塚の調査</li></ul>]]></description>
+      <author>久永,春男</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390574290239731072</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛知県刈谷市芋川貝塚の調査</dc:title>
+      <dc:creator>久永,春男</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1970-06</dc:date>
+      <dcterms:issued>1970-06</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/99316"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390574290239731072"/>
+      <dc:description>掲載誌：日本考古学協会総会研究発表要旨 1970-06 p.5-5</dc:description>
+    </item>
+  </channel>
+</rss>

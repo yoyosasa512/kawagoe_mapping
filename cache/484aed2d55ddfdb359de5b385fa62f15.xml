@@ -1,0 +1,275 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>赤沢仁兵衛 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E8%B5%A4%E6%B2%A2%E4%BB%81%E5%85%B5%E8%A1%9B&amp;cnt=20</link>
+    <description>Search results for title=赤沢仁兵衛 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>9</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>赤澤仁兵衛実験甘藷栽培法</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000074-IALIS_QQ20085684</link>
+      <description><![CDATA[<p>埼玉縣比企郡農會,1913-04,<p><ul><li>タイトル：赤澤仁兵衛実験甘藷栽培法</li><li>タイトル（読み）：アカザワ ニヘイ ジッケン カンショ サイバイホウ</li><li>責任表示：埼玉縣比企郡農會 [編]</li></ul>]]></description>
+      <author>埼玉縣比企郡農會,埼玉縣比企郡農會 [編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000074-IALIS_QQ20085684</guid>
+      <pubDate>Tue, 28 Feb 2017 09:00:00 +0900</pubDate>
+      <dc:title>赤澤仁兵衛実験甘藷栽培法</dc:title>
+      <dcndl:titleTranscription>アカザワ ニヘイ ジッケン カンショ サイバイホウ</dcndl:titleTranscription>
+      <dc:creator>埼玉縣比企郡農會</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン ヒキグン ノウカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉縣比企郡農會</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1913-04</dc:date>
+      <dcterms:issued>1913.4</dcterms:issued>
+      <dc:extent>16, 8p</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ20085684"/>
+      <dc:description> 1913-04</dc:description>
+    </item>
+    <item>
+      <title>赤沢仁兵衛実験甘藷栽培法</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116935733</link>
+      <description><![CDATA[<p>新井玉三郎,1910,<p><ul><li>タイトル：赤沢仁兵衛実験甘藷栽培法</li><li>タイトル（読み）：アカザワ　ニへエ　ジッケン　カンショ　サイバイホウ</li><li>責任表示：赤沢仁兵衛 〔著〕</li><li>NDC(9)：616.8</li></ul>]]></description>
+      <author>赤沢, 仁兵衛,赤沢仁兵衛 〔著〕</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116935733</guid>
+      <pubDate>Tue, 5 Dec 2000 00:00:00 +0900</pubDate>
+      <dc:title>赤沢仁兵衛実験甘藷栽培法</dc:title>
+      <dcndl:titleTranscription>アカザワ　ニへエ　ジッケン　カンショ　サイバイホウ</dcndl:titleTranscription>
+      <dc:creator>赤沢, 仁兵衛</dc:creator>
+      <dcndl:creatorTranscription>アカザワ, ニヘエ</dcndl:creatorTranscription>
+      <dc:publisher>新井玉三郎</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1910</dc:date>
+      <dcterms:issued>１９１０</dcterms:issued>
+      <dc:extent>１０　１７ｐ　図版 ; ２３ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">616.8</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116935733"/>
+      <dc:description> 1910</dc:description>
+    </item>
+    <item>
+      <title>赤沢仁兵衛実験甘藷栽培法</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000477412</link>
+      <description><![CDATA[<p>谷貞之進,1912,<p><ul><li>タイトル：赤沢仁兵衛実験甘藷栽培法</li><li>タイトル（読み）：アカザワ ニヘエ ジッケン カンショ サイバイホウ</li></ul>]]></description>
+      <author>赤沢, 仁兵衛, 1837-1920</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000477412</guid>
+      <pubDate>Thu, 28 Jul 2011 08:59:59 +0900</pubDate>
+      <dc:title>赤沢仁兵衛実験甘藷栽培法</dc:title>
+      <dcndl:titleTranscription>アカザワ ニヘエ ジッケン カンショ サイバイホウ</dcndl:titleTranscription>
+      <dc:creator>赤沢, 仁兵衛, 1837-1920</dc:creator>
+      <dcndl:creatorTranscription>アカザワ, ニヘエ, 1837-1920</dcndl:creatorTranscription>
+      <dc:publisher>谷貞之進</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1912</dc:date>
+      <dcterms:issued>明45.9</dcterms:issued>
+      <dc:extent>17p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000477412</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40059982</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">610</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000477412"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/838209"/>
+      <dc:description> 1912</dc:description>
+    </item>
+    <item>
+      <title>イラスト赤沢仁兵衛物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000074-IALIS_QQ20411767</link>
+      <description><![CDATA[<p>EIJISON企画,1990-08,<p><ul><li>タイトル：イラスト赤沢仁兵衛物語</li><li>タイトル（読み）：イラスト アカザワ ニヘイ モノガタリ</li><li>責任表示：[山田 えいじ]</li><li>シリーズ名：川越いも入門百科シリーズ</li><li>シリーズ名（読み）：カワゴエイモニュウモンヒャッカシリーズ</li></ul>]]></description>
+      <author>[山田 えいじ]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000074-IALIS_QQ20411767</guid>
+      <pubDate>Tue, 28 Feb 2017 09:00:00 +0900</pubDate>
+      <dc:title>イラスト赤沢仁兵衛物語</dc:title>
+      <dcndl:titleTranscription>イラスト アカザワ ニヘイ モノガタリ</dcndl:titleTranscription>
+      <dcndl:seriesTitle>川越いも入門百科シリーズ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエイモニュウモンヒャッカシリーズ</dcndl:seriesTitleTranscription>
+      <dc:publisher>EIJISON企画</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1990-08</dc:date>
+      <dcterms:issued>1990.8</dcterms:issued>
+      <dc:extent>12p ; 26cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDLC">DM225</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">616.8</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ20411767"/>
+      <dc:description> 1990-08</dc:description>
+    </item>
+    <item>
+      <title>イラスト赤沢仁兵衛物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121117803323</link>
+      <description><![CDATA[<p>川越市福原公民館,1985,<p><ul><li>タイトル：イラスト赤沢仁兵衛物語</li><li>タイトル（読み）：イラスト　アカザワ　ニヘエ　モノガタリ</li><li>責任表示：川越市福原公民館 編</li><li>シリーズ名：川越いも入門百科シリーズ ; 第４集</li><li>シリーズ名（読み）：カワゴエ　イモ　ニュウモン　ヒャッカ　シリーズ ; ４</li></ul>]]></description>
+      <author>川越市福原公民館,川越市福原公民館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121117803323</guid>
+      <pubDate>Tue, 5 Dec 2000 00:00:00 +0900</pubDate>
+      <dc:title>イラスト赤沢仁兵衛物語</dc:title>
+      <dcndl:titleTranscription>イラスト　アカザワ　ニヘエ　モノガタリ</dcndl:titleTranscription>
+      <dc:creator>川越市福原公民館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエシ, フクハラ, コウミンカン</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越いも入門百科シリーズ ; 第４集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエ　イモ　ニュウモン　ヒャッカ　シリーズ ; ４</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越市福原公民館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1985</dc:date>
+      <dcterms:issued>１９８５</dcterms:issued>
+      <dc:extent>１２ｐ ; ２６ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1117803323"/>
+      <dc:description> 1985</dc:description>
+    </item>
+    <item>
+      <title>イラスト赤沢仁兵衛物語 : 甘藷先生・赤沢仁兵衛没後100周年記念</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033783411</link>
+      <description><![CDATA[<p>サン文化企画研究所,2020,<p><ul><li>タイトル：イラスト赤沢仁兵衛物語 : 甘藷先生・赤沢仁兵衛没後100周年記念</li><li>タイトル（読み）：イラスト アカザワ ニヘエ モノガタリ : サツマイモ センセイ ・ アカザワ ニヘエ ボツゴ 100シュウネン キネン</li><li>責任表示：山田英次 文・絵,井上浩 監修</li><li>シリーズ名：川越いも入門百科シリーズ</li><li>シリーズ名（読み）：カワゴエ イモ ニュウモン ヒャッカ シリーズ</li></ul>]]></description>
+      <author>山田英次 文・絵,井上浩 監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033783411</guid>
+      <pubDate>Fri, 22 Nov 2024 18:28:11 +0900</pubDate>
+      <dc:title>イラスト赤沢仁兵衛物語 : 甘藷先生・赤沢仁兵衛没後100周年記念</dc:title>
+      <dcndl:titleTranscription>イラスト アカザワ ニヘエ モノガタリ : サツマイモ センセイ ・ アカザワ ニヘエ ボツゴ 100シュウネン キネン</dcndl:titleTranscription>
+      <dcndl:edition>改訂版</dcndl:edition>
+      <dcndl:seriesTitle>川越いも入門百科シリーズ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエ イモ ニュウモン ヒャッカ シリーズ</dcndl:seriesTitleTranscription>
+      <dc:publisher>サン文化企画研究所</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.10</dcterms:issued>
+      <dc:extent>20 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033783411</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24050394</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y93</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033783411"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>おいも探訪(14)川越地方の甘藷先生「赤沢仁兵衛(あかざわにへえ)」没後100周年 : 110年前の明治43年に、実験研究を体系化した甘藷増収法の農書を発行!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032530854</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：おいも探訪(14)川越地方の甘藷先生「赤沢仁兵衛(あかざわにへえ)」没後100周年 : 110年前の明治43年に、実験研究を体系化した甘藷増収法の農書を発行!</li><li>タイトル（読み）：オイモタンボウ(14)カワゴエ チホウ ノ サツマイモ センセイ 「 アカザワ ジン ベエ(アカザワ ニ エ エ)」 ボツゴ 100シュウネン : 110ネンマエ ノ メイジ 43ネン ニ 、 ジッケン ケンキュウ オ タイケイカ シタ サツマイモ ゾウシュウホウ ノ ノウショ オ ハッコウ!</li><li>責任表示：山田 英次</li></ul>]]></description>
+      <author>山田 英次,山田 英次</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032530854</guid>
+      <pubDate>Tue, 13 Dec 2022 01:49:53 +0900</pubDate>
+      <dc:title>おいも探訪(14)川越地方の甘藷先生「赤沢仁兵衛(あかざわにへえ)」没後100周年 : 110年前の明治43年に、実験研究を体系化した甘藷増収法の農書を発行!</dc:title>
+      <dcndl:titleTranscription>オイモタンボウ(14)カワゴエ チホウ ノ サツマイモ センセイ 「 アカザワ ジン ベエ(アカザワ ニ エ エ)」 ボツゴ 100シュウネン : 110ネンマエ ノ メイジ 43ネン ニ 、 ジッケン ケンキュウ オ タイケイカ シタ サツマイモ ゾウシュウホウ ノ ノウショ オ ハッコウ!</dcndl:titleTranscription>
+      <dc:creator>山田 英次</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032530854</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZR7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032530854"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520294407605728000"/>
+      <dc:description>掲載誌：いも類振興情報 / いも類振興会 [編] 145 p.64-67</dc:description>
+    </item>
+    <item>
+      <title>明治農書全集第4巻  畑作  発明麦作改良新書、麦菽改良栽培法、麦作講義録、馬鈴薯、赤沢仁兵衛実験  甘藷栽培法、畑作革進論</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000111-I000022189</link>
+      <description><![CDATA[<p>農山漁村文化協会,1985,<p><ul><li>タイトル：明治農書全集第4巻  畑作  発明麦作改良新書、麦菽改良栽培法、麦作講義録、馬鈴薯、赤沢仁兵衛実験  甘藷栽培法、畑作革進論</li><li>タイトル（読み）：ﾒｲｼﾞ ﾉｳｼｮ ｾﾞﾝｼｭｳ ﾀﾞｲ 4ｶﾝ ﾊﾀｻｸ ﾊﾂﾒｲ ﾑｷﾞｻｸ ｶｲﾘｮｳ ｼﾝｼｮ､ﾑｷﾞ 菽 ｶｲﾘｮｳ ｻｲﾊﾞｲ ﾎｳ､ﾑｷﾞｻｸ ｺｳｷﾞ ﾛｸ､ﾊﾞﾚｲｼｮ､ｱｶｻﾞﾜ ﾋﾄｼ ﾍｲ ｴｲ ｼﾞｯｹﾝ ｶﾝｼｮ ｻｲﾊﾞｲ ﾎｳ､ﾊﾀｻｸ ｶﾜ ｽｽﾑ ﾛﾝ</li><li>責任表示：斉藤司、杉田文三、峰幾太郎、小林寿郎、赤沢仁兵衛、前田勝四郎、  古島敏雄(監)、川田信一郎(監)、熊沢喜久雄(監)、須々田黎吉(監)</li></ul>]]></description>
+      <author>斉藤司、杉田文三、峰幾太郎、小林寿郎、赤沢仁兵衛、前田勝四郎、  古島敏雄(監)、川田信一郎(監)、熊沢喜久雄(監)、須々田黎吉(監),斉藤司、杉田文三、峰幾太郎、小林寿郎、赤沢仁兵衛、前田勝四郎、  古島敏雄(監)、川田信一郎(監)、熊沢喜久雄(監)、須々田黎吉(監)</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000111-I000022189</guid>
+      <pubDate>Thu, 25 Mar 2021 09:00:00 +0900</pubDate>
+      <dc:title>明治農書全集第4巻  畑作  発明麦作改良新書、麦菽改良栽培法、麦作講義録、馬鈴薯、赤沢仁兵衛実験  甘藷栽培法、畑作革進論</dc:title>
+      <dcndl:titleTranscription>ﾒｲｼﾞ ﾉｳｼｮ ｾﾞﾝｼｭｳ ﾀﾞｲ 4ｶﾝ ﾊﾀｻｸ ﾊﾂﾒｲ ﾑｷﾞｻｸ ｶｲﾘｮｳ ｼﾝｼｮ､ﾑｷﾞ 菽 ｶｲﾘｮｳ ｻｲﾊﾞｲ ﾎｳ､ﾑｷﾞｻｸ ｺｳｷﾞ ﾛｸ､ﾊﾞﾚｲｼｮ､ｱｶｻﾞﾜ ﾋﾄｼ ﾍｲ ｴｲ ｼﾞｯｹﾝ ｶﾝｼｮ ｻｲﾊﾞｲ ﾎｳ､ﾊﾀｻｸ ｶﾜ ｽｽﾑ ﾛﾝ</dcndl:titleTranscription>
+      <dc:creator>斉藤司、杉田文三、峰幾太郎、小林寿郎、赤沢仁兵衛、前田勝四郎、  古島敏雄(監)、川田信一郎(監)、熊沢喜久雄(監)、須々田黎吉(監)</dc:creator>
+      <dcndl:creatorTranscription>ｻｲﾄｳ ﾂｶｻﾄﾞ､ｽｷﾞﾀ ﾓﾝ ｻﾝ､ﾐﾈ ｷ ﾀﾛｳ､ｺﾊﾞﾔｼ ﾋｻｼ ﾛｳ､ｱｶｻﾞﾜ ﾋﾄｼ ﾍｲ ｴｲ､ﾏｴﾀﾞ ﾏｻﾙ ｼﾛｳ</dcndl:creatorTranscription>
+      <dc:publisher>農山漁村文化協会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1985</dc:date>
+      <dcterms:issued>1985</dcterms:issued>
+      <dc:subject>農書</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.syokubunka.or.jp/library/detail/030331"/>
+      <dc:description> 1985</dc:description>
+    </item>
+    <item>
+      <title>明治農書全集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001740481</link>
+      <description><![CDATA[<p>第4巻,農山漁村文化協会,1985,4-540-85002-4<p><ul><li>タイトル：明治農書全集</li><li>タイトル（読み）：メイジ ノウショ ゼンシュウ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001740481</guid>
+      <pubDate>Thu, 29 Aug 1985 09:00:00 +0900</pubDate>
+      <dc:title>明治農書全集</dc:title>
+      <dcndl:titleTranscription>メイジ ノウショ ゼンシュウ</dcndl:titleTranscription>
+      <dcndl:volume>第4巻</dcndl:volume>
+      <dc:publisher>農山漁村文化協会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1985</dc:date>
+      <dcterms:issued>1985.4</dcterms:issued>
+      <dcndl:price>3500円</dcndl:price>
+      <dc:extent>325, 7p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-540-85002-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-540-85002-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001740481</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">85044626</dc:identifier>
+      <dc:subject>作物栽培</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">RB34</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">610.8</dc:subject>
+      <dc:description>監修: 古島敏雄ほか</dc:description>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.hokkaido.jp/wo/opc/srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000095964"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100196475"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/5010093824/"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010162247"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100176151"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100647080"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120310775"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000363750"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101224585"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100104589"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1123469865"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1509138&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000804462"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100382865"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100000200"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190183344"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=647740"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1100197793"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008912062611"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010151916/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103034291/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010158273"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100210860"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010202008"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001100828084"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100034170"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009310027597"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100257197"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0196603/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10278427"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10502528"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/44289"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100073488"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100695958"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1130756310"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010110775"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B10949724"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100306855"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/5010133061/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100245339"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101190267"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100211024"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108163550"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1100106785"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100902576"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810595409"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103074952"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101197832"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1132254965"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1103051420"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001740481"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12633896"/>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ00848009"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784540850028"/>
+      <dc:description> 1985</dc:description>
+    </item>
+  </channel>
+</rss>

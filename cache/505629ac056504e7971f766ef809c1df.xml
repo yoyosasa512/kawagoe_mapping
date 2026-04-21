@@ -1,0 +1,525 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>妙善寺 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%A6%99%E5%96%84%E5%AF%BA&amp;cnt=20</link>
+    <description>Search results for title=妙善寺 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>43</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>関係史料からみた妙善寺合戦－主に古伝承の検討を通じて－</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I1519594</link>
+      <description><![CDATA[<p>宇喜多家史談会,2011-05-01,<p><ul><li>タイトル：関係史料からみた妙善寺合戦－主に古伝承の検討を通じて－</li><li>責任表示：森 俊弘</li></ul>]]></description>
+      <author>森 俊弘</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I1519594</guid>
+      <pubDate>Fri, 27 Feb 2026 18:06:07 +0900</pubDate>
+      <dc:title>関係史料からみた妙善寺合戦－主に古伝承の検討を通じて－</dc:title>
+      <dc:publisher>宇喜多家史談会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-05-01</dc:date>
+      <dcterms:issued>[2011.5]</dcterms:issued>
+      <dc:subject>郷土雑誌記事索引</dc:subject>
+      <dc:description>対象年齢：全年齢, 高校生</dc:description>
+      <dc:description>雑誌</dc:description>
+      <dc:description>郷土雑誌記事情報</dc:description>
+      <dc:description>郷土雑誌記事索引</dc:description>
+      <dc:description>宇喜多家史談会会報 38 [2011.5] p.1～5</dc:description>
+      <dc:description>デジタルコンテンツなし</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/okayama-pref-digioka/catalog/M2025010911362947440"/>
+      <dc:description> 2011-05-01</dc:description>
+    </item>
+    <item>
+      <title>関係史料からみた妙善寺合戦（前号継承）－主に古伝承の検討を通じて－</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I1519599</link>
+      <description><![CDATA[<p>宇喜多家史談会,2011-07-01,<p><ul><li>タイトル：関係史料からみた妙善寺合戦（前号継承）－主に古伝承の検討を通じて－</li><li>責任表示：森 俊弘</li></ul>]]></description>
+      <author>森 俊弘</author>
+      <category>雑誌</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I1519599</guid>
+      <pubDate>Fri, 27 Feb 2026 18:06:07 +0900</pubDate>
+      <dc:title>関係史料からみた妙善寺合戦（前号継承）－主に古伝承の検討を通じて－</dc:title>
+      <dc:publisher>宇喜多家史談会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-07-01</dc:date>
+      <dcterms:issued>[2011.7]</dcterms:issued>
+      <dc:subject>郷土雑誌記事索引</dc:subject>
+      <dc:description>対象年齢：全年齢, 高校生</dc:description>
+      <dc:description>雑誌</dc:description>
+      <dc:description>郷土雑誌記事情報</dc:description>
+      <dc:description>郷土雑誌記事索引</dc:description>
+      <dc:description>宇喜多家史談会会報 39 [2011.7] p.4～6</dc:description>
+      <dc:description>デジタルコンテンツなし</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/okayama-pref-digioka/catalog/M2025010911362947445"/>
+      <dc:description> 2011-07-01</dc:description>
+    </item>
+    <item>
+      <title>吉備群書集成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000580870</link>
+      <description><![CDATA[<p>第1-3輯,吉備群書集成刊行会,1921,<p><ul><li>タイトル：吉備群書集成</li><li>タイトル（読み）：キビ グンショ シュウセイ</li><li>責任表示：田中誠一 編</li></ul>]]></description>
+      <author>田中, 誠一,田中誠一 編</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000580870</guid>
+      <pubDate>Mon, 8 May 2006 08:59:59 +0900</pubDate>
+      <dc:title>吉備群書集成</dc:title>
+      <dcndl:titleTranscription>キビ グンショ シュウセイ</dcndl:titleTranscription>
+      <dc:creator>田中, 誠一</dc:creator>
+      <dcndl:creatorTranscription>タナカ, セイイチ</dcndl:creatorTranscription>
+      <dcndl:volume>第1-3輯</dcndl:volume>
+      <dc:publisher>吉備群書集成刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1921</dc:date>
+      <dcterms:issued>大正10-11</dcterms:issued>
+      <dc:extent>3冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000580870</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">43033474</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">291.75</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000580870"/>
+      <dc:description> 1921</dc:description>
+    </item>
+    <item>
+      <title>吉備群書集成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000874541</link>
+      <description><![CDATA[<p>第1-10輯,吉備群書集成刊行会,1931,<p><ul><li>タイトル：吉備群書集成</li><li>タイトル（読み）：キビ グンショ シュウセイ</li><li>責任表示：吉備群書集成刊行会 編</li></ul>]]></description>
+      <author>吉備群書集成刊行会,吉備群書集成刊行会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000874541</guid>
+      <pubDate>Sat, 28 Feb 2004 01:54:35 +0900</pubDate>
+      <dc:title>吉備群書集成</dc:title>
+      <dcndl:titleTranscription>キビ グンショ シュウセイ</dcndl:titleTranscription>
+      <dc:creator>吉備群書集成刊行会</dc:creator>
+      <dcndl:creatorTranscription>キビ グンショ シュウセイ カンコウカイ</dcndl:creatorTranscription>
+      <dcndl:volume>第1-10輯</dcndl:volume>
+      <dc:publisher>吉備群書集成刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1931</dc:date>
+      <dcterms:issued>1931-1933</dcterms:issued>
+      <dc:extent>10冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000874541</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">51001965</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">081.7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000874541"/>
+      <dc:description> 1931</dc:description>
+    </item>
+    <item>
+      <title>吉備群書集成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001231286</link>
+      <description><![CDATA[<p>第3輯,歴史図書社,1970,<p><ul><li>タイトル：吉備群書集成</li><li>タイトル（読み）：キビ グンショ シュウセイ</li><li>責任表示：吉備群書集成刊行会 編</li></ul>]]></description>
+      <author>吉備群書集成刊行会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001231286</guid>
+      <pubDate>Wed, 17 Jun 1987 09:00:00 +0900</pubDate>
+      <dc:title>吉備群書集成</dc:title>
+      <dcndl:titleTranscription>キビ グンショ シュウセイ</dcndl:titleTranscription>
+      <dcndl:volume>第3輯</dcndl:volume>
+      <dc:publisher>歴史図書社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1970</dc:date>
+      <dcterms:issued>1970</dcterms:issued>
+      <dcndl:price>2400円</dcndl:price>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001231286</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">73022321</dc:identifier>
+      <dc:subject>岡山県--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">217.5</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC216</dc:subject>
+      <dc:description>吉備群書集成刊行会大正10-昭和7年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009710066971"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1104223386"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001231286"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9573702"/>
+      <dc:description> 1970</dc:description>
+    </item>
+    <item>
+      <title>吉備群書集成</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001521767</link>
+      <description><![CDATA[<p>第3輯 (戦記部),作陽書房,1978,<p><ul><li>タイトル：吉備群書集成</li><li>タイトル（読み）：キビ グンショ シュウセイ</li><li>責任表示：吉備群書集成刊行会 編纂</li></ul>]]></description>
+      <author>吉備群書集成刊行会 編纂</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001521767</guid>
+      <pubDate>Tue, 1 Dec 1981 09:00:00 +0900</pubDate>
+      <dc:title>吉備群書集成</dc:title>
+      <dcndl:titleTranscription>キビ グンショ シュウセイ</dcndl:titleTranscription>
+      <dcndl:volume>第3輯 (戦記部)</dcndl:volume>
+      <dc:publisher>作陽書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1978</dc:date>
+      <dcterms:issued>1978.5</dcterms:issued>
+      <dcndl:price>8800円</dcndl:price>
+      <dc:extent>523p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001521767</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">81046090</dc:identifier>
+      <dc:subject>岡山県--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC216</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">217.5</dc:subject>
+      <dc:description>吉備群書集成刊行会大正11年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190093960"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102315203"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001521767"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9574777"/>
+      <dc:description> 1978</dc:description>
+    </item>
+    <item>
+      <title>現存日蓮聖人御真跡</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000881961</link>
+      <description><![CDATA[<p>[第8] (撰時抄 第2),日蓮聖人御真跡刊行会,1955,<p><ul><li>タイトル：現存日蓮聖人御真跡</li><li>タイトル（読み）：ゲンソン ニチレン ショウニン ゴシンセキ</li><li>責任表示：日蓮 筆,山川智応 編</li></ul>]]></description>
+      <author>日蓮, 1222-1282,山川, 智応, 1879-1956,日蓮 筆,山川智応 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000881961</guid>
+      <pubDate>Wed, 20 Dec 1995 09:00:00 +0900</pubDate>
+      <dc:title>現存日蓮聖人御真跡</dc:title>
+      <dcndl:titleTranscription>ゲンソン ニチレン ショウニン ゴシンセキ</dcndl:titleTranscription>
+      <dc:creator>日蓮, 1222-1282</dc:creator>
+      <dc:creator>山川, 智応, 1879-1956</dc:creator>
+      <dcndl:creatorTranscription>ニチレン, 1222-1282</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ヤマカワ, チオウ, 1879-1956</dcndl:creatorTranscription>
+      <dcndl:volume>[第8] (撰時抄 第2)</dcndl:volume>
+      <dc:publisher>日蓮聖人御真跡刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1955</dc:date>
+      <dcterms:issued>1955</dcterms:issued>
+      <dc:extent>51枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000881961</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">51009389</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">188.92</dc:subject>
+      <dc:description>帖装</dc:description>
+      <dc:description>コロタイプ版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000881961"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/8797942"/>
+      <dc:description> 1955</dc:description>
+    </item>
+    <item>
+      <title>史籍集覧 : 改定</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000430065</link>
+      <description><![CDATA[<p>第15冊,近藤活版所,1902,<p><ul><li>タイトル：史籍集覧 : 改定</li><li>タイトル（読み）：シセキ シュウラン : カイテイ</li><li>責任表示：近藤瓶城 編</li></ul>]]></description>
+      <author>近藤, 瓶城, 1832-1901,近藤瓶城 編</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000430065</guid>
+      <pubDate>Wed, 26 Nov 2025 20:53:39 +0900</pubDate>
+      <dc:title>史籍集覧 : 改定</dc:title>
+      <dcndl:titleTranscription>シセキ シュウラン : カイテイ</dcndl:titleTranscription>
+      <dc:creator>近藤, 瓶城, 1832-1901</dc:creator>
+      <dcndl:creatorTranscription>コンドウ, ヘイジョウ, 1832-1901</dcndl:creatorTranscription>
+      <dcndl:volume>第15冊</dcndl:volume>
+      <dc:publisher>近藤活版所</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1902</dc:date>
+      <dcterms:issued>明35.10</dcterms:issued>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000430065</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40012253</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">210</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000430065"/>
+      <dc:description> 1902</dc:description>
+    </item>
+    <item>
+      <title>史籍集覧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000430038</link>
+      <description><![CDATA[<p>[109] (備前文明乱記・妙善寺合戦記),近藤瓶城,1881,<p><ul><li>タイトル：史籍集覧</li><li>タイトル（読み）：シセキ シュウラン</li><li>責任表示：近藤瓶城 校</li></ul>]]></description>
+      <author>近藤, 瓶城, 1832-1901,近藤瓶城 校</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000430038</guid>
+      <pubDate>Wed, 26 Nov 2025 20:53:47 +0900</pubDate>
+      <dc:title>史籍集覧</dc:title>
+      <dcndl:titleTranscription>シセキ シュウラン</dcndl:titleTranscription>
+      <dc:creator>近藤, 瓶城, 1832-1901</dc:creator>
+      <dcndl:creatorTranscription>コンドウ, ヘイジョウ, 1832-1901</dcndl:creatorTranscription>
+      <dcndl:volume>[109] (備前文明乱記・妙善寺合戦記)</dcndl:volume>
+      <dc:publisher>近藤瓶城</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1881</dc:date>
+      <dcterms:issued>明14.12</dcterms:issued>
+      <dc:extent>21, 8丁</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000430038</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40012225</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">210</dc:subject>
+      <dc:description>観奕堂版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000430038"/>
+      <dc:description> 1881</dc:description>
+    </item>
+    <item>
+      <title>史籍集覧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001118567</link>
+      <description><![CDATA[<p>第15-17冊,近藤出版部,1902,<p><ul><li>タイトル：史籍集覧</li><li>タイトル（読み）：シセキ シュウラン</li><li>責任表示：近藤瓶城 編</li></ul>]]></description>
+      <author>近藤, 瓶城, 1832-1901,近藤瓶城 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001118567</guid>
+      <pubDate>Wed, 26 Nov 2025 20:53:36 +0900</pubDate>
+      <dc:title>史籍集覧</dc:title>
+      <dcndl:titleTranscription>シセキ シュウラン</dcndl:titleTranscription>
+      <dc:creator>近藤, 瓶城, 1832-1901</dc:creator>
+      <dcndl:creatorTranscription>コンドウ, ヘイジョウ, 1832-1901</dcndl:creatorTranscription>
+      <dcndl:volume>第15-17冊</dcndl:volume>
+      <dcndl:edition>改定</dcndl:edition>
+      <dc:publisher>近藤出版部</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1902</dc:date>
+      <dcterms:issued>1902-1926</dcterms:issued>
+      <dc:extent>3冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001118567</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">50001536</dc:identifier>
+      <dc:subject>日本--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">210.08</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001118567"/>
+      <dc:description> 1902</dc:description>
+    </item>
+    <item>
+      <title>史籍集覧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001224776</link>
+      <description><![CDATA[<p>第22冊-第26冊,臨川書店,1967,<p><ul><li>タイトル：史籍集覧</li><li>タイトル（読み）：シセキ シュウラン</li><li>責任表示：近藤瓶城 [原編]</li></ul>]]></description>
+      <author>近藤, 瓶城, 1832-1901,角田, 文衛, 1913-2008,五来, 重, 1908-1993,近藤瓶城 [原編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001224776</guid>
+      <pubDate>Wed, 26 Nov 2025 20:53:35 +0900</pubDate>
+      <dc:title>史籍集覧</dc:title>
+      <dcndl:titleTranscription>シセキ シュウラン</dcndl:titleTranscription>
+      <dc:creator>近藤, 瓶城, 1832-1901</dc:creator>
+      <dc:creator>角田, 文衛, 1913-2008</dc:creator>
+      <dc:creator>五来, 重, 1908-1993</dc:creator>
+      <dcndl:creatorTranscription>コンドウ, ヘイジョウ, 1832-1901</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ツノダ, ブンエイ, 1913-2008</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ゴライ, シゲル, 1908-1993</dcndl:creatorTranscription>
+      <dcndl:volume>第22冊-第26冊</dcndl:volume>
+      <dcndl:edition>新訂増補 角田文衛,五来重編</dcndl:edition>
+      <dc:publisher>臨川書店</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1967</dc:date>
+      <dcterms:issued>1967</dcterms:issued>
+      <dcndl:price>120000円 (税込)</dcndl:price>
+      <dc:extent>5冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001224776</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">73015805</dc:identifier>
+      <dc:subject>日本--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">210.08</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001224776"/>
+      <dc:description> 1967</dc:description>
+    </item>
+    <item>
+      <title>史籍集覽</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I12111000000810043</link>
+      <description><![CDATA[<p>〔57〕,近藤活版所,1881-12,<p><ul><li>タイトル：史籍集覽</li><li>タイトル（読み）：シセキ シュウラン</li><li>各巻タイトル：備前文明亂記 妙善寺合戰記　：　續群書類從合戰部</li><li>各巻タイトル（読み）：ビゼン ブンメイ ランキ　ゾク グンショ ルイジュウ カッセンブ</li><li>NDC(9)：210.088</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I12111000000810043</guid>
+      <pubDate>Fri, 15 Feb 2019 06:43:10 +0900</pubDate>
+      <dc:title>史籍集覽</dc:title>
+      <dcndl:titleTranscription>シセキ シュウラン</dcndl:titleTranscription>
+      <dcndl:volume>〔57〕</dcndl:volume>
+      <dcndl:volumeTitle>備前文明亂記 妙善寺合戰記　：　續群書類從合戰部</dcndl:volumeTitle>
+      <dcndl:volumeTitleTranscription>ビゼン ブンメイ ランキ　ゾク グンショ ルイジュウ カッセンブ</dcndl:volumeTitleTranscription>
+      <dc:publisher>近藤活版所</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1881-12</dc:date>
+      <dcterms:issued>1881.12</dcterms:issued>
+      <dc:extent>21,8丁</dc:extent>
+      <dc:subject>日本-歴史-史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.088</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.088</dc:subject>
+      <dc:description>觀奕堂版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000810043"/>
+      <dc:description> 1881-12</dc:description>
+    </item>
+    <item>
+      <title>新在家南町4丁目の妙善寺</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I075430007020536</link>
+      <description><![CDATA[<p>神戸大学附属図書館（制作）,2002,<p><ul><li>タイトル：新在家南町4丁目の妙善寺</li><li>責任表示：大木本, 美通</li></ul>]]></description>
+      <author>大木本, 美通,大木本, 美通</author>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I075430007020536</guid>
+      <pubDate>Tue, 2 Dec 2025 18:15:17 +0900</pubDate>
+      <dc:title>新在家南町4丁目の妙善寺</dc:title>
+      <dc:creator>大木本, 美通</dc:creator>
+      <dc:publisher>神戸大学附属図書館（制作）</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/20.500.14094/0100052176"/>
+      <dc:description>掲載誌：震災記録写真No.5（2001年〜2002年） 2002 p.none-</dc:description>
+    </item>
+    <item>
+      <title>「新編」妙善寺崩れ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I33111005110043193</link>
+      <description><![CDATA[<p>日室 修,1983-11,<p><ul><li>タイトル：「新編」妙善寺崩れ</li><li>タイトル（読み）：シンペン　ミョウゼンジ　クズレ</li><li>責任表示：日室　修／著</li><li>NDC(9)：210</li></ul>]]></description>
+      <author>日室 修,日室　修／著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I33111005110043193</guid>
+      <pubDate>Thu, 16 Feb 2023 07:59:31 +0900</pubDate>
+      <dc:title>「新編」妙善寺崩れ</dc:title>
+      <dcndl:titleTranscription>シンペン　ミョウゼンジ　クズレ</dcndl:titleTranscription>
+      <dc:creator>日室 修</dc:creator>
+      <dcndl:creatorTranscription>ヒムロ オサム</dcndl:creatorTranscription>
+      <dc:publisher>日室 修</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1983-11</dc:date>
+      <dcterms:issued>[1983.11]</dcterms:issued>
+      <dc:extent>３３ｐ　図</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">0106100053</dc:identifier>
+      <dc:subject>岡山藩-歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005110043193"/>
+      <dc:description> 1983-11</dc:description>
+    </item>
+    <item>
+      <title>上道郡妙善寺軍記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000013-I000008267</link>
+      <description><![CDATA[<p>〔製作者不明〕,<p><ul><li>タイトル：上道郡妙善寺軍記</li><li>タイトル（読み）：ジョウトウグンミョウゼンジグンキ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000013-I000008267</guid>
+      <pubDate>Thu, 24 Aug 2023 09:00:00 +0900</pubDate>
+      <dc:title>上道郡妙善寺軍記</dc:title>
+      <dcndl:titleTranscription>ジョウトウグンミョウゼンジグンキ</dcndl:titleTranscription>
+      <dc:publisher>〔製作者不明〕</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:subject>和装本対象</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">217.5</dc:subject>
+      <dc:description>１冊</dc:description>
+      <dc:description>２５ｃｍ</dc:description>
+      <dc:description>同一人物が写した「上道郡妙善寺軍記」と「邑久郡長沼村俵藤太石塔由来」の写本を１冊にまとめて綴じたもの。写した人物は不明。「妙善寺軍記」は、永禄１０年（１５６７）備中松山城主三村元親と宇喜田直家が明禅寺城（岡山市沢田）をめぐって戦い、三村氏が没落し、宇喜多氏が台頭する契機となった、いわゆる「明禅寺崩れ」の戦いの様子を描いた合戦記。通常「妙善寺合戦記」とよばれる。原本は「備前史料　上道郡湯迫村万燈由来」（ＫＷ２１０／２９）と同一本と思われる。寛保３年（１７４３）に写したとある。「邑久郡長沼村俵藤太石塔由来」は、那須玄斎忠監が建立した田原藤太秀郷（藤原秀郷）の石碑の由来や松田一族について記したもの。那須氏は金川城主松田氏の一族であり、先祖は田原藤太秀郷であるから、石塔を建立したという。（文責：岡山県立図書館）</dc:description>
+      <rdfs:seeAlso rdf:resource="https://digioka.libnet.pref.okayama.jp/detail-jp/id/kyo/M2004093020034542814"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>上道郡妙善寺軍記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I33111009810227601</link>
+      <description><![CDATA[<p>製作者不明,1743-03,<p><ul><li>タイトル：上道郡妙善寺軍記</li><li>タイトル（読み）：ジョウトウグン ミョウゼンジ グンキ</li><li>NDC(9)：210</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I33111009810227601</guid>
+      <pubDate>Sun, 28 Dec 2026 07:59:33 +0900</pubDate>
+      <dc:title>上道郡妙善寺軍記</dc:title>
+      <dcndl:titleTranscription>ジョウトウグン ミョウゼンジ グンキ</dcndl:titleTranscription>
+      <dc:publisher>製作者不明</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1743-03</dc:date>
+      <dcterms:issued>1743(寛保3)</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">OK0002489</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">210</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210</dc:subject>
+      <dc:description>書写資料 M-68 CD-611</dc:description>
+      <dc:description>合本</dc:description>
+      <dc:description>同一人物が写した「上道郡妙善寺軍記」と「邑久郡長沼村俵藤太石塔由来」の写本を1冊にまとめて綴じたもの。写した人物は不明。「妙善寺軍記」は、永禄10年（1567）備中松山城主三村元親と宇喜田直家が明禅寺城（岡山市沢田）をめぐって戦い、三村氏が没落し、宇喜多氏が台頭する契機となった、いわゆる「明禅寺崩れ」の戦いの様子を描いた合戦記。通常「妙善寺合戦記」とよばれる。原本は「備前史料　上道郡湯迫村万燈由来」（KW210/29）と同一本と思われる。寛保3年（1743）に写したとある。「邑久郡長沼村俵藤太石塔由来」は、那須玄斎忠監が建立した田原藤太秀郷（藤原秀郷）の石碑の由来や松田一族について記したもの。那須氏は金川城主松田氏の一族であり、先祖は田原藤太秀郷であるから、石塔を建立したという。</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810227601"/>
+      <dc:description> 1743-03</dc:description>
+    </item>
+    <item>
+      <title>上道郡妙善寺軍記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I1467072</link>
+      <description><![CDATA[<p>〔製作者不明〕,<p><ul><li>タイトル：上道郡妙善寺軍記</li><li>タイトル（読み）：ジョウトウグンミョウゼンジグンキ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I1467072</guid>
+      <pubDate>Fri, 27 Feb 2026 18:06:07 +0900</pubDate>
+      <dc:title>上道郡妙善寺軍記</dc:title>
+      <dcndl:titleTranscription>ジョウトウグンミョウゼンジグンキ</dcndl:titleTranscription>
+      <dc:publisher>〔製作者不明〕</dc:publisher>
+      <dc:extent>１冊</dc:extent>
+      <dc:subject>和装本対象、NDC分類：217.5</dc:subject>
+      <dc:description>対象年齢：全年齢, 高校生</dc:description>
+      <dc:description>古典籍</dc:description>
+      <dc:description>02和装本</dc:description>
+      <dc:description>郷土情報ネットワーク－11岡山県立図書館－和装本</dc:description>
+      <dc:description>ウェブ公開</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/okayama-pref-digioka/catalog/M2004093020034542814"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>寺力本願(じりきほんがん)(第2回)妙善寺(東京都港区西麻布) 仏教的なものを自然にライフスタイルに</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029650079</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：寺力本願(じりきほんがん)(第2回)妙善寺(東京都港区西麻布) 仏教的なものを自然にライフスタイルに</li><li>タイトル（読み）：ジリョク ホンガン(ジリキホンガン)(ダイ2カイ)ミョウ ゼンジ(トウキョウト ミナトク ニシアザブ) ブッキョウテキ ナ モノ オ シゼン ニ ライフスタイル ニ</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029650079</guid>
+      <pubDate>Tue, 25 Oct 2022 02:27:36 +0900</pubDate>
+      <dc:title>寺力本願(じりきほんがん)(第2回)妙善寺(東京都港区西麻布) 仏教的なものを自然にライフスタイルに</dc:title>
+      <dcndl:titleTranscription>ジリョク ホンガン(ジリキホンガン)(ダイ2カイ)ミョウ ゼンジ(トウキョウト ミナトク ニシアザブ) ブッキョウテキ ナ モノ オ シゼン ニ ライフスタイル ニ</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029650079</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029650079"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522543655265007872"/>
+      <dc:description>掲載誌：仏事 p.76-80</dc:description>
+    </item>
+    <item>
+      <title>續群書類從</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024433182</link>
+      <description><![CDATA[<p>第22輯 下 (合戦部),八木書店古書出版部,2013,978-4-8406-3186-0<p><ul><li>タイトル：續群書類從</li><li>タイトル（読み）：ゾク グンショ ルイジュウ</li><li>責任表示：塙保己一 編纂,太田藤四郎 補</li><li>NDC(9)：081</li></ul>]]></description>
+      <author>塙, 保己一, 1746-1821,太田, 藤四郎,塙保己一 編纂,太田藤四郎 補</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024433182</guid>
+      <pubDate>Fri, 1 Nov 2013 22:20:49 +0900</pubDate>
+      <dc:title>續群書類從</dc:title>
+      <dcndl:titleTranscription>ゾク グンショ ルイジュウ</dcndl:titleTranscription>
+      <dc:creator>塙, 保己一, 1746-1821</dc:creator>
+      <dc:creator>太田, 藤四郎</dc:creator>
+      <dcndl:creatorTranscription>ハナワ, ホキノイチ, 1746-1821</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オオタ, トウシロウ</dcndl:creatorTranscription>
+      <dcndl:volume>第22輯 下 (合戦部)</dcndl:volume>
+      <dcndl:edition>オンデマンド版</dcndl:edition>
+      <dc:publisher>八木書店古書出版部</dc:publisher>
+      <dc:publisher>八木書店 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.4</dcterms:issued>
+      <dcndl:price>8000円</dcndl:price>
+      <dc:extent>524p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8406-3186-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024433182</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22316418</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32927778</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">US1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">081</dc:subject>
+      <dc:description>訂正3版: 続群書類従完成会 1976年刊</dc:description>
+      <dc:description>印刷・製本: デジタルパブリッシングサービス</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024433182"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784840631860"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>大客殿・書庫落慶記念　：　日蓮宗不受不施派鷲林山妙善寺</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I33111009811624101</link>
+      <description><![CDATA[<p>平成3年5月,鷲林山妙善寺,1991-06,<p><ul><li>タイトル：大客殿・書庫落慶記念　：　日蓮宗不受不施派鷲林山妙善寺</li><li>タイトル（読み）：ダイキャクデン ショコ ラッケイ キネン 　ニチレンシュウ フジュフセハ シュウリンザン ミョウゼンジ</li><li>責任表示：[鷲林山妙善寺]大客殿改築常任委員会／編</li><li>NDC(9)：186.9</li></ul>]]></description>
+      <author>鷲林山妙善寺,[鷲林山妙善寺]大客殿改築常任委員会／編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I33111009811624101</guid>
+      <pubDate>Wed, 13 Mar 2024 07:59:31 +0900</pubDate>
+      <dc:title>大客殿・書庫落慶記念　：　日蓮宗不受不施派鷲林山妙善寺</dc:title>
+      <dcndl:titleTranscription>ダイキャクデン ショコ ラッケイ キネン 　ニチレンシュウ フジュフセハ シュウリンザン ミョウゼンジ</dcndl:titleTranscription>
+      <dc:creator>鷲林山妙善寺</dc:creator>
+      <dcndl:creatorTranscription>シュウリンザンミョウゼンジ</dcndl:creatorTranscription>
+      <dcndl:volume>平成3年5月</dcndl:volume>
+      <dc:publisher>鷲林山妙善寺</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991-06</dc:date>
+      <dcterms:issued>1991.6</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>65p</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">OK1145938</dc:identifier>
+      <dc:subject>鷲林山妙善寺</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">186.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811624101"/>
+      <dc:description> 1991-06</dc:description>
+    </item>
+  </channel>
+</rss>

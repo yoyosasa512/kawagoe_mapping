@@ -1,0 +1,450 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>明治記念館 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E6%98%8E%E6%B2%BB%E8%A8%98%E5%BF%B5%E9%A4%A8&amp;cnt=20</link>
+    <description>Search results for title=明治記念館 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>49</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>朝日町図書館・明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I16111000001143970</link>
+      <description><![CDATA[<p>朝日町,2014-11,<p><ul><li>タイトル：朝日町図書館・明治記念館</li><li>タイトル（読み）：アサヒマチ　トショカン　メイジ　キネンカン</li><li>責任表示：朝日町／［編］</li><li>NDC(9)：T016</li></ul>]]></description>
+      <author>朝日町,朝日町／［編］</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I16111000001143970</guid>
+      <pubDate>Fri, 10 Oct 2025 10:00:32 +0900</pubDate>
+      <dc:title>朝日町図書館・明治記念館</dc:title>
+      <dcndl:titleTranscription>アサヒマチ　トショカン　メイジ　キネンカン</dcndl:titleTranscription>
+      <dc:creator>朝日町</dc:creator>
+      <dcndl:creatorTranscription>アサヒマチ</dcndl:creatorTranscription>
+      <dc:publisher>朝日町</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2014-11</dc:date>
+      <dcterms:issued>２０１４．１１</dcterms:issued>
+      <dc:extent>１枚</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">T016</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001143970"/>
+      <dc:description> 2014-11</dc:description>
+    </item>
+    <item>
+      <title>安倍総理の魂は、まだこの世に留まってくれている</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033039202</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：安倍総理の魂は、まだこの世に留まってくれている</li><li>タイトル（読み）：アベ ソウリ ノ タマシイ ワ 、 マダ コノ ヨ ニ トマッテ クレテ イル</li><li>責任表示：高市 早苗</li><li>シリーズ名：世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</li><li>シリーズ名（読み）：セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</li></ul>]]></description>
+      <author>高市 早苗,高市 早苗</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033039202</guid>
+      <pubDate>Wed, 13 Sep 2023 22:13:42 +0900</pubDate>
+      <dc:title>安倍総理の魂は、まだこの世に留まってくれている</dc:title>
+      <dcndl:titleTranscription>アベ ソウリ ノ タマシイ ワ 、 マダ コノ ヨ ニ トマッテ クレテ イル</dcndl:titleTranscription>
+      <dc:creator>高市 早苗</dc:creator>
+      <dcndl:seriesTitle>世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033039202</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033039202"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520578934880848512"/>
+      <dc:description>掲載誌：日本の息吹 429 p.11-15</dc:description>
+    </item>
+    <item>
+      <title>意識改革、ソフト面の改善地道に実現--徹底した一般的衛生管理土台にHACCPへ移行--(株)明治記念館調理室</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I6869090</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：意識改革、ソフト面の改善地道に実現--徹底した一般的衛生管理土台にHACCPへ移行--(株)明治記念館調理室</li><li>タイトル（読み）：イシキ カイカク ソフトメン ノ カイゼン ジミチ ニ ジツゲン テッテイ シタ イッパンテキ エイセイ カンリ ドダイ ニ HACCP エ イコウ カブ メイジ キネンカン チョウリシツ</li><li>責任表示：植松 智之</li><li>シリーズ名：特集 中小規模施設の着実なHACCP導入</li><li>シリーズ名（読み）：トクシュウ チュウショウ キボ シセツ ノ チャクジツ ナ HACCP ドウニュウ</li></ul>]]></description>
+      <author>植松 智之,植松 智之</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I6869090</guid>
+      <pubDate>Fri, 12 Mar 2004 22:32:38 +0900</pubDate>
+      <dc:title>意識改革、ソフト面の改善地道に実現--徹底した一般的衛生管理土台にHACCPへ移行--(株)明治記念館調理室</dc:title>
+      <dcndl:titleTranscription>イシキ カイカク ソフトメン ノ カイゼン ジミチ ニ ジツゲン テッテイ シタ イッパンテキ エイセイ カンリ ドダイ ニ HACCP エ イコウ カブ メイジ キネンカン チョウリシツ</dcndl:titleTranscription>
+      <dc:creator>植松 智之</dc:creator>
+      <dcndl:seriesTitle>特集 中小規模施設の着実なHACCP導入</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ チュウショウ キボ シセツ ノ チャクジツ ナ HACCP ドウニュウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">6869090</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZR22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I6869090"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520573330481914496"/>
+      <dc:description>掲載誌：HACCP : Hazard analysis and critical control point / 鶏卵肉情報センター [編] 3(通号 102) p.24～34</dc:description>
+    </item>
+    <item>
+      <title>確固たるビジョン、信念に基づいたリーダーシップ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033039204</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：確固たるビジョン、信念に基づいたリーダーシップ</li><li>タイトル（読み）：カッコ タル ビジョン 、 シンネン ニ モトズイタ リーダーシップ</li><li>責任表示：本田 悦朗</li><li>シリーズ名：世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</li><li>シリーズ名（読み）：セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</li></ul>]]></description>
+      <author>本田 悦朗,本田 悦朗</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033039204</guid>
+      <pubDate>Wed, 13 Sep 2023 22:13:58 +0900</pubDate>
+      <dc:title>確固たるビジョン、信念に基づいたリーダーシップ</dc:title>
+      <dcndl:titleTranscription>カッコ タル ビジョン 、 シンネン ニ モトズイタ リーダーシップ</dcndl:titleTranscription>
+      <dc:creator>本田 悦朗</dc:creator>
+      <dcndl:seriesTitle>世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033039204</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033039204"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520578934881053184"/>
+      <dc:description>掲載誌：日本の息吹 429 p.18-20</dc:description>
+    </item>
+    <item>
+      <title>旧共立病院のしおり : 明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I031145089</link>
+      <description><![CDATA[<p>江刺市教育委員会,1982,<p><ul><li>タイトル：旧共立病院のしおり : 明治記念館</li><li>タイトル（読み）：キュウ　キョウリツ　ビョウイン　ノ　シオリ</li><li>責任表示：江刺市教育委員会 編,旧共立病院保存会 編</li></ul>]]></description>
+      <author>江刺市教育委員会,旧共立病院保存会,江刺市教育委員会 編,旧共立病院保存会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I031145089</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>旧共立病院のしおり : 明治記念館</dc:title>
+      <dcndl:titleTranscription>キュウ　キョウリツ　ビョウイン　ノ　シオリ</dcndl:titleTranscription>
+      <dc:creator>江刺市教育委員会</dc:creator>
+      <dc:creator>旧共立病院保存会</dc:creator>
+      <dcndl:creatorTranscription>エサシシ，キョウイク，イインカイ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>キュウ，キョウリツ，ビョウイン，ホゾンカイ</dcndl:creatorTranscription>
+      <dc:publisher>江刺市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1982</dc:date>
+      <dcterms:issued>〔１９８２〕</dcterms:issued>
+      <dc:extent>１枚物（折） ; ２５ｃｍ</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC">２０６．９</dc:subject>
+      <dc:description>岩手県指定有形文化財</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <dc:description> 1982</dc:description>
+    </item>
+    <item>
+      <title>久美子のGeneral Manager(総支配人)人間学(第202回)明治記念館 館長代行(明治神宮 理事) 相川忠重氏の巻 : 50余回通ったインドのヒヤヒヤ体験とDNAに訴える日本人の婚礼</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025297012</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：久美子のGeneral Manager(総支配人)人間学(第202回)明治記念館 館長代行(明治神宮 理事) 相川忠重氏の巻 : 50余回通ったインドのヒヤヒヤ体験とDNAに訴える日本人の婚礼</li><li>タイトル（読み）：クミコ ノ General Manager(ソウ シハイニン)ニンゲンガク(ダイ202カイ)メイジ キネンカン カンチョウ ダイコウ(メイジ ジングウ リジ) アイカワ チュウジュウ シ ノ マキ : 50ヨカイ カヨッタ インド ノ ヒヤヒヤ タイケン ト DNA ニ ウッタエル ニホンジン ノ コンレイ</li><li>責任表示：八百 久美子 インタビュアー,相川 忠重</li></ul>]]></description>
+      <author>八百 久美子,相川 忠重,八百 久美子 インタビュアー,相川 忠重</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025297012</guid>
+      <pubDate>Fri, 19 Apr 2024 18:42:31 +0900</pubDate>
+      <dc:title>久美子のGeneral Manager(総支配人)人間学(第202回)明治記念館 館長代行(明治神宮 理事) 相川忠重氏の巻 : 50余回通ったインドのヒヤヒヤ体験とDNAに訴える日本人の婚礼</dc:title>
+      <dcndl:titleTranscription>クミコ ノ General Manager(ソウ シハイニン)ニンゲンガク(ダイ202カイ)メイジ キネンカン カンチョウ ダイコウ(メイジ ジングウ リジ) アイカワ チュウジュウ シ ノ マキ : 50ヨカイ カヨッタ インド ノ ヒヤヒヤ タイケン ト DNA ニ ウッタエル ニホンジン ノ コンレイ</dcndl:titleTranscription>
+      <dc:creator>八百 久美子</dc:creator>
+      <dc:creator>相川 忠重</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025297012</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD33</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025297012"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522543655603602432"/>
+      <dc:description>掲載誌：ホテル旅館 : hotel ryokan management 7(通号 474) p.76-80</dc:description>
+    </item>
+    <item>
+      <title>この国を良い国にしていくために残りの力を捧げたい</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033039201</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：この国を良い国にしていくために残りの力を捧げたい</li><li>タイトル（読み）：コノ クニ オ ヨイ クニ ニ シテ イク タメニ ノコリ ノ チカラ オ ササゲタイ</li><li>責任表示：櫻井 よしこ</li><li>シリーズ名：世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</li><li>シリーズ名（読み）：セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</li></ul>]]></description>
+      <author>櫻井 よしこ,櫻井 よしこ</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033039201</guid>
+      <pubDate>Wed, 13 Sep 2023 22:13:25 +0900</pubDate>
+      <dc:title>この国を良い国にしていくために残りの力を捧げたい</dc:title>
+      <dcndl:titleTranscription>コノ クニ オ ヨイ クニ ニ シテ イク タメニ ノコリ ノ チカラ オ ササゲタイ</dcndl:titleTranscription>
+      <dc:creator>櫻井 よしこ</dc:creator>
+      <dcndl:seriesTitle>世界に咲き誇れ日本 安倍晋三元総理の志を継承する集い : 7月8日 東京・明治記念館</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>セカイ ニ サキホコレ ニホン アベ シンゾウゲン ソウリ ノ ココロザシ オ ケイショウ スル ツドイ : 7ガツ 8ニチ トウキョウ ・ メイジ キネンカン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033039201</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033039201"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520015984927821184"/>
+      <dc:description>掲載誌：日本の息吹 429 p.7-9</dc:description>
+    </item>
+    <item>
+      <title>財団法人常陽明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001147113</link>
+      <description><![CDATA[<p>〔常陽明治記念館〕,<p><ul><li>タイトル：財団法人常陽明治記念館</li><li>タイトル（読み）：ザイダン ホウジン ジョウヨウ メイジ キネンカン</li><li>NDC(9)：210.06</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001147113</guid>
+      <pubDate>Wed, 15 Jan 2020 02:28:29 +0900</pubDate>
+      <dc:title>財団法人常陽明治記念館</dc:title>
+      <dcndl:titleTranscription>ザイダン ホウジン ジョウヨウ メイジ キネンカン</dcndl:titleTranscription>
+      <dc:publisher>〔常陽明治記念館〕</dc:publisher>
+      <dcterms:issued>〔出版年不明〕</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>常陽明治記念館</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.06</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001147113"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>春季研究旅行記 偕楽園、弘道館、常用明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390866204911497984</link>
+      <description><![CDATA[<p>1966-04,<p><ul><li>タイトル：春季研究旅行記 偕楽園、弘道館、常用明治記念館</li></ul>]]></description>
+      <author>上野 俊雄</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390866204911497984</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>春季研究旅行記 偕楽園、弘道館、常用明治記念館</dc:title>
+      <dc:creator>上野 俊雄</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1966-04</dc:date>
+      <dcterms:issued>1966-04</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://komazawa-u.repo.nii.ac.jp/records/2006128"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390866204911497984"/>
+      <dc:description>掲載誌：駒澤史学 1966-04 p.79-</dc:description>
+    </item>
+    <item>
+      <title>鐘鳴 : 江刺市明治記念館開館２０周年記念誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I0311828122</link>
+      <description><![CDATA[<p>江刺市教育委員会,2002,<p><ul><li>タイトル：鐘鳴 : 江刺市明治記念館開館２０周年記念誌</li><li>タイトル（読み）：ショウメイ</li><li>責任表示：江刺市明治記念館 編集</li></ul>]]></description>
+      <author>江刺市明治記念館 編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I0311828122</guid>
+      <pubDate>Tue, 10 Apr 2012 09:00:00 +0900</pubDate>
+      <dc:title>鐘鳴 : 江刺市明治記念館開館２０周年記念誌</dc:title>
+      <dcndl:titleTranscription>ショウメイ</dcndl:titleTranscription>
+      <dcndl:creatorTranscription>エサシシ，メイジ，キネンカン</dcndl:creatorTranscription>
+      <dc:publisher>江刺市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>２００２．１２</dcterms:issued>
+      <dc:extent>４４ｐ ; ３０ｃｍ</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <dc:description> 2002</dc:description>
+    </item>
+    <item>
+      <title>住民参加型ワークショップによる歴史資料保全の取り組み : 「明治記念館下張り文書はがし体験教室」(富山県朝日町)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032757130</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：住民参加型ワークショップによる歴史資料保全の取り組み : 「明治記念館下張り文書はがし体験教室」(富山県朝日町)</li><li>タイトル（読み）：ジュウミン サンカガタ ワークショップ ニ ヨル レキシ シリョウ ホゼン ノ トリクミ : 「 メイジ キネンカン シタバリ ブンショハガシ タイケン キョウシツ 」(トヤマケン アサヒマチ)</li><li>責任表示：梶 青華,川端 典子,近藤 浩二</li><li>シリーズ名：第200号 記念特集号</li><li>シリーズ名（読み）：ダイ200ゴウ キネン トクシュウゴウ</li></ul>]]></description>
+      <author>梶 青華,川端 典子,近藤 浩二,梶 青華,川端 典子,近藤 浩二</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032757130</guid>
+      <pubDate>Mon, 17 Apr 2023 18:35:51 +0900</pubDate>
+      <dc:title>住民参加型ワークショップによる歴史資料保全の取り組み : 「明治記念館下張り文書はがし体験教室」(富山県朝日町)</dc:title>
+      <dcndl:titleTranscription>ジュウミン サンカガタ ワークショップ ニ ヨル レキシ シリョウ ホゼン ノ トリクミ : 「 メイジ キネンカン シタバリ ブンショハガシ タイケン キョウシツ 」(トヤマケン アサヒマチ)</dcndl:titleTranscription>
+      <dc:creator>梶 青華</dc:creator>
+      <dc:creator>川端 典子</dc:creator>
+      <dc:creator>近藤 浩二</dc:creator>
+      <dcndl:seriesTitle>第200号 記念特集号</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ダイ200ゴウ キネン トクシュウゴウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032757130</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG25</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032757130"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520014327061496832"/>
+      <dc:description>掲載誌：富山史壇 / 越中史壇会 編 200 p.118-123</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館関係資料集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010711771</link>
+      <description><![CDATA[<p>多摩市教育委員会,2003,<p><ul><li>タイトル：常陽明治記念館関係資料集</li><li>タイトル（読み）：ジョウヨウ メイジ キネンカン カンケイ シリョウシュウ</li><li>責任表示：倉持順一 編</li><li>シリーズ名：旧多摩聖蹟記念館資料集 ; 3</li><li>シリーズ名（読み）：キュウ タマ セイセキ キネンカン シリョウシュウ</li><li>NDC(9)：210.06</li></ul>]]></description>
+      <author>倉持, 順一,倉持順一 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010711771</guid>
+      <pubDate>Fri, 5 Mar 2010 23:09:33 +0900</pubDate>
+      <dc:title>常陽明治記念館関係資料集</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ メイジ キネンカン カンケイ シリョウシュウ</dcndl:titleTranscription>
+      <dc:creator>倉持, 順一</dc:creator>
+      <dcndl:creatorTranscription>クラモチ, ジュンイチ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>旧多摩聖蹟記念館資料集 ; 3</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>キュウ タマ セイセキ キネンカン シリョウシュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>多摩市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.3</dcterms:issued>
+      <dc:extent>29p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010711771</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21716947</dc:identifier>
+      <dc:subject>常陽明治記念館</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB18</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.06</dc:subject>
+      <dc:description>共同刊行: 旧多摩聖蹟記念館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010711771"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館所蔵文書目録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859806880927</link>
+      <description><![CDATA[<p>私製,1964,<p><ul><li>タイトル：常陽明治記念館所蔵文書目録</li><li>タイトル（読み）：ジョウヨウ メイジ キネンカン ショゾウ モンジョ モクロク</li><li>NDC(10)：213.1</li></ul>]]></description>
+      <author>水戸市史編纂委員会</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859806880927</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>常陽明治記念館所蔵文書目録</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ メイジ キネンカン ショゾウ モンジョ モクロク</dcndl:titleTranscription>
+      <dc:creator>水戸市史編纂委員会</dc:creator>
+      <dcndl:creatorTranscription>ミト シシ ヘンサン イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>私製</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1964</dc:date>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BD05465539</dc:identifier>
+      <dc:subject>茨城県 -- 歴史 -- 史料 -- 書目</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.1</dc:subject>
+      <dc:description>電子複写による複製</dc:description>
+      <dc:description>原本の出版事項: [水戸] : 水戸市史編さん委員会 , 1964影写</dc:description>
+      <dc:description>調査日: 昭和39年11月21日</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BD05465539"/>
+      <dc:description> 1964</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館創立五十周年記念誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001971259</link>
+      <description><![CDATA[<p>常陽明治記念会,1979,<p><ul><li>タイトル：常陽明治記念館創立五十周年記念誌</li><li>タイトル（読み）：ジョウヨウ メイジ キネンカン ソウリツ ゴジッシュウネン キネンシ</li><li>責任表示：創立五十周年記念事業実行委員会 編</li></ul>]]></description>
+      <author>常陽明治記念会,創立五十周年記念事業実行委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001971259</guid>
+      <pubDate>Thu, 26 Oct 2023 17:28:27 +0900</pubDate>
+      <dc:title>常陽明治記念館創立五十周年記念誌</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ メイジ キネンカン ソウリツ ゴジッシュウネン キネンシ</dcndl:titleTranscription>
+      <dc:creator>常陽明治記念会</dc:creator>
+      <dcndl:creatorTranscription>ジョウヨウ メイジ キネンカイ</dcndl:creatorTranscription>
+      <dc:publisher>常陽明治記念会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.4</dcterms:issued>
+      <dc:extent>73p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001971259</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">89027887</dc:identifier>
+      <dc:subject>常陽明治記念館</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB18</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.06</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000392722"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001971259"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13215927"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館創立五十周年記念誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484913678000</link>
+      <description><![CDATA[<p>常陽明治記念館,1979,<p><ul><li>タイトル：常陽明治記念館創立五十周年記念誌</li><li>タイトル（読み）：ジョウヨウ メイジ キネンカン ソウリツ ゴジッシュウネン キネンシ</li><li>責任表示：創立五十周年記念事業実行委員会編</li></ul>]]></description>
+      <author>常陽明治記念館,創立五十周年記念事業実行委員会編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484913678000</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>常陽明治記念館創立五十周年記念誌</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ メイジ キネンカン ソウリツ ゴジッシュウネン キネンシ</dcndl:titleTranscription>
+      <dc:creator>常陽明治記念館</dc:creator>
+      <dcndl:creatorTranscription>ジョウヨウ メイジキネンカン</dcndl:creatorTranscription>
+      <dc:publisher>常陽明治記念館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.4</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN01533262</dc:identifier>
+      <dc:description>肖像あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN01533262"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館創立五十周年記念誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I37111101088364</link>
+      <description><![CDATA[<p>1979,<p><ul><li>タイトル：常陽明治記念館創立五十周年記念誌</li><li>タイトル（読み）：ジョウヨウ　メイジ　キネンカン　ソウリツ　ゴジュウシュウネン　キネンシ</li><li>責任表示：常陽明治記念館 編</li></ul>]]></description>
+      <author>常陽明治記念館,常陽明治記念館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I37111101088364</guid>
+      <pubDate>Fri, 5 Dec 2025 09:40:07 +0900</pubDate>
+      <dc:title>常陽明治記念館創立五十周年記念誌</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ　メイジ　キネンカン　ソウリツ　ゴジュウシュウネン　キネンシ</dcndl:titleTranscription>
+      <dc:creator>常陽明治記念館</dc:creator>
+      <dcndl:creatorTranscription>ジョウヨウ, メイジ, キネンカン</dcndl:creatorTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>１９７９</dcterms:issued>
+      <dc:extent>７３ｐ ; ２７ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">754635200</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC8">288.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101088364"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>常陽明治記念館要覧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001468744</link>
+      <description><![CDATA[<p>〔常陽明治記念館〕,1929-04,<p><ul><li>タイトル：常陽明治記念館要覧</li><li>タイトル（読み）：ジョウヨウ メイジ キネンカン ヨウラン</li><li>NDC(9)：069.6131</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001001468744</guid>
+      <pubDate>Wed, 15 Jan 2020 02:28:29 +0900</pubDate>
+      <dc:title>常陽明治記念館要覧</dc:title>
+      <dcndl:titleTranscription>ジョウヨウ メイジ キネンカン ヨウラン</dcndl:titleTranscription>
+      <dc:publisher>〔常陽明治記念館〕</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1929-04</dc:date>
+      <dcterms:issued>1929.4</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>35p</dc:extent>
+      <dc:subject>常陽明治記念館</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">069.6131</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001468744"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103092354"/>
+      <dc:description> 1929-04</dc:description>
+    </item>
+    <item>
+      <title>セミナー報告 流通大会2014報告(2014年2月5~7日 於明治記念館)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025452326</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：セミナー報告 流通大会2014報告(2014年2月5~7日 於明治記念館)</li><li>タイトル（読み）：セミナー ホウコク リュウツウ タイカイ 2014 ホウコク(2014ネン 2ガツ 5~7ニチ オ メイジ キネンカン)</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025452326</guid>
+      <pubDate>Mon, 2 Jun 2025 18:54:07 +0900</pubDate>
+      <dc:title>セミナー報告 流通大会2014報告(2014年2月5~7日 於明治記念館)</dc:title>
+      <dcndl:titleTranscription>セミナー ホウコク リュウツウ タイカイ 2014 ホウコク(2014ネン 2ガツ 5~7ニチ オ メイジ キネンカン)</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025452326</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD23</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025452326"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980705446151808"/>
+      <dc:description>掲載誌：流通情報 = The journal of marketing and distribution 6(通号 507) p.55-65</dc:description>
+    </item>
+    <item>
+      <title>セミナー報告 流通大会2014報告(2)新たなステージに差し掛かる東南アジアの小売市場と、日本企業の商機 : 2014年2月7日 於明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025584477</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：セミナー報告 流通大会2014報告(2)新たなステージに差し掛かる東南アジアの小売市場と、日本企業の商機 : 2014年2月7日 於明治記念館</li><li>タイトル（読み）：セミナー ホウコク リュウツウ タイカイ 2014 ホウコク(2)アラタ ナ ステージ ニ サシカカル トウナン アジア ノ コウリ シジョウ ト 、 ニホン キギョウ ノ ショウキ : 2014ネン 2ガツ 7ニチ オ メイジ キネンカン</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025584477</guid>
+      <pubDate>Mon, 2 Jun 2025 18:54:06 +0900</pubDate>
+      <dc:title>セミナー報告 流通大会2014報告(2)新たなステージに差し掛かる東南アジアの小売市場と、日本企業の商機 : 2014年2月7日 於明治記念館</dc:title>
+      <dcndl:titleTranscription>セミナー ホウコク リュウツウ タイカイ 2014 ホウコク(2)アラタ ナ ステージ ニ サシカカル トウナン アジア ノ コウリ シジョウ ト 、 ニホン キギョウ ノ ショウキ : 2014ネン 2ガツ 7ニチ オ メイジ キネンカン</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025584477</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD23</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025584477"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523951030127579520"/>
+      <dc:description>掲載誌：流通情報 = The journal of marketing and distribution 1(通号 508) p.51-57</dc:description>
+    </item>
+    <item>
+      <title>田中光顕伯と常陽明治記念館</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001219397</link>
+      <description><![CDATA[<p>常陽明治記念館,1968,<p><ul><li>タイトル：田中光顕伯と常陽明治記念館</li><li>タイトル（読み）：タナカ ミツアキ ハク ト ジョウヨウ メイジ キネンカン</li></ul>]]></description>
+      <author>常陽明治記念館</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001219397</guid>
+      <pubDate>Sat, 21 Oct 2023 17:32:46 +0900</pubDate>
+      <dc:title>田中光顕伯と常陽明治記念館</dc:title>
+      <dcndl:titleTranscription>タナカ ミツアキ ハク ト ジョウヨウ メイジ キネンカン</dcndl:titleTranscription>
+      <dc:creator>常陽明治記念館</dc:creator>
+      <dcndl:creatorTranscription>ジョウヨウ メイジ キネンカン</dcndl:creatorTranscription>
+      <dc:publisher>常陽明治記念館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1968</dc:date>
+      <dcterms:issued>1968</dcterms:issued>
+      <dc:extent>74p 図 肖像</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001219397</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">73010426</dc:identifier>
+      <dc:subject>田中, 光顕, 1843-1939</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">289.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK30</dc:subject>
+      <dc:description>田中伯年譜: p.66-71</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000392065"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001219397"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/3449481"/>
+      <dc:description> 1968</dc:description>
+    </item>
+  </channel>
+</rss>

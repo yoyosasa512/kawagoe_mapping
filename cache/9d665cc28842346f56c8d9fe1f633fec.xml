@@ -1,0 +1,52 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>西川練造 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E8%A5%BF%E5%B7%9D%E7%B7%B4%E9%80%A0&amp;cnt=20</link>
+    <description>Search results for title=西川練造 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>勤皇家贈従五位西川練造伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116280247</link>
+      <description><![CDATA[<p>川越市,1942,<p><ul><li>タイトル：勤皇家贈従五位西川練造伝</li><li>タイトル（読み）：キンノウカ　ゾウ　ジュゴイ　ニシカワ　レンゾウ　デン</li><li>責任表示：峯岸久治 〔著〕</li></ul>]]></description>
+      <author>峯岸, 久治,峯岸久治 〔著〕</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116280247</guid>
+      <pubDate>Thu, 28 Nov 2024 22:28:47 +0900</pubDate>
+      <dc:title>勤皇家贈従五位西川練造伝</dc:title>
+      <dcndl:titleTranscription>キンノウカ　ゾウ　ジュゴイ　ニシカワ　レンゾウ　デン</dcndl:titleTranscription>
+      <dc:creator>峯岸, 久治</dc:creator>
+      <dcndl:creatorTranscription>ミネギシ，キュウジ</dcndl:creatorTranscription>
+      <dc:publisher>川越市</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1942</dc:date>
+      <dcterms:issued>１９４２</dcterms:issued>
+      <dc:extent>２４ｐ　図版 ; １５ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>表紙の書名：西川練造；川越小仙波町の人。医師．志士</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116280247"/>
+      <dc:description> 1942</dc:description>
+    </item>
+    <item>
+      <title>図書資料を中心とした郷土の人物展 : 井上淑蔭 権田直助 嵩古香 西川練造 高林謙三 三ヶ島葭子</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11212298004</link>
+      <description><![CDATA[<p>埼玉県立川越図書館,1979,<p><ul><li>タイトル：図書資料を中心とした郷土の人物展 : 井上淑蔭 権田直助 嵩古香 西川練造 高林謙三 三ヶ島葭子</li><li>タイトル（読み）：トショ シリョウオ チュウシントシタ キョウド ノ ジンブツ テン : イノウエ ヨシカゲ ゴンダ ナオスケ カサミ ココウ タカバヤシ ケンゾウ ミカジマ ヨシコ</li><li>NDC(9)：281.34</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11212298004</guid>
+      <pubDate>Tue, 8 Jan 2019 09:00:00 +0900</pubDate>
+      <dc:title>図書資料を中心とした郷土の人物展 : 井上淑蔭 権田直助 嵩古香 西川練造 高林謙三 三ヶ島葭子</dc:title>
+      <dcndl:titleTranscription>トショ シリョウオ チュウシントシタ キョウド ノ ジンブツ テン : イノウエ ヨシカゲ ゴンダ ナオスケ カサミ ココウ タカバヤシ ケンゾウ ミカジマ ヨシコ</dcndl:titleTranscription>
+      <dc:publisher>埼玉県立川越図書館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.11</dcterms:issued>
+      <dc:extent>10p ; 26cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">281.34</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2298004&amp;ctg=1"/>
+      <dc:description> 1979</dc:description>
+    </item>
+  </channel>
+</rss>

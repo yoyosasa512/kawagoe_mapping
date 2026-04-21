@@ -1,0 +1,332 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>伊佐沼 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E4%BC%8A%E4%BD%90%E6%B2%BC&amp;cnt=20</link>
+    <description>Search results for title=伊佐沼 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>11</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>伊佐沼小僧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384774112897</link>
+      <description><![CDATA[<p>母念寺出版,1971,<p><ul><li>タイトル：伊佐沼小僧</li><li>タイトル（読み）：イサヌマ コゾウ</li><li>責任表示：三角寛著</li></ul>]]></description>
+      <author>三角, 寛,三角寛著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384774112897</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>伊佐沼小僧</dc:title>
+      <dcndl:titleTranscription>イサヌマ コゾウ</dcndl:titleTranscription>
+      <dc:creator>三角, 寛</dc:creator>
+      <dcndl:creatorTranscription>ミスミ, カン</dcndl:creatorTranscription>
+      <dc:publisher>母念寺出版</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1971</dc:date>
+      <dcterms:issued>1971</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN09652243</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">918.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KH353</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN09652243"/>
+      <dc:description> 1971</dc:description>
+    </item>
+    <item>
+      <title>伊佐沼小僧 : 山窩物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I13131100650692</link>
+      <description><![CDATA[<p>母念寺出版,1971,<p><ul><li>タイトル：伊佐沼小僧 : 山窩物語</li><li>タイトル（読み）：イサヌマ コゾウ : サンカ モノガタリ</li><li>責任表示：三角寛 著</li><li>シリーズ名：三角寛全集 ; 12</li><li>シリーズ名（読み）：ミスミ カン ゼンシュウ</li></ul>]]></description>
+      <author>三角寛,三角寛 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I13131100650692</guid>
+      <pubDate>Mon, 15 Apr 2013 15:44:49 +0900</pubDate>
+      <dc:title>伊佐沼小僧 : 山窩物語</dc:title>
+      <dcndl:titleTranscription>イサヌマ コゾウ : サンカ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>三角寛</dc:creator>
+      <dcndl:seriesTitle>三角寛全集 ; 12</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ミスミ カン ゼンシュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>母念寺出版</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1971</dc:date>
+      <dcterms:issued>1971</dcterms:issued>
+      <dc:extent>317p ; 19cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100650692"/>
+      <dc:description> 1971</dc:description>
+    </item>
+    <item>
+      <title>伊佐沼の鳥景色</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121100562039</link>
+      <description><![CDATA[<p>笠原啓一,2006,<p><ul><li>タイトル：伊佐沼の鳥景色</li><li>タイトル（読み）：イサヌマ　ノ　トリ　ゲシキ</li><li>責任表示：笠原啓一 著</li></ul>]]></description>
+      <author>笠原, 啓一,笠原啓一 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121100562039</guid>
+      <pubDate>Sat, 22 Jan 2000 00:00:00 +0900</pubDate>
+      <dc:title>伊佐沼の鳥景色</dc:title>
+      <dcndl:titleTranscription>イサヌマ　ノ　トリ　ゲシキ</dcndl:titleTranscription>
+      <dc:creator>笠原, 啓一</dc:creator>
+      <dcndl:creatorTranscription>カサハラ, ケイイチ</dcndl:creatorTranscription>
+      <dc:publisher>笠原啓一</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>２００６．５</dcterms:issued>
+      <dc:extent>１０９ｐ ; ２１ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1100562039"/>
+      <dc:description> 2006</dc:description>
+    </item>
+    <item>
+      <title>埼玉県の伊佐沼に飛来する鳥類(1975年)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I1801035</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：埼玉県の伊佐沼に飛来する鳥類(1975年)</li><li>タイトル（読み）：サイタマケン ノ イサヌマ ニ ヒライスル チョウルイ 1975ネン</li><li>責任表示：高橋 守</li></ul>]]></description>
+      <author>高橋 守,高橋 守</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I1801035</guid>
+      <pubDate>Wed, 3 Feb 1999 11:46:14 +0900</pubDate>
+      <dc:title>埼玉県の伊佐沼に飛来する鳥類(1975年)</dc:title>
+      <dcndl:titleTranscription>サイタマケン ノ イサヌマ ニ ヒライスル チョウルイ 1975ネン</dcndl:titleTranscription>
+      <dc:creator>高橋 守</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">1801035</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZR4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I1801035"/>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.3838/jjo1915.25.85"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390001205147446528"/>
+      <dc:description>掲載誌：鳥 : 日本鳥学会誌 100 p.p85～93</dc:description>
+    </item>
+    <item>
+      <title>埼玉の怖い話</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I027074943</link>
+      <description><![CDATA[<p>TOブックス,2016,978-4-86472-465-4<p><ul><li>タイトル：埼玉の怖い話</li><li>タイトル（読み）：サイタマ ノ コワイ ハナシ</li><li>責任表示：桜井伸也 著</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>桜井, 伸也,桜井伸也 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I027074943</guid>
+      <pubDate>Sat, 27 Feb 2016 07:02:32 +0900</pubDate>
+      <dc:title>埼玉の怖い話</dc:title>
+      <dcndl:titleTranscription>サイタマ ノ コワイ ハナシ</dcndl:titleTranscription>
+      <dc:creator>桜井, 伸也</dc:creator>
+      <dcndl:creatorTranscription>サクライ, シンヤ</dcndl:creatorTranscription>
+      <dc:publisher>TOブックス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.2</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>215p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86472-465-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027074943</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22692585</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33399559</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH917</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101740237"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2532101&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120003268"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I027074943"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>ふるさと歩道 : 小江戸川越・伊佐沼コース</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121124416831</link>
+      <description><![CDATA[<p>埼玉県環境部自然保護課,19??,<p><ul><li>タイトル：ふるさと歩道 : 小江戸川越・伊佐沼コース</li><li>タイトル（読み）：フルサト　ホドウ : コエド　カワゴエ　イサヌマ　コース</li><li>責任表示：埼玉県環境部自然保護課 編</li></ul>]]></description>
+      <author>埼玉県環境部自然保護課,埼玉県環境部自然保護課 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121124416831</guid>
+      <pubDate>Thu, 24 May 2001 00:00:00 +0900</pubDate>
+      <dc:title>ふるさと歩道 : 小江戸川越・伊佐沼コース</dc:title>
+      <dcndl:titleTranscription>フルサト　ホドウ : コエド　カワゴエ　イサヌマ　コース</dcndl:titleTranscription>
+      <dc:creator>埼玉県環境部自然保護課</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン, カンキョウブ, シゼン, ホゴカ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県環境部自然保護課</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">19??</dc:date>
+      <dcterms:issued>［１９－－］</dcterms:issued>
+      <dc:extent>１６ｐ ; １９ｃｍ</dc:extent>
+      <dc:subject>川越市</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1124416831"/>
+      <dc:description> 19??</dc:description>
+    </item>
+    <item>
+      <title>ふるさと歩道 : 小江戸川越・伊佐沼コース</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I1121606472</link>
+      <description><![CDATA[<p>埼玉県環境部自然保護課,<p><ul><li>タイトル：ふるさと歩道 : 小江戸川越・伊佐沼コース</li><li>タイトル（読み）：フルサト ホドウ : コエド カワゴエ イサヌマ コース</li><li>責任表示：埼玉県環境部自然保護課 編</li><li>NDC(9)：291.34</li></ul>]]></description>
+      <author>埼玉県環境部自然保護課,埼玉県環境部自然保護課 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I1121606472</guid>
+      <pubDate>Tue, 8 Jan 2019 09:00:00 +0900</pubDate>
+      <dc:title>ふるさと歩道 : 小江戸川越・伊佐沼コース</dc:title>
+      <dcndl:titleTranscription>フルサト ホドウ : コエド カワゴエ イサヌマ コース</dcndl:titleTranscription>
+      <dc:creator>埼玉県環境部自然保護課</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン カンキョウブ シゼン ホゴカ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県環境部自然保護課</dc:publisher>
+      <dcterms:issued>[19--]</dcterms:issued>
+      <dc:extent>19p ; 19cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">291.34</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=606472&amp;ctg=1"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>三角寛サンカ選集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002959862</link>
+      <description><![CDATA[<p>第4巻 (犬娘お千代),現代書館,2001,4-7684-7024-6<p><ul><li>タイトル：三角寛サンカ選集</li><li>タイトル（読み）：ミスミ カン サンカ センシュウ</li><li>責任表示：三角寛 著</li><li>NDC(9)：918.68</li></ul>]]></description>
+      <author>三角, 寛, 1903-1971,三角寛 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002959862</guid>
+      <pubDate>Fri, 13 Jul 2001 20:26:00 +0900</pubDate>
+      <dc:title>三角寛サンカ選集</dc:title>
+      <dcndl:titleTranscription>ミスミ カン サンカ センシュウ</dcndl:titleTranscription>
+      <dc:creator>三角, 寛, 1903-1971</dc:creator>
+      <dcndl:creatorTranscription>ミスミ, カン, 1903-1971</dcndl:creatorTranscription>
+      <dcndl:volume>第4巻 (犬娘お千代)</dcndl:volume>
+      <dc:publisher>現代書館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2001</dc:date>
+      <dcterms:issued>2001.2</dcterms:issued>
+      <dcndl:price>2800円</dcndl:price>
+      <dc:extent>330p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-7684-7024-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-7684-7024-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002959862</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20126763</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH353</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">918.68</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.hokkaido.jp/wo/opc/srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001258363"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102143913"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/9810301026/"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100374166"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1101076521"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000697270"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100136379"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100378484"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1089802&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001262502"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101415797"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101006606"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=63995&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=873675"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1105032144"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810231662"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009910194689/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103818111/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009910175885"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102559527"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009910158498"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001100144682"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1160158491"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009910070773"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101819510"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/1439629/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10441009"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10995349"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000850020"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001349959"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101961145"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/318403"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100428520"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100855858"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1100624140"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810239328"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11323751"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100117073"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/9810188893/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1101018212"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108283674"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100016546"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108335208"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1105208985"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100297399"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810319169"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1106008730"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1109193957"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100944777"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1101006185"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1108194342"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002959862"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I024707386"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11066325"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784768470244"/>
+      <dc:description> 2001</dc:description>
+    </item>
+    <item>
+      <title>三角寛全集 : 山窩物語　伊佐沼小僧</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I02111100420861</link>
+      <description><![CDATA[<p>第１２巻,母念寺出版,<p><ul><li>タイトル：三角寛全集 : 山窩物語　伊佐沼小僧</li><li>タイトル（読み）：ﾐｽﾐ ｶﾝ ｾﾞﾝｼｭｳ : ｻﾝｶ ﾓﾉｶﾞﾀﾘ ｲｻﾇﾏ ｺｿﾞｳ</li><li>責任表示：三角寛 著</li></ul>]]></description>
+      <author>三角, 寛,三角寛 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I02111100420861</guid>
+      <pubDate>Mon, 29 Nov 2021 12:18:48 +0900</pubDate>
+      <dc:title>三角寛全集 : 山窩物語　伊佐沼小僧</dc:title>
+      <dcndl:titleTranscription>ﾐｽﾐ ｶﾝ ｾﾞﾝｼｭｳ : ｻﾝｶ ﾓﾉｶﾞﾀﾘ ｲｻﾇﾏ ｺｿﾞｳ</dcndl:titleTranscription>
+      <dc:creator>三角, 寛</dc:creator>
+      <dcndl:creatorTranscription>ミスミ, カン</dcndl:creatorTranscription>
+      <dcndl:volume>第１２巻</dcndl:volume>
+      <dc:publisher>母念寺出版</dc:publisher>
+      <dc:extent>３１７ｐ ; １９ｃｍ</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC8">918.68</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100420861"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>三角寛全集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001275143</link>
+      <description><![CDATA[<p>12 (山窩物語伊佐沼小僧),母念寺出版,1971,<p><ul><li>タイトル：三角寛全集</li><li>タイトル（読み）：ミスミ カン ゼンシュウ</li></ul>]]></description>
+      <author>三角, 寛, 1903-1971</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001275143</guid>
+      <pubDate>Mon, 25 Jul 1988 09:00:00 +0900</pubDate>
+      <dc:title>三角寛全集</dc:title>
+      <dcndl:titleTranscription>ミスミ カン ゼンシュウ</dcndl:titleTranscription>
+      <dc:creator>三角, 寛, 1903-1971</dc:creator>
+      <dcndl:creatorTranscription>ミスミ, カン, 1903-1971</dcndl:creatorTranscription>
+      <dcndl:volume>12 (山窩物語伊佐沼小僧)</dcndl:volume>
+      <dc:publisher>母念寺出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1971</dc:date>
+      <dcterms:issued>1971</dcterms:issued>
+      <dcndl:price>700円</dcndl:price>
+      <dc:extent>317p 図</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001275143</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">75029890</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">918.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KH353</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190166695"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103069020"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001275143"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12537371"/>
+      <dc:description> 1971</dc:description>
+    </item>
+    <item>
+      <title>欒城 : 短篇小説集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001779890</link>
+      <description><![CDATA[<p>芸風書院,1985,<p><ul><li>タイトル：欒城 : 短篇小説集</li><li>タイトル（読み）：ランジョウ</li><li>責任表示：岡部一雄 著</li></ul>]]></description>
+      <author>岡部, 一雄, 1917-,岡部一雄 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001779890</guid>
+      <pubDate>Fri, 4 Apr 1986 09:00:00 +0900</pubDate>
+      <dc:title>欒城 : 短篇小説集</dc:title>
+      <dcndl:titleTranscription>ランジョウ</dcndl:titleTranscription>
+      <dc:creator>岡部, 一雄, 1917-</dc:creator>
+      <dcndl:creatorTranscription>オカベ, カズオ, 1917-</dcndl:creatorTranscription>
+      <dc:publisher>芸風書院</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1985</dc:date>
+      <dcterms:issued>1985.7</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>177p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001779890</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">86018727</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH469</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001779890"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12547876"/>
+      <dc:description> 1985</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,230 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>志誠 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%BF%97%E8%AA%A0&amp;cnt=20</link>
+    <description>Search results for title=志誠 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>6</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>公司法新論</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959814070458</link>
+      <description><![CDATA[<p>平裝,三民書局,2009,9789571451510<p><ul><li>タイトル：公司法新論</li><li>タイトル（読み）：コウシホウ シンロン</li><li>責任表示：王泰銓著</li></ul>]]></description>
+      <author>王, 泰銓,王, 志誠,王泰銓著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959814070458</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>公司法新論</dc:title>
+      <dcndl:titleTranscription>コウシホウ シンロン</dcndl:titleTranscription>
+      <dc:creator>王, 泰銓</dc:creator>
+      <dc:creator>王, 志誠</dc:creator>
+      <dcndl:creatorTranscription>オウ, タイセン</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オウ, シセイ</dcndl:creatorTranscription>
+      <dcndl:volume>平裝</dcndl:volume>
+      <dcndl:edition>修訂5版 / 王志誠修訂</dcndl:edition>
+      <dc:publisher>三民書局</dc:publisher>
+      <dcndl:publicationPlace>ch</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.7</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789571451510</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789571451510</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB02176745</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB02176745"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>西山一窟鬼 : 京本通俗小説</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000949415</link>
+      <description><![CDATA[<p>筑摩書房,1956,<p><ul><li>タイトル：西山一窟鬼 : 京本通俗小説</li><li>タイトル（読み）：セイザン イックツキ : ケイホン ツウゾク ショウセツ</li><li>責任表示：吉川幸次郎 訳</li></ul>]]></description>
+      <author>吉川, 幸次郎, 1904-1980,吉川幸次郎 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000949415</guid>
+      <pubDate>Tue, 15 Aug 1995 09:00:00 +0900</pubDate>
+      <dc:title>西山一窟鬼 : 京本通俗小説</dc:title>
+      <dcndl:titleTranscription>セイザン イックツキ : ケイホン ツウゾク ショウセツ</dcndl:titleTranscription>
+      <dc:creator>吉川, 幸次郎, 1904-1980</dc:creator>
+      <dcndl:creatorTranscription>ヨシカワ, コウジロウ, 1904-1980</dcndl:creatorTranscription>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1956</dc:date>
+      <dcterms:issued>1956</dcterms:issued>
+      <dc:extent>272p 図版</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000949415</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">56007936</dc:identifier>
+      <dc:subject>中国小説--小説集</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">923</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/5010127593/"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100081323"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000111471"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100474056"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1124073261"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100654391"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100239419"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1100169956"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010187508/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009810022801/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103194768/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009210093261"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100279525"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100285947"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001910034801"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009940029942"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10169663"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10260747"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000080126176"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001343751"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B10074458"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110316014"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100242308"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108117539"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1100139327"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103146722"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1132284678"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000949415"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/1663248"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN07640913"/>
+      <dc:description> 1956</dc:description>
+    </item>
+    <item>
+      <title>特集 保護室を語ろう 保護室アンケート 13　医療法人社団志誠会　平和病院</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390846634939661440</link>
+      <description><![CDATA[<p>1999-05-15,<p><ul><li>タイトル：特集 保護室を語ろう 保護室アンケート 13　医療法人社団志誠会　平和病院</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390846634939661440</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>特集 保護室を語ろう 保護室アンケート 13　医療法人社団志誠会　平和病院</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">1999-05-15</dc:date>
+      <dcterms:issued>1999-05-15</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390846634939661440"/>
+      <dc:description>掲載誌：精神看護 3 1999-05-15 p.38-38</dc:description>
+    </item>
+    <item>
+      <title>文献紹介 国内 王志誠著『台湾信託法の理論と展開』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I026032645</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：文献紹介 国内 王志誠著『台湾信託法の理論と展開』</li><li>タイトル（読み）：ブンケン ショウカイ コクナイ オウ シ セイ チョ 『 タイワン シンタクホウ ノ リロン ト テンカイ 』</li><li>責任表示：岸本 雄次郎</li></ul>]]></description>
+      <author>岸本 雄次郎,岸本 雄次郎</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I026032645</guid>
+      <pubDate>Wed, 21 Jan 2015 22:24:03 +0900</pubDate>
+      <dc:title>文献紹介 国内 王志誠著『台湾信託法の理論と展開』</dc:title>
+      <dcndl:titleTranscription>ブンケン ショウカイ コクナイ オウ シ セイ チョ 『 タイワン シンタクホウ ノ リロン ト テンカイ 』</dcndl:titleTranscription>
+      <dc:creator>岸本 雄次郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026032645</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZA19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I026032645"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521136280768948608"/>
+      <dc:description>掲載誌：信託法研究 = Studies of the law of trust / 信託法学会 編 39 p.131-139</dc:description>
+    </item>
+    <item>
+      <title>吉川幸次郎全集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001246313</link>
+      <description><![CDATA[<p>第13巻,筑摩書房,1969,<p><ul><li>タイトル：吉川幸次郎全集</li><li>タイトル（読み）：ヨシカワ コウジロウ ゼンシュウ</li></ul>]]></description>
+      <author>吉川, 幸次郎, 1904-1980</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001246313</guid>
+      <pubDate>Wed, 13 Jan 1988 09:00:00 +0900</pubDate>
+      <dc:title>吉川幸次郎全集</dc:title>
+      <dcndl:titleTranscription>ヨシカワ コウジロウ ゼンシュウ</dcndl:titleTranscription>
+      <dc:creator>吉川, 幸次郎, 1904-1980</dc:creator>
+      <dcndl:creatorTranscription>ヨシカワ, コウジロウ, 1904-1980</dcndl:creatorTranscription>
+      <dcndl:volume>第13巻</dcndl:volume>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1969</dc:date>
+      <dcterms:issued>1969</dcterms:issued>
+      <dc:extent>634p 図版</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001246313</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">75001044</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">920.8</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KK63</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.hokkaido.jp/wo/opc/srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000376689"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100128203"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/5010091146/"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010159775"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100542852"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000125236"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100102013"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1109093267"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1505813&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000414457"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100654046"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100239465"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190154189"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010148386/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103239455/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010156124"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100208068"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010198711"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101279243"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100285382"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100240100"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10307201"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B10407845"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000080092597"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000754025"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101668303"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100079384"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1100220586"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010084917"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B10947721"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/5010128847/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104069682"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100241816"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108061749"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1100103883"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100900177"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000160602"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1104219432"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103062261"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001246313"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/1674281"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00032768"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00105590"/>
+      <dc:description> 1969</dc:description>
+    </item>
+    <item>
+      <title>吉川幸次郎全集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001274937</link>
+      <description><![CDATA[<p>13巻 (宋篇),筑摩書房,1974,<p><ul><li>タイトル：吉川幸次郎全集</li><li>タイトル（読み）：ヨシカワ コウジロウ ゼンシュウ</li></ul>]]></description>
+      <author>吉川, 幸次郎, 1904-1980</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001274937</guid>
+      <pubDate>Mon, 25 Jul 1988 09:00:00 +0900</pubDate>
+      <dc:title>吉川幸次郎全集</dc:title>
+      <dcndl:titleTranscription>ヨシカワ コウジロウ ゼンシュウ</dcndl:titleTranscription>
+      <dc:creator>吉川, 幸次郎, 1904-1980</dc:creator>
+      <dcndl:creatorTranscription>ヨシカワ, コウジロウ, 1904-1980</dcndl:creatorTranscription>
+      <dcndl:volume>13巻 (宋篇)</dcndl:volume>
+      <dcndl:edition>増補</dcndl:edition>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1974</dc:date>
+      <dcterms:issued>1974</dcterms:issued>
+      <dcndl:price>3000円</dcndl:price>
+      <dc:extent>634p 図</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001274937</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">75029684</dc:identifier>
+      <dc:subject>中国文学--歴史--宋時代</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">920.8</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KK63</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0065045/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001274937"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12573537"/>
+      <dc:description> 1974</dc:description>
+    </item>
+  </channel>
+</rss>

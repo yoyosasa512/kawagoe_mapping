@@ -1,0 +1,402 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>奥貫友山 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%A5%A5%E8%B2%AB%E5%8F%8B%E5%B1%B1&amp;cnt=20</link>
+    <description>Search results for title=奥貫友山 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>15</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>奥貫友山</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001441725</link>
+      <description><![CDATA[<p>佐藤繁,1979,<p><ul><li>タイトル：奥貫友山</li><li>タイトル（読み）：オクヌキ ユウザン</li><li>責任表示：佐藤繁 編著</li></ul>]]></description>
+      <author>佐藤, 繁, 1941-,佐藤繁 編著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001441725</guid>
+      <pubDate>Thu, 1 Oct 1981 09:00:00 +0900</pubDate>
+      <dc:title>奥貫友山</dc:title>
+      <dcndl:titleTranscription>オクヌキ ユウザン</dcndl:titleTranscription>
+      <dc:creator>佐藤, 繁, 1941-</dc:creator>
+      <dcndl:creatorTranscription>サトウ, シゲル, 1941-</dcndl:creatorTranscription>
+      <dc:publisher>佐藤繁</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1979</dc:date>
+      <dcterms:issued>1979.10</dcterms:issued>
+      <dc:extent>59p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001441725</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">80011157</dc:identifier>
+      <dc:subject>奥貫, 友山, 1708-1787</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">121.56</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HA72</dc:subject>
+      <dc:description>限定版</dc:description>
+      <dc:description>略年譜: p46～50 参考文献: p58</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000303130"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1124415650"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100397588"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001441725"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12224992"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA36453951"/>
+      <dc:description> 1979</dc:description>
+    </item>
+    <item>
+      <title>奥貫友山翁詳伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000554138</link>
+      <description><![CDATA[<p>埼玉県教育会事務所,1912,<p><ul><li>タイトル：奥貫友山翁詳伝</li><li>タイトル（読み）：オクヌキ ユウザン オウ ショウデン</li><li>責任表示：埼玉県教育会 編</li><li>シリーズ名：徳育資料 ; 第3編</li><li>シリーズ名（読み）：トクイク シリョウ ; 3</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会 編</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000554138</guid>
+      <pubDate>Mon, 24 Apr 2006 08:59:59 +0900</pubDate>
+      <dc:title>奥貫友山翁詳伝</dc:title>
+      <dcndl:titleTranscription>オクヌキ ユウザン オウ ショウデン</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン キョウイクカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>徳育資料 ; 第3編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクイク シリョウ ; 3</dcndl:seriesTitleTranscription>
+      <dc:publisher>埼玉県教育会事務所</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1912</dc:date>
+      <dcterms:issued>大正1</dcterms:issued>
+      <dc:extent>226p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000554138</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">43006538</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">289.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100298687"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000554138"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/935821"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN11635939"/>
+      <dc:description> 1912</dc:description>
+    </item>
+    <item>
+      <title>奥貫友山翁詳伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859828329744</link>
+      <description><![CDATA[<p>埼玉県立浦和図書館,1980,<p><ul><li>タイトル：奥貫友山翁詳伝</li><li>タイトル（読み）：オクヌキ ユウザン オキナ ヒョウデン</li><li>責任表示：埼玉県教育会編</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859828329744</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>奥貫友山翁詳伝</dc:title>
+      <dcndl:titleTranscription>オクヌキ ユウザン オキナ ヒョウデン</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン キョウイクカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立浦和図書館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN01896969</dc:identifier>
+      <dc:subject>奥貫, 友山(1708〜1787)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK13</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">281.34</dc:subject>
+      <dc:description>埼玉県教育会事務所大正元年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/36244"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN01896969"/>
+      <dc:description> 1980</dc:description>
+    </item>
+    <item>
+      <title>奥貫友山</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000435785</link>
+      <description><![CDATA[<p>実業之埼玉社,1910,<p><ul><li>タイトル：奥貫友山</li><li>タイトル（読み）：オクヌキ ユウザン</li><li>責任表示：埼玉史談会 編</li><li>シリーズ名：埼玉史談 ; 第1編</li><li>シリーズ名（読み）：サイタマ シダン ; 1</li></ul>]]></description>
+      <author>埼玉史談会,埼玉史談会 編</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000435785</guid>
+      <pubDate>Mon, 25 Oct 1993 09:00:00 +0900</pubDate>
+      <dc:title>奥貫友山</dc:title>
+      <dcndl:titleTranscription>オクヌキ ユウザン</dcndl:titleTranscription>
+      <dc:creator>埼玉史談会</dc:creator>
+      <dcndl:creatorTranscription>サイタマ シダンカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>埼玉史談 ; 第1編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>サイタマ シダン ; 1</dcndl:seriesTitleTranscription>
+      <dc:publisher>実業之埼玉社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1910</dc:date>
+      <dcterms:issued>明43.10</dcterms:issued>
+      <dc:extent>28p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000435785</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40018182</dc:identifier>
+      <dc:subject>奥貫, 友山, 1708-1787</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">289.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000435785"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/781182"/>
+      <dc:description> 1910</dc:description>
+    </item>
+    <item>
+      <title>近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025601445</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</li><li>タイトル（読み）：キンダイ ニ オケル オウカンユウサン ジセキ ノ ケイフ : シュッパン ショセキ ニ ヨル ルフ ト カゾウ キロク</li><li>責任表示：太田 富康</li></ul>]]></description>
+      <author>太田 富康,太田 富康</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025601445</guid>
+      <pubDate>Thu, 6 Jul 2023 01:13:41 +0900</pubDate>
+      <dc:title>近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</dc:title>
+      <dcndl:titleTranscription>キンダイ ニ オケル オウカンユウサン ジセキ ノ ケイフ : シュッパン ショセキ ニ ヨル ルフ ト カゾウ キロク</dcndl:titleTranscription>
+      <dc:creator>太田 富康</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025601445</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025601445"/>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/112438"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390011384800593792"/>
+      <dc:description>掲載誌：文書館紀要 / 埼玉県立文書館 編 27 p.118-104</dc:description>
+    </item>
+    <item>
+      <title>近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I10196584</link>
+      <description><![CDATA[<p>埼玉県,2014-03,<p><ul><li>タイトル：近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</li><li>責任表示：太田富康</li></ul>]]></description>
+      <author>太田富康</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I10196584</guid>
+      <pubDate>Thu, 9 Jan 2025 03:23:37 +0900</pubDate>
+      <dc:title>近代における奥貫友山事績の系譜 : 出版書籍による流布と家蔵記録</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2014-03</dc:date>
+      <dcterms:issued>2014-03</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/10196584</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/10196584"/>
+      <dc:description>掲載誌：文書館紀要 2014-03</dc:description>
+    </item>
+    <item>
+      <title>徳育資料　第３編　：　　奥貫友山翁詳伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I01211001000311694</link>
+      <description><![CDATA[<p>埼玉県立浦和図書館,1980-10,<p><ul><li>タイトル：徳育資料　第３編　：　　奥貫友山翁詳伝</li><li>タイトル（読み）：トクイクシリヨウ　　オクヌキユウザンオウシヨウデン</li><li>責任表示：埼玉県教育会／編</li><li>NDC(9)：281.3</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会／編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I01211001000311694</guid>
+      <pubDate>Sat, 22 Feb 2020 02:40:33 +0900</pubDate>
+      <dc:title>徳育資料　第３編　：　　奥貫友山翁詳伝</dc:title>
+      <dcndl:titleTranscription>トクイクシリヨウ　　オクヌキユウザンオウシヨウデン</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケンキヨウイクカイ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立浦和図書館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1980-10</dc:date>
+      <dcterms:issued>1980.10</dcterms:issued>
+      <dc:extent>００９９</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">281.3</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000311694"/>
+      <dc:description> 1980-10</dc:description>
+    </item>
+    <item>
+      <title>徳育資料　：　奥貫友山翁詳伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I42111007015042506</link>
+      <description><![CDATA[<p>第3編,浦和 埼玉県立浦和図書館,1980,<p><ul><li>タイトル：徳育資料　：　奥貫友山翁詳伝</li><li>タイトル（読み）：トクイク シリヨウ　オクヌキユウザン オウ シヨウデン</li><li>責任表示：埼玉県教育会／編</li><li>NDC(9)：371.6</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会／編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I42111007015042506</guid>
+      <pubDate>Sun, 11 Jun 2023 05:00:42 +0900</pubDate>
+      <dc:title>徳育資料　：　奥貫友山翁詳伝</dc:title>
+      <dcndl:titleTranscription>トクイク シリヨウ　オクヌキユウザン オウ シヨウデン</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケンキヨウイクカイ</dcndl:creatorTranscription>
+      <dcndl:volume>第3編</dcndl:volume>
+      <dc:publisher>浦和 埼玉県立浦和図書館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980</dcterms:issued>
+      <dc:extent>226p</dc:extent>
+      <dc:subject>道徳教育</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">371.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007015042506"/>
+      <dc:description> 1980</dc:description>
+    </item>
+    <item>
+      <title>徳育資料 : 奥貫友山翁詳伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I09111100924658</link>
+      <description><![CDATA[<p>第三編,埼玉県立浦和図書館,1980,<p><ul><li>タイトル：徳育資料 : 奥貫友山翁詳伝</li><li>タイトル（読み）：トクイク　シリヨウ</li><li>責任表示：埼玉県教育会 編</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I09111100924658</guid>
+      <pubDate>Thu, 15 Jun 2000 00:00:00 +0900</pubDate>
+      <dc:title>徳育資料 : 奥貫友山翁詳伝</dc:title>
+      <dcndl:titleTranscription>トクイク　シリヨウ</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケンキヨウイクカイ</dcndl:creatorTranscription>
+      <dcndl:volume>第三編</dcndl:volume>
+      <dc:publisher>埼玉県立浦和図書館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980</dcterms:issued>
+      <dc:extent>１冊 ; ２３㎝</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC8">372</dc:subject>
+      <dc:description>（埼玉県立図書館復刻叢書（四））　大正元年埼玉県教育会事務所より発行の復刻版</dc:description>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100924658"/>
+      <dc:description> 1980</dc:description>
+    </item>
+    <item>
+      <title>徳育資料</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001490493</link>
+      <description><![CDATA[<p>第3編 (奥貫友山翁詳伝),埼玉県立浦和図書館,1980,<p><ul><li>タイトル：徳育資料</li><li>タイトル（読み）：トクイク シリョウ</li><li>責任表示：埼玉県教育会 編</li><li>シリーズ名：埼玉県立図書館復刻叢書 ; 4</li></ul>]]></description>
+      <author>埼玉県教育会,埼玉県教育会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001490493</guid>
+      <pubDate>Tue, 14 Apr 1981 09:00:00 +0900</pubDate>
+      <dc:title>徳育資料</dc:title>
+      <dcndl:titleTranscription>トクイク シリョウ</dcndl:titleTranscription>
+      <dc:creator>埼玉県教育会</dc:creator>
+      <dcndl:creatorTranscription>サイタマケン キョウイクカイ</dcndl:creatorTranscription>
+      <dcndl:volume>第3編 (奥貫友山翁詳伝)</dcndl:volume>
+      <dcndl:seriesTitle>埼玉県立図書館復刻叢書 ; 4</dcndl:seriesTitle>
+      <dc:publisher>埼玉県立浦和図書館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980.10</dcterms:issued>
+      <dc:extent>226p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001490493</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">81014797</dc:identifier>
+      <dc:subject>奥貫, 友山, 1708-1787</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK13</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">281.34</dc:subject>
+      <dc:description>埼玉県教育会事務所大正元年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.hokkaido.jp/wo/opc/srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100032600"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100617668"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100104830"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190082961"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1100235824"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103013749/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100533672"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101026836"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103033938"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001490493"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12260134"/>
+      <dc:description> 1980</dc:description>
+    </item>
+    <item>
+      <title>名主奥貫友山と寛保2年の大水害</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434844943402</link>
+      <description><![CDATA[<p>川越市立博物館,2011,<p><ul><li>タイトル：名主奥貫友山と寛保2年の大水害</li><li>タイトル（読み）：ナヌシ オクヌキ ユウザン ト カンポウ 2ネン ノ ダイスイガイ</li><li>責任表示：川越市立博物館編</li></ul>]]></description>
+      <author>川越市立博物館,奥貫, 友山,川越市立博物館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434844943402</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>名主奥貫友山と寛保2年の大水害</dc:title>
+      <dcndl:titleTranscription>ナヌシ オクヌキ ユウザン ト カンポウ 2ネン ノ ダイスイガイ</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dc:creator>奥貫, 友山</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オクヌキ, ユウザン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB07200927</dc:identifier>
+      <dc:subject>展覧会カタログ</dc:subject>
+      <dc:description>展覧会カタログ</dc:description>
+      <dc:description>会期・会場: 平成23年10月8日-11月23日:川越市立博物館</dc:description>
+      <dc:description>奥貫友山関係略年表: p74</dc:description>
+      <dc:description>展示資料一覧 : p77-78</dc:description>
+      <dc:description>主要参考文献 : p79</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101215319"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB07200927"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BD09565182"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>農村の知識人たち : 奥貫友山・井上淑蔭・林信海</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859727740812</link>
+      <description><![CDATA[<p>埼玉県立文書館,1989,<p><ul><li>タイトル：農村の知識人たち : 奥貫友山・井上淑蔭・林信海</li><li>タイトル（読み）：ノウソン ノ チシキジン タチ : オクヌキ ユウザン ・ イノウエ ヨシカゲ ・ ハヤシ ノブウミ</li><li>責任表示：埼玉県立文書館編</li></ul>]]></description>
+      <author>埼玉県立文書館,奥貫, 友山,井上, 淑蔭,林, 信海,埼玉県立文書館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859727740812</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>農村の知識人たち : 奥貫友山・井上淑蔭・林信海</dc:title>
+      <dcndl:titleTranscription>ノウソン ノ チシキジン タチ : オクヌキ ユウザン ・ イノウエ ヨシカゲ ・ ハヤシ ノブウミ</dcndl:titleTranscription>
+      <dc:creator>埼玉県立文書館</dc:creator>
+      <dc:creator>奥貫, 友山</dc:creator>
+      <dc:creator>井上, 淑蔭</dc:creator>
+      <dc:creator>林, 信海</dc:creator>
+      <dcndl:creatorTranscription>サイタマ ケンリツ モンジョカン</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オクヌキ, ユウザン</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イノウエ, ヨシカゲ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ハヤシ, ノブウミ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立文書館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1989</dc:date>
+      <dcterms:issued>1989.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC02907032</dc:identifier>
+      <dc:subject>展覧会カタログ</dc:subject>
+      <dc:description>展覧会カタログ</dc:description>
+      <dc:description>タイトルは表紙による</dc:description>
+      <dc:description>会期・会場: 1989年6月3日〜10月8日:埼玉県立文書館</dc:description>
+      <dc:description>展示文書目録: p8-9</dc:description>
+      <dc:description>奥貫友山, 井上淑蔭, 林信海の肖像あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BC02907032"/>
+      <dc:description> 1989</dc:description>
+    </item>
+    <item>
+      <title>名主奥貫友山と寛保2年の大水害 : 第36回企画展</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011307857</link>
+      <description><![CDATA[<p>川越市立博物館,2011,<p><ul><li>タイトル：名主奥貫友山と寛保2年の大水害 : 第36回企画展</li><li>タイトル（読み）：メイシュ オクヌキ ユウザン ト カンポウ 2ネン ノ ダイスイガイ : ダイ36カイ キカクテン</li><li>責任表示：川越市立博物館 編</li><li>NDC(9)：121.56</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011307857</guid>
+      <pubDate>Fri, 11 Nov 2011 20:23:10 +0900</pubDate>
+      <dc:title>名主奥貫友山と寛保2年の大水害 : 第36回企画展</dc:title>
+      <dcndl:titleTranscription>メイシュ オクヌキ ユウザン ト カンポウ 2ネン ノ ダイスイガイ : ダイ36カイ キカクテン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.10</dcterms:issued>
+      <dc:extent>79p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011307857</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22003908</dc:identifier>
+      <dc:subject>奥貫, 友山, 1708-1787</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HA72</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">121.56</dc:subject>
+      <dc:description>会期: 平成23年10月8日-11月23日</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=179790&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=246079&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108556754"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12785009"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011307857"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>十八世紀の在村知識人の思想形成--奥貫友山の遺書を中心として</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11158289</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：十八世紀の在村知識人の思想形成--奥貫友山の遺書を中心として</li><li>タイトル（読み）：18セイキ ノ ザイソン チシキジン ノ シソウ ケイセイ オクヌキ ユウザン ノ イショ オ チュウシン ト シテ</li><li>責任表示：鈴木 愛</li></ul>]]></description>
+      <author>鈴木 愛,鈴木 愛</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11158289</guid>
+      <pubDate>Fri, 29 Jul 2011 22:40:17 +0900</pubDate>
+      <dc:title>十八世紀の在村知識人の思想形成--奥貫友山の遺書を中心として</dc:title>
+      <dcndl:titleTranscription>18セイキ ノ ザイソン チシキジン ノ シソウ ケイセイ オクヌキ ユウザン ノ イショ オ チュウシン ト シテ</dcndl:titleTranscription>
+      <dc:creator>鈴木 愛</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11158289</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU13</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11158289"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523669554795300736"/>
+      <dc:description>掲載誌：書物・出版と社会変容 / 「書物・出版と社会変容」研究会 編 10 p.83～109</dc:description>
+    </item>
+    <item>
+      <title>18世紀の在村知識人の思想形成 : 奥貫友山の遺書を中心として</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050569015548572672</link>
+      <description><![CDATA[<p>2011-03-10,<p><ul><li>タイトル：18世紀の在村知識人の思想形成 : 奥貫友山の遺書を中心として</li></ul>]]></description>
+      <author>鈴木, 愛</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050569015548572672</guid>
+      <pubDate>Sun, 22 Mar 2026 00:38:57 +0900</pubDate>
+      <dc:title>18世紀の在村知識人の思想形成 : 奥貫友山の遺書を中心として</dc:title>
+      <dc:creator>鈴木, 愛</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-03-10</dc:date>
+      <dcterms:issued>2011-03-10</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://hdl.handle.net/10086/18982"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050569015548572672"/>
+      <dc:description>掲載誌：書物・出版と社会変容 2011-03-10 p.83-109</dc:description>
+    </item>
+  </channel>
+</rss>

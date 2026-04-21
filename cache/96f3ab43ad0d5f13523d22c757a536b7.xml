@@ -1,0 +1,518 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越 舟運 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A+%E8%88%9F%E9%81%8B&amp;cnt=20</link>
+    <description>Search results for title=川越 舟運 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>28</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>うつくしの街川越 : 小江戸成長物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</link>
+      <description><![CDATA[<p>一色出版,2019,978-4-909383-11-2<p><ul><li>タイトル：うつくしの街川越 : 小江戸成長物語</li><li>タイトル（読み）：ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</li><li>責任表示：山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</li><li>NDC(10)：213.4</li></ul>]]></description>
+      <author>山野, 清二郎, 1942-,松尾, 鉄城,寺島, 悦恩, 1948-,小林, 範子,山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</guid>
+      <pubDate>Mon, 26 Aug 2019 22:19:14 +0900</pubDate>
+      <dc:title>うつくしの街川越 : 小江戸成長物語</dc:title>
+      <dcndl:titleTranscription>ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dc:creator>松尾, 鉄城</dc:creator>
+      <dc:creator>寺島, 悦恩, 1948-</dc:creator>
+      <dc:creator>小林, 範子</dc:creator>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツオ, テツキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシマ, エツオ, 1948-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コバヤシ, ノリコ</dcndl:creatorTranscription>
+      <dc:publisher>一色出版</dc:publisher>
+      <dc:publisher>悠書館 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909383-11-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029753704</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23253833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33941694</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198062857"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2921871&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153387240"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000946206"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120277306"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110364271"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111545867"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029753704"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4073955"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033620311"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13472745"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB28780530"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784909383112"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>江戸に進出する川越町人 : 江戸積問屋・川越屋勘兵衛の動向から</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I031921982</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸に進出する川越町人 : 江戸積問屋・川越屋勘兵衛の動向から</li><li>タイトル（読み）：エド ニ シンシュツ スル カワゴエ チョウニン : エド セキ ドンヤ ・ カワゴエヤ カン ベエ ノ ドウコウ カラ</li><li>責任表示：宮原 一郎</li><li>シリーズ名：特集 埼玉の交通史(2)河川と舟運</li><li>シリーズ名（読み）：トクシュウ サイタマ ノ コウツウシ(2)カセン ト シュウウン</li></ul>]]></description>
+      <author>宮原 一郎,宮原 一郎</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I031921982</guid>
+      <pubDate>Fri, 21 Jan 2022 20:11:18 +0900</pubDate>
+      <dc:title>江戸に進出する川越町人 : 江戸積問屋・川越屋勘兵衛の動向から</dc:title>
+      <dcndl:titleTranscription>エド ニ シンシュツ スル カワゴエ チョウニン : エド セキ ドンヤ ・ カワゴエヤ カン ベエ ノ ドウコウ カラ</dcndl:titleTranscription>
+      <dc:creator>宮原 一郎</dc:creator>
+      <dcndl:seriesTitle>特集 埼玉の交通史(2)河川と舟運</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ サイタマ ノ コウツウシ(2)カセン ト シュウウン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031921982</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG19</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I031921982"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1524232505988814464"/>
+      <dc:description>掲載誌：埼玉の文化財 / 埼玉県文化財保護協会 編 55 p.32-42</dc:description>
+    </item>
+    <item>
+      <title>川越舟運 : 江戸と小江戸を結んで三百年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001573466</link>
+      <description><![CDATA[<p>さきたま出版会,1982,<p><ul><li>タイトル：川越舟運 : 江戸と小江戸を結んで三百年</li><li>タイトル（読み）：カワゴエ シュウウン</li><li>責任表示：斎藤貞夫 著</li></ul>]]></description>
+      <author>斎藤, 貞夫, 1938-,斎藤貞夫 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001573466</guid>
+      <pubDate>Tue, 19 Oct 1982 09:00:00 +0900</pubDate>
+      <dc:title>川越舟運 : 江戸と小江戸を結んで三百年</dc:title>
+      <dcndl:titleTranscription>カワゴエ シュウウン</dcndl:titleTranscription>
+      <dc:creator>斎藤, 貞夫, 1938-</dc:creator>
+      <dcndl:creatorTranscription>サイトウ, サダオ, 1938-</dcndl:creatorTranscription>
+      <dc:publisher>さきたま出版会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1982</dc:date>
+      <dcterms:issued>1982.6</dcterms:issued>
+      <dcndl:price>1800円</dcndl:price>
+      <dc:extent>247p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001573466</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">82048329</dc:identifier>
+      <dc:subject>新河岸川</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DK175</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">684</dc:subject>
+      <dc:description>折り込地図1枚</dc:description>
+      <dc:description>武州新河岸川舟運史年表・参考文献: p234～247</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100378858"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100082627"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116263441"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1123350163"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1352332&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100155907"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100039009"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190063385"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010121022/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100189500"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101269869"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0136210/"/>
+      <rdfs:seeAlso rdf:resource="https://opacs.pref.kyoto.lg.jp/mylimedio/search/book.do?bibid=528287"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014857608"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101585352"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010180640"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100018703"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001573466"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12061732"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN00544547"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784878910173"/>
+      <dc:description> 1982</dc:description>
+    </item>
+    <item>
+      <title>川越舟運 江戸と小江戸を結んで三百年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000049-I000003746543</link>
+      <description><![CDATA[<p>埼玉県立川越図書館 (手製),2002,<p><ul><li>タイトル：川越舟運 江戸と小江戸を結んで三百年</li><li>タイトル（読み）：カワゴエ シュウウン</li><li>責任表示：斎藤貞夫 著</li><li>NDC(9)：684</li></ul>]]></description>
+      <author>斎藤, 貞夫,斎藤貞夫 著</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000049-I000003746543</guid>
+      <pubDate>Mon, 1 Mar 2021 19:17:26 +0900</pubDate>
+      <dc:title>川越舟運 江戸と小江戸を結んで三百年</dc:title>
+      <dcndl:titleTranscription>カワゴエ シュウウン</dcndl:titleTranscription>
+      <dc:creator>斎藤, 貞夫</dc:creator>
+      <dcndl:creatorTranscription>サイトウ, サダオ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越図書館 (手製)</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002</dcterms:issued>
+      <dc:extent>カセット 5巻</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000003746543</dc:identifier>
+      <dc:identifier xsi:type="dcndl:BRNO">02006510</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">684</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I000003746543"/>
+      <dc:description> 2002</dc:description>
+    </item>
+    <item>
+      <title>川越舟運 江戸と小江戸を結んで三百年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000049-I000010855530</link>
+      <description><![CDATA[<p>埼玉県立久喜図書館 (手製),2010,<p><ul><li>タイトル：川越舟運 江戸と小江戸を結んで三百年</li><li>タイトル（読み）：カワゴエ シュウウン : エド ト ショウ エド オ ムスンデ サンビャクネン</li><li>責任表示：斎藤貞夫 著</li><li>NDC(9)：684</li></ul>]]></description>
+      <author>斎藤, 貞夫, 1938-,斎藤貞夫 著</author>
+      <category>電子資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000049-I000010855530</guid>
+      <pubDate>Fri, 26 Feb 2021 02:19:23 +0900</pubDate>
+      <dc:title>川越舟運 江戸と小江戸を結んで三百年</dc:title>
+      <dcndl:titleTranscription>カワゴエ シュウウン : エド ト ショウ エド オ ムスンデ サンビャクネン</dcndl:titleTranscription>
+      <dc:creator>斎藤, 貞夫, 1938-</dc:creator>
+      <dcndl:creatorTranscription>サイトウ, サダオ, 1938-</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立久喜図書館 (手製)</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010</dcterms:issued>
+      <dc:extent>CD-ROM 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010855530</dc:identifier>
+      <dc:identifier xsi:type="dcndl:BRNO">10192298</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">684</dc:subject>
+      <dc:description>音声DAISY</dc:description>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I000010855530"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>川越舟運 : 江戸と小江戸を結んで三百年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000073-I10210261</link>
+      <description><![CDATA[<p>さきたま出版会,1982-06,<p><ul><li>タイトル：川越舟運 : 江戸と小江戸を結んで三百年</li><li>タイトル（読み）：カワゴエ シュウウン : エド ト ショウ エド オ ムスンデ サンビャクネン</li><li>責任表示：斎藤貞夫 著</li><li>NDC(9)：684</li></ul>]]></description>
+      <author>斎藤, 貞夫, 1938-,斎藤貞夫 著</author>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000073-I10210261</guid>
+      <pubDate>Wed, 27 Nov 2024 02:53:26 +0900</pubDate>
+      <dc:title>川越舟運 : 江戸と小江戸を結んで三百年</dc:title>
+      <dcndl:titleTranscription>カワゴエ シュウウン : エド ト ショウ エド オ ムスンデ サンビャクネン</dcndl:titleTranscription>
+      <dc:creator>斎藤, 貞夫, 1938-</dc:creator>
+      <dc:publisher>さきたま出版会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1982-06</dc:date>
+      <dcterms:issued>1982.6</dcterms:issued>
+      <dc:extent>CD-ROM 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/10210261</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">684</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I10210261"/>
+      <dc:description> 1982-06</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I25110071145</link>
+      <description><![CDATA[<p>川越地方史研究会,1976,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ ヨフネ</li><li>責任表示：岡村一郎 著</li><li>シリーズ名：川越歴史新書 2</li></ul>]]></description>
+      <author>岡村一郎,岡村一郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I25110071145</guid>
+      <pubDate>Fri, 30 Apr 2021 09:00:00 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヨフネ</dcndl:titleTranscription>
+      <dc:creator>岡村一郎</dc:creator>
+      <dcndl:creatorTranscription>オカムラ,イチロウ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越歴史新書 2</dcndl:seriesTitle>
+      <dc:publisher>川越地方史研究会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1976</dc:date>
+      <dcndl:price>400円</dcndl:price>
+      <dc:extent>117p ; 18cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC8">684.0213</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0071145/"/>
+      <dc:description> 1976</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I10111100023822</link>
+      <description><![CDATA[<p>埼玉県川越双書刊行会,1954,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ　ヨフネ : シンガシガワ　シュウウンシ</li><li>責任表示：岡村一郎 著</li><li>シリーズ名：川越双書 ; 第２巻</li><li>シリーズ名（読み）：カワゴエ　ソウショ ; ダイ　２　カン</li></ul>]]></description>
+      <author>岡村一郎,岡村一郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I10111100023822</guid>
+      <pubDate>Mon, 1 Jan 1900 20:00:00 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ　ヨフネ : シンガシガワ　シュウウンシ</dcndl:titleTranscription>
+      <dc:creator>岡村一郎</dc:creator>
+      <dcndl:creatorTranscription>オカムラ, イチロウ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越双書 ; 第２巻</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエ　ソウショ ; ダイ　２　カン</dcndl:seriesTitleTranscription>
+      <dc:publisher>埼玉県川越双書刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1954</dc:date>
+      <dcterms:issued>1954</dcterms:issued>
+      <dc:extent>１０６ｐ ; １８ｃｍ</dc:extent>
+      <dc:subject>埼玉県－川越</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100023822"/>
+      <dc:description> 1954</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I13131100697756</link>
+      <description><![CDATA[<p>川越叢書刊行会,1953,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ ヨブネ : シンガシガワ シュウウンシ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I13131100697756</guid>
+      <pubDate>Thu, 6 Apr 2023 01:00:01 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヨブネ : シンガシガワ シュウウンシ</dcndl:titleTranscription>
+      <dc:publisher>川越叢書刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1953</dc:date>
+      <dcterms:issued>1953</dcterms:issued>
+      <dc:extent>106p ; 19cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100697756"/>
+      <dc:description> 1953</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000924558</link>
+      <description><![CDATA[<p>川越叢書刊行会,1954,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ ヨブネ : シンガシガワ シュウウンシ</li><li>責任表示：岡村一郎 著</li><li>シリーズ名：川越叢書 ; 第2巻</li><li>シリーズ名（読み）：カワゴエ ソウショ ; 2</li></ul>]]></description>
+      <author>岡村, 一郎, 1912-,岡村一郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000924558</guid>
+      <pubDate>Tue, 28 Mar 1995 09:00:00 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヨブネ : シンガシガワ シュウウンシ</dcndl:titleTranscription>
+      <dc:creator>岡村, 一郎, 1912-</dc:creator>
+      <dcndl:creatorTranscription>オカムラ, イチロウ, 1912-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>川越叢書 ; 第2巻</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエ ソウショ ; 2</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越叢書刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1954</dc:date>
+      <dcterms:issued>1954</dcterms:issued>
+      <dc:extent>106p 図版 地図</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000924558</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">54011754</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">682.134</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000310964"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116686733"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2288444&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190367971"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3310339&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1100232478"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001110068237"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101084750"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000924558"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2470026"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA49134286"/>
+      <dc:description> 1954</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008130527</link>
+      <description><![CDATA[<p>川越地方史研究会,1976,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ ヨブネ : シンガシガワ シュウウンシ</li><li>責任表示：岡村一郎 著</li><li>シリーズ名：川越歴史新書 ; 2</li><li>シリーズ名（読み）：カワゴエ レキシ シンショ</li><li>NDC(9)：684.02134</li></ul>]]></description>
+      <author>岡村, 一郎, 1912-,岡村一郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008130527</guid>
+      <pubDate>Fri, 26 May 2006 00:20:52 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヨブネ : シンガシガワ シュウウンシ</dcndl:titleTranscription>
+      <dc:creator>岡村, 一郎, 1912-</dc:creator>
+      <dcndl:creatorTranscription>オカムラ, イチロウ, 1912-</dcndl:creatorTranscription>
+      <dcndl:edition>改版</dcndl:edition>
+      <dcndl:seriesTitle>川越歴史新書 ; 2</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カワゴエ レキシ シンショ</dcndl:seriesTitleTranscription>
+      <dc:publisher>川越地方史研究会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1976</dc:date>
+      <dcterms:issued>1976.6</dcterms:issued>
+      <dc:extent>117p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008130527</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21020697</dc:identifier>
+      <dc:subject>河川運送--埼玉県--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DK175</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">684.02134</dc:subject>
+      <dc:description>折り込2枚</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1100929299"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008130527"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA89144875"/>
+      <dc:description> 1976</dc:description>
+    </item>
+    <item>
+      <title>川越夜船 : 新河岸川舟運史</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809802801075</link>
+      <description><![CDATA[<p>川越地方史研究会,1972,<p><ul><li>タイトル：川越夜船 : 新河岸川舟運史</li><li>タイトル（読み）：カワゴエ ヨブネ : シンガシガワ フナウンシ</li><li>責任表示：岡村一郎著</li></ul>]]></description>
+      <author>岡村, 一郎,岡村一郎著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809802801075</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>川越夜船 : 新河岸川舟運史</dc:title>
+      <dcndl:titleTranscription>カワゴエ ヨブネ : シンガシガワ フナウンシ</dcndl:titleTranscription>
+      <dc:creator>岡村, 一郎</dc:creator>
+      <dcndl:creatorTranscription>オカムラ, イチロウ</dcndl:creatorTranscription>
+      <dc:publisher>川越地方史研究会</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>c1972</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN1360357X</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116686774"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=595025&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BN1360357X"/>
+      <dc:description> 1972</dc:description>
+    </item>
+    <item>
+      <title>埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(前編)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I024922971</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(前編)</li><li>タイトル（読み）：サイタマ アヤ ハッケン シラレザル レキシ オ サグル シンガシガワ ノ シュウウン ト カワゴエ ゴ カシ(ゼンペン)</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I024922971</guid>
+      <pubDate>Tue, 22 Oct 2013 01:14:05 +0900</pubDate>
+      <dc:title>埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(前編)</dc:title>
+      <dcndl:titleTranscription>サイタマ アヤ ハッケン シラレザル レキシ オ サグル シンガシガワ ノ シュウウン ト カワゴエ ゴ カシ(ゼンペン)</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024922971</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I024922971"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521417754815020160"/>
+      <dc:description>掲載誌：ぶぎんレポート / ぶぎん地域経済研究所 編 170 p.32-35</dc:description>
+    </item>
+    <item>
+      <title>埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(後編)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025026568</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(後編)</li><li>タイトル（読み）：サイタマ アヤ ハッケン シラレザル レキシ オ サグル シンガシガワ ノ シュウウン ト カワゴエ ゴ カシ(コウヘン)</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025026568</guid>
+      <pubDate>Fri, 29 Nov 2013 22:18:08 +0900</pubDate>
+      <dc:title>埼玉彩発見 知られざる歴史を探る 新河岸川の舟運と川越五河岸(後編)</dc:title>
+      <dcndl:titleTranscription>サイタマ アヤ ハッケン シラレザル レキシ オ サグル シンガシガワ ノ シュウウン ト カワゴエ ゴ カシ(コウヘン)</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025026568</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025026568"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523106605236136448"/>
+      <dc:description>掲載誌：ぶぎんレポート / ぶぎん地域経済研究所 編 171 p.28-31</dc:description>
+    </item>
+    <item>
+      <title>斎藤貞夫著, 『武州・川越舟運-新河岸川の今と昔-』, 写真集, さきたま出版会, 一九九〇年刊, B6版, 一三二頁, 四〇〇〇円</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390282681074416512</link>
+      <description><![CDATA[<p>1990,<p><ul><li>タイトル：斎藤貞夫著, 『武州・川越舟運-新河岸川の今と昔-』, 写真集, さきたま出版会, 一九九〇年刊, B6版, 一三二頁, 四〇〇〇円</li></ul>]]></description>
+      <author>酒井 智晴</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390282681074416512</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>斎藤貞夫著, 『武州・川越舟運-新河岸川の今と昔-』, 写真集, さきたま出版会, 一九九〇年刊, B6版, 一三二頁, 四〇〇〇円</dc:title>
+      <dc:creator>酒井 智晴</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1990</dc:date>
+      <dcterms:issued>1990</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.20712/kotsushi.25.0_91"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390282681074416512"/>
+      <dc:description>掲載誌：交通史研究 0 1990 p.91-93</dc:description>
+    </item>
+    <item>
+      <title>新河岸川舟運における川越城下町商人の動向 : 嘉永期奥川船積問屋株買い取りをめぐって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I012470006584950</link>
+      <description><![CDATA[<p>駒澤大学大学院史学会,2011-04,<p><ul><li>タイトル：新河岸川舟運における川越城下町商人の動向 : 嘉永期奥川船積問屋株買い取りをめぐって</li><li>責任表示：菅野, 将史</li></ul>]]></description>
+      <author>菅野, 将史,菅野, 将史</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I012470006584950</guid>
+      <pubDate>Wed, 19 Feb 2025 14:58:38 +0900</pubDate>
+      <dc:title>新河岸川舟運における川越城下町商人の動向 : 嘉永期奥川船積問屋株買い取りをめぐって</dc:title>
+      <dc:creator>菅野, 将史</dc:creator>
+      <dcndl:creatorTranscription>カンノ, マサシ</dcndl:creatorTranscription>
+      <dc:publisher>駒澤大学大学院史学会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-04</dc:date>
+      <dcterms:issued>2011-04</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://komazawa-u.repo.nii.ac.jp/records/2017705"/>
+      <dc:description>掲載誌：駒沢大学史学論集 2011-04 p.29-44</dc:description>
+    </item>
+    <item>
+      <title>新河岸川舟運と川越五河岸のにぎわい : 川越市立博物館第38回企画展</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I13111152327958</link>
+      <description><![CDATA[<p>川越市立博物館,2013,<p><ul><li>タイトル：新河岸川舟運と川越五河岸のにぎわい : 川越市立博物館第38回企画展</li><li>タイトル（読み）：シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ : カワゴエ シリツ ハクブツカン ダイ38カイ キカクテン</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I13111152327958</guid>
+      <pubDate>Tue, 30 Oct 2018 17:14:18 +0900</pubDate>
+      <dc:title>新河岸川舟運と川越五河岸のにぎわい : 川越市立博物館第38回企画展</dc:title>
+      <dcndl:titleTranscription>シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ : カワゴエ シリツ ハクブツカン ダイ38カイ キカクテン</dcndl:titleTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>[2013]</dcterms:issued>
+      <dc:extent>ポスター1枚 カラー ; 60×42cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152327958"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>新河岸川舟運と川越五河岸のにぎわい : 第38回企画展</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024388550</link>
+      <description><![CDATA[<p>川越市立博物館,2013,<p><ul><li>タイトル：新河岸川舟運と川越五河岸のにぎわい : 第38回企画展</li><li>タイトル（読み）：シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ : ダイ38カイ キカクテン</li><li>責任表示：川越市立博物館 編</li><li>NDC(9)：684.02134</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024388550</guid>
+      <pubDate>Fri, 31 May 2013 01:32:54 +0900</pubDate>
+      <dc:title>新河岸川舟運と川越五河岸のにぎわい : 第38回企画展</dc:title>
+      <dcndl:titleTranscription>シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ : ダイ38カイ キカクテン</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.3</dcterms:issued>
+      <dc:extent>79p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024388550</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22247281</dc:identifier>
+      <dc:subject>河川運送--埼玉県--川越市</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DK175</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">684.02134</dc:subject>
+      <dc:description>会期: 平成25年3月23日-5月12日</dc:description>
+      <dc:description>年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=330271&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152279304"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4218976/"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024388550"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>新河岸川舟運と川越五河岸のにぎわい</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909768925440</link>
+      <description><![CDATA[<p>川越市立博物館,2013,<p><ul><li>タイトル：新河岸川舟運と川越五河岸のにぎわい</li><li>タイトル（読み）：シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ</li><li>責任表示：川越市立博物館編</li></ul>]]></description>
+      <author>川越市立博物館,川越市立博物館編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909768925440</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>新河岸川舟運と川越五河岸のにぎわい</dc:title>
+      <dcndl:titleTranscription>シンガシガワ シュウウン ト カワゴエ ゴガシ ノ ニギワイ</dcndl:titleTranscription>
+      <dc:creator>川越市立博物館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>川越市立博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB12200766</dc:identifier>
+      <dc:subject>展覧会カタログ</dc:subject>
+      <dc:description>展覧会カタログ</dc:description>
+      <dc:description>会期・会場: 平成25年3月23日(土)-5月12日(日):川越市立博物館</dc:description>
+      <dc:description>主な参考文献: p77</dc:description>
+      <dc:description>展示資料一覧: p78-79</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101397466"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB12200766"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>新河岸川舟運における川越城下町商人の動向--嘉永期奥川船積問屋株買い取りをめぐって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11121720</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：新河岸川舟運における川越城下町商人の動向--嘉永期奥川船積問屋株買い取りをめぐって</li><li>タイトル（読み）：シンガシガワ シュウウン ニ オケル カワゴエ ジョウカマチ ショウニン ノ ドウコウ カエイキ オクカワ フナズミドンヤ カブ カイトリ オ メグッテ</li><li>責任表示：菅野 将史</li></ul>]]></description>
+      <author>菅野 将史,菅野 将史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11121720</guid>
+      <pubDate>Fri, 1 Jul 2011 22:39:33 +0900</pubDate>
+      <dc:title>新河岸川舟運における川越城下町商人の動向--嘉永期奥川船積問屋株買い取りをめぐって</dc:title>
+      <dcndl:titleTranscription>シンガシガワ シュウウン ニ オケル カワゴエ ジョウカマチ ショウニン ノ ドウコウ カエイキ オクカワ フナズミドンヤ カブ カイトリ オ メグッテ</dcndl:titleTranscription>
+      <dc:creator>菅野 将史</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11121720</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11121720"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520009407114454528"/>
+      <dc:description>掲載誌：駒澤大学大学院史学論集 / 駒澤大学大学院史学会 編 41 p.29～44</dc:description>
+    </item>
+  </channel>
+</rss>

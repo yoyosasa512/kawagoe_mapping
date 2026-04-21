@@ -1,0 +1,440 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>八幡宮 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%85%AB%E5%B9%A1%E5%AE%AE&amp;cnt=20</link>
+    <description>Search results for title=八幡宮 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>4520</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>アーカイブズの構造認識と編成記述</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025379684</link>
+      <description><![CDATA[<p>思文閣出版,2014,978-4-7842-1736-6<p><ul><li>タイトル：アーカイブズの構造認識と編成記述</li><li>タイトル（読み）：アーカイブズ ノ コウゾウ ニンシキ ト ヘンセイ キジュツ</li><li>責任表示：国文学研究資料館 編</li><li>NDC(9)：014.71</li></ul>]]></description>
+      <author>国文学研究資料館,国文学研究資料館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025379684</guid>
+      <pubDate>Wed, 25 Dec 2019 07:08:18 +0900</pubDate>
+      <dc:title>アーカイブズの構造認識と編成記述</dc:title>
+      <dcndl:titleTranscription>アーカイブズ ノ コウゾウ ニンシキ ト ヘンセイ キジュツ</dcndl:titleTranscription>
+      <dc:creator>国文学研究資料館</dc:creator>
+      <dcndl:creatorTranscription>コクブンガク ケンキュウ シリョウカン</dcndl:creatorTranscription>
+      <dc:publisher>思文閣出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.3</dcterms:issued>
+      <dcndl:price>6700円</dcndl:price>
+      <dc:extent>391,3p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7842-1736-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025379684</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22407187</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33083575</dc:identifier>
+      <dc:subject>文書資料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UL567</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">014.71</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103583448"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/1100650574/"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920175827"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1110233091"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101519936"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp//licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000100162687"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152435758"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104745191"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000395627"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000743004/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110021910/"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000425089"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1190015415"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110357402"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10784588"/>
+      <rdfs:seeAlso rdf:resource="https://opacs.pref.kyoto.lg.jp/mylimedio/search/book.do?bibid=493699"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13019449"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012957620"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103356893"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1070868"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102650277"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811779832"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101112240"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1109656513"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111042718"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1102248298"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102382520"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111347157"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101125458"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025379684"/>
+      <rdfs:seeAlso rdf:resource="https://lib-finder.net/sanko/"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB15308168"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784784217366"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>アーカイブズの構造認識と編成記述</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028583094</link>
+      <description><![CDATA[<p>思文閣出版,2017,978-4-7842-7034-7<p><ul><li>タイトル：アーカイブズの構造認識と編成記述</li><li>タイトル（読み）：アーカイブズ ノ コウゾウ ニンシキ ト ヘンセイ キジュツ</li><li>責任表示：国文学研究資料館 編</li><li>NDC(10)：018.094</li></ul>]]></description>
+      <author>国文学研究資料館,国文学研究資料館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028583094</guid>
+      <pubDate>Wed, 25 Dec 2019 22:40:19 +0900</pubDate>
+      <dc:title>アーカイブズの構造認識と編成記述</dc:title>
+      <dcndl:titleTranscription>アーカイブズ ノ コウゾウ ニンシキ ト ヘンセイ キジュツ</dcndl:titleTranscription>
+      <dc:creator>国文学研究資料館</dc:creator>
+      <dcndl:creatorTranscription>コクブンガク ケンキュウ シリョウカン</dcndl:creatorTranscription>
+      <dcndl:edition>オンデマンド版</dcndl:edition>
+      <dc:publisher>思文閣出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.10</dcterms:issued>
+      <dcndl:price>8000円</dcndl:price>
+      <dc:extent>391,3p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7842-7034-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028583094</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22986783</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33679912</dc:identifier>
+      <dc:subject>文書資料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UL567</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">018.094</dc:subject>
+      <dc:description>印刷・製本: デジタルパブリッシングサービス</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4536335/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120149102"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028583094"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB25439413"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784784270347"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>相生市那波八幡宮関係資料について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390011340301613184</link>
+      <description><![CDATA[<p>1958-01-15,<p><ul><li>タイトル：相生市那波八幡宮関係資料について</li></ul>]]></description>
+      <author>平井,漠</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390011340301613184</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相生市那波八幡宮関係資料について</dc:title>
+      <dc:creator>平井,漠</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1958-01-15</dc:date>
+      <dcterms:issued>1958-01-15</dcterms:issued>
+      <dc:subject>歴史資料</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/103588"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390011340301613184"/>
+      <dc:description>掲載誌：播磨 1958-01-15 p.17-21</dc:description>
+    </item>
+    <item>
+      <title>秋穂正八幡宮本八幡大菩薩御縁起（上巻）　：　影印、翻刻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I014560006464550</link>
+      <description><![CDATA[<p>佛教大学国語国文学会,2012-11-24,<p><ul><li>タイトル：秋穂正八幡宮本八幡大菩薩御縁起（上巻）　：　影印、翻刻</li><li>タイトル（読み）：アイオ　ショウハチマングウボン　ハチマン　ダイボサツ　ゴエンギ　ジョウカン　:　エイイン　ホンコク</li><li>責任表示：黒田, 彰,筒井, 大祐</li></ul>]]></description>
+      <author>黒田, 彰,筒井, 大祐,黒田, 彰,筒井, 大祐</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I014560006464550</guid>
+      <pubDate>Mon, 13 Jan 2025 19:19:00 +0900</pubDate>
+      <dc:title>秋穂正八幡宮本八幡大菩薩御縁起（上巻）　：　影印、翻刻</dc:title>
+      <dcndl:titleTranscription>アイオ　ショウハチマングウボン　ハチマン　ダイボサツ　ゴエンギ　ジョウカン　:　エイイン　ホンコク</dcndl:titleTranscription>
+      <dc:creator>黒田, 彰</dc:creator>
+      <dc:creator>筒井, 大祐</dc:creator>
+      <dc:publisher>佛教大学国語国文学会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012-11-24</dc:date>
+      <dcterms:issued>2012-11-24</dcterms:issued>
+      <dc:description>出版タイプ： VoR</dc:description>
+      <dc:description>(InfolibBaker)KG001900007309</dc:description>
+      <rdfs:seeAlso rdf:resource="https://bukkyo.alma.exlibrisgroup.com/discovery/fulldisplay?context=L&amp;vid=81BU_INST:Services&amp;docid=alma991006874822806201"/>
+      <dc:description>掲載誌：京都語文 2012-11-24 p.5-43</dc:description>
+    </item>
+    <item>
+      <title>秋穂正八幡宮本八幡大菩薩御縁起（下巻）　：　影印、翻刻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I014560006472949</link>
+      <description><![CDATA[<p>佛教大学国語国文学会,2013-11-30,<p><ul><li>タイトル：秋穂正八幡宮本八幡大菩薩御縁起（下巻）　：　影印、翻刻</li><li>タイトル（読み）：アイオ　ショウハチマングウボン　ハチマン　ダイボサツ　ゴエンギ　ゲカン　:　エイイン　ホンコク</li><li>責任表示：黒田, 彰,筒井, 大祐</li></ul>]]></description>
+      <author>黒田, 彰,筒井, 大祐,黒田, 彰,筒井, 大祐</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I014560006472949</guid>
+      <pubDate>Mon, 13 Jan 2025 19:17:09 +0900</pubDate>
+      <dc:title>秋穂正八幡宮本八幡大菩薩御縁起（下巻）　：　影印、翻刻</dc:title>
+      <dcndl:titleTranscription>アイオ　ショウハチマングウボン　ハチマン　ダイボサツ　ゴエンギ　ゲカン　:　エイイン　ホンコク</dcndl:titleTranscription>
+      <dc:creator>黒田, 彰</dc:creator>
+      <dc:creator>筒井, 大祐</dc:creator>
+      <dc:publisher>佛教大学国語国文学会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2013-11-30</dc:date>
+      <dcterms:issued>2013-11-30</dcterms:issued>
+      <dc:description>出版タイプ： VoR</dc:description>
+      <dc:description>(InfolibBaker)KG002000007464</dc:description>
+      <rdfs:seeAlso rdf:resource="https://bukkyo.alma.exlibrisgroup.com/discovery/fulldisplay?context=L&amp;vid=81BU_INST:Services&amp;docid=alma991006874879006201"/>
+      <dc:description>掲載誌：京都語文 2013-11-30 p.5-45</dc:description>
+    </item>
+    <item>
+      <title>（愛后社祓札） 《制限あり》</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_377903</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：（愛后社祓札） 《制限あり》</li><li>シリーズ名：大塩八幡宮文書</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_377903</guid>
+      <pubDate>Sat, 26 Nov 2022 17:49:00 +0900</pubDate>
+      <dc:title>（愛后社祓札） 《制限あり》</dc:title>
+      <dcndl:seriesTitle>大塩八幡宮文書</dcndl:seriesTitle>
+      <dc:description>複写不可 一紙 目録種別：古文書（資料） 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-377903"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>相極申一札之事（八幡宮造営大工手間料ニ付極証文） 《制限あり》</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_377817</link>
+      <description><![CDATA[<p>1770-03,<p><ul><li>タイトル：相極申一札之事（八幡宮造営大工手間料ニ付極証文） 《制限あり》</li><li>責任表示：大工半左衛門・温谷村他3か村庄屋</li><li>シリーズ名：大塩八幡宮文書</li></ul>]]></description>
+      <author>大工半左衛門・温谷村他3か村庄屋,大工半左衛門・温谷村他3か村庄屋</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_377817</guid>
+      <pubDate>Sat, 26 Nov 2022 17:49:00 +0900</pubDate>
+      <dc:title>相極申一札之事（八幡宮造営大工手間料ニ付極証文） 《制限あり》</dc:title>
+      <dc:creator>大工半左衛門・温谷村他3か村庄屋</dc:creator>
+      <dcndl:seriesTitle>大塩八幡宮文書</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1770-03</dc:date>
+      <dcterms:issued>1770年03月</dcterms:issued>
+      <dc:description>複写不可 一紙 目録種別：古文書（資料） 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-377817"/>
+      <dc:description> 1770-03</dc:description>
+    </item>
+    <item>
+      <title>相極申一札之事（八幡宮神事費用割出し）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_393155</link>
+      <description><![CDATA[<p>1859-07,<p><ul><li>タイトル：相極申一札之事（八幡宮神事費用割出し）</li><li>シリーズ名：鵜甘神社原神主家文書</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_393155</guid>
+      <pubDate>Sat, 26 Nov 2022 18:13:00 +0900</pubDate>
+      <dc:title>相極申一札之事（八幡宮神事費用割出し）</dc:title>
+      <dcndl:seriesTitle>鵜甘神社原神主家文書</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1859-07</dc:date>
+      <dcterms:issued>1859年07月</dcterms:issued>
+      <dc:description>文書00330と同文 一紙 目録種別：古文書（資料） 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-393155"/>
+      <dc:description> 1859-07</dc:description>
+    </item>
+    <item>
+      <title>相極申一札之事（八幡宮神事費用割出し）</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_393359</link>
+      <description><![CDATA[<p>1859-07,<p><ul><li>タイトル：相極申一札之事（八幡宮神事費用割出し）</li><li>責任表示：水海村原因幡・村役人</li><li>シリーズ名：鵜甘神社原神主家文書</li></ul>]]></description>
+      <author>水海村原因幡・村役人,水海村原因幡・村役人</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_393359</guid>
+      <pubDate>Sat, 26 Nov 2022 18:13:00 +0900</pubDate>
+      <dc:title>相極申一札之事（八幡宮神事費用割出し）</dc:title>
+      <dc:creator>水海村原因幡・村役人</dc:creator>
+      <dcndl:seriesTitle>鵜甘神社原神主家文書</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1859-07</dc:date>
+      <dcterms:issued>1859年07月</dcterms:issued>
+      <dc:description>一紙 目録種別：古文書（資料） 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-393359"/>
+      <dc:description> 1859-07</dc:description>
+    </item>
+    <item>
+      <title>相極申証文之事（八幡宮造営費ニ付極証文） 《制限あり》</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I011_377818</link>
+      <description><![CDATA[<p>1770-03,<p><ul><li>タイトル：相極申証文之事（八幡宮造営費ニ付極証文） 《制限あり》</li><li>責任表示：温谷村他3か村村役人</li><li>シリーズ名：大塩八幡宮文書</li></ul>]]></description>
+      <author>温谷村他3か村村役人,温谷村他3か村村役人</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I011_377818</guid>
+      <pubDate>Sat, 26 Nov 2022 17:49:00 +0900</pubDate>
+      <dc:title>相極申証文之事（八幡宮造営費ニ付極証文） 《制限あり》</dc:title>
+      <dc:creator>温谷村他3か村村役人</dc:creator>
+      <dcndl:seriesTitle>大塩八幡宮文書</dcndl:seriesTitle>
+      <dc:date xsi:type="dcterms:W3CDTF">1770-03</dc:date>
+      <dcterms:issued>1770年03月</dcterms:issued>
+      <dc:description>複写不可 一紙 目録種別：古文書（資料） 管理セクション：福井県文書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=011-377818"/>
+      <dc:description> 1770-03</dc:description>
+    </item>
+    <item>
+      <title>相州鎌倉　鶴ヶ岡八幡宮　FAMOUS PLACE OF KAMAKURA</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000202-I000022560</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：相州鎌倉　鶴ヶ岡八幡宮　FAMOUS PLACE OF KAMAKURA</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000202-I000022560</guid>
+      <pubDate>Mon, 2 Feb 2015 09:00:00 +0900</pubDate>
+      <dc:title>相州鎌倉　鶴ヶ岡八幡宮　FAMOUS PLACE OF KAMAKURA</dc:title>
+      <dc:description>「日本名所　江ノ島　鎌倉　十六景　（特選景）」15枚入　ケース付　「鎌倉　国宝　大仏殿　参拝記念」「参拝記念」のスタンプあり</dc:description>
+      <rdfs:seeAlso rdf:resource="http://archives.c.fun.ac.jp/fronts/detail/postcards/4f520ef3ea8e8a0b70003729"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>相州戸塚　富塚八幡宮</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000196-I00006671</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：相州戸塚　富塚八幡宮</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000196-I00006671</guid>
+      <pubDate>Fri, 9 Aug 2024 00:00:00 +0900</pubDate>
+      <dc:title>相州戸塚　富塚八幡宮</dc:title>
+      <rdfs:seeAlso rdf:resource="https://archive.lib.city.yokohama.lg.jp/museweb/detail?cls=collect_01&amp;pkey=00006671"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>「相州名所鎌倉八幡宮　Hachiman Temple, Kamakura」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000140-I70123</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：「相州名所鎌倉八幡宮　Hachiman Temple, Kamakura」</li><li>責任表示：〔星野屋　発行〕</li></ul>]]></description>
+      <author>〔星野屋　発行〕</author>
+      <category>文書・図像類</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000140-I70123</guid>
+      <pubDate>Mon, 29 May 2023 01:57:23 +0900</pubDate>
+      <dc:title>「相州名所鎌倉八幡宮　Hachiman Temple, Kamakura」</dc:title>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:subject>絵葉書</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://archive.otepia.kochi.jp/webmuseum/detail?cls=arts_crafts&amp;pkey=LA205504761"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮長帳</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I17111005010051511</link>
+      <description><![CDATA[<p>塔寺八幡宮長帳刊行会,1958,<p><ul><li>タイトル：会津塔寺八幡宮長帳</li><li>タイトル（読み）：アイズ トウジ ハチマングウ チョウチョウ</li><li>責任表示：是沢 恭三 編</li><li>NDC(9)：709.2</li></ul>]]></description>
+      <author>是沢 恭三,是沢 恭三 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I17111005010051511</guid>
+      <pubDate>Thu, 21 Mar 2002 09:00:00 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮長帳</dc:title>
+      <dcndl:titleTranscription>アイズ トウジ ハチマングウ チョウチョウ</dcndl:titleTranscription>
+      <dc:creator>是沢 恭三</dc:creator>
+      <dcndl:creatorTranscription>コレサワ キヨウゾウ</dcndl:creatorTranscription>
+      <dc:publisher>塔寺八幡宮長帳刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1958</dc:date>
+      <dc:extent>366p ; 21cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC9">709.2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010051511/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101270506"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109034158"/>
+      <dc:description> 1958</dc:description>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮長帳 : 重要文化財</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I18111103101920</link>
+      <description><![CDATA[<p>塔寺八幡宮長帳刊行会,1958,<p><ul><li>タイトル：会津塔寺八幡宮長帳 : 重要文化財</li><li>タイトル（読み）：アイズ トウジ ハチマングウ チョウチョウ</li><li>責任表示：是沢恭三 編</li></ul>]]></description>
+      <author>コレサワ,キョウゾウ,是沢恭三 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I18111103101920</guid>
+      <pubDate>Fri, 1 Nov 2002 09:00:00 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮長帳 : 重要文化財</dc:title>
+      <dcndl:titleTranscription>アイズ トウジ ハチマングウ チョウチョウ</dcndl:titleTranscription>
+      <dc:creator>コレサワ,キョウゾウ</dc:creator>
+      <dcndl:creatorTranscription>コレサワ,キョウゾウ</dcndl:creatorTranscription>
+      <dc:publisher>塔寺八幡宮長帳刊行会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1958</dc:date>
+      <dc:extent>366p 図共 ; 21cm</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC8">212.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103101920/"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100165449"/>
+      <dc:description> 1958</dc:description>
+    </item>
+    <item>
+      <title>「会津塔寺八幡宮長帳」覚書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I945480</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：「会津塔寺八幡宮長帳」覚書</li><li>タイトル（読み）：アイズトウジ ハチマングウチョウチョウ オボエガキ</li><li>責任表示：大石 直正</li></ul>]]></description>
+      <author>大石 直正,大石 直正</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I945480</guid>
+      <pubDate>Sat, 1 Apr 2000 06:40:33 +0900</pubDate>
+      <dc:title>「会津塔寺八幡宮長帳」覚書</dc:title>
+      <dcndl:titleTranscription>アイズトウジ ハチマングウチョウチョウ オボエガキ</dcndl:titleTranscription>
+      <dc:creator>大石 直正</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">945480</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZV1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I945480"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520853835365029376"/>
+      <dc:description>掲載誌：東北学院大学東北文化研究所紀要(通号 1) p.45～67</dc:description>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮長帳に就いて</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I585661</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：会津塔寺八幡宮長帳に就いて</li><li>タイトル（読み）：アイズトウジ ハチマングウチョウチョウ ニ ツイテ</li><li>責任表示：是沢 恭三</li></ul>]]></description>
+      <author>是沢 恭三,是沢 恭三</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I585661</guid>
+      <pubDate>Fri, 15 May 2009 22:44:13 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮長帳に就いて</dc:title>
+      <dcndl:titleTranscription>アイズトウジ ハチマングウチョウチョウ ニ ツイテ</dcndl:titleTranscription>
+      <dc:creator>是沢 恭三</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">585661</dc:identifier>
+      <dc:subject>神社</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I585661"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520572357968625408"/>
+      <dc:description>掲載誌：日本歴史 / 日本歴史学会 編(通号 124) p.????</dc:description>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮帳に関する疑問</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I621010</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：会津塔寺八幡宮帳に関する疑問</li><li>タイトル（読み）：アイズトウジ ハチマングウチョウ ニ カンスル ギモン</li><li>責任表示：太田 晶二郎</li></ul>]]></description>
+      <author>太田 晶二郎,太田 晶二郎</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I621010</guid>
+      <pubDate>Fri, 5 Dec 2008 22:39:16 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮帳に関する疑問</dc:title>
+      <dcndl:titleTranscription>アイズトウジ ハチマングウチョウ ニ カンスル ギモン</dcndl:titleTranscription>
+      <dc:creator>太田 晶二郎</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">621010</dc:identifier>
+      <dc:subject>神社</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I621010"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520853833465514880"/>
+      <dc:description>掲載誌：日本歴史 / 日本歴史学会 編(通号 139) p.????</dc:description>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮長帳 : 重要文化財</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I13131100675848</link>
+      <description><![CDATA[<p>吉川弘文館,1958,<p><ul><li>タイトル：会津塔寺八幡宮長帳 : 重要文化財</li><li>タイトル（読み）：アイズ トウジ ハチマングウ ナガチョウ : ジュウヨウ ブンカザイ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I13131100675848</guid>
+      <pubDate>Sun, 9 Apr 2023 01:00:02 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮長帳 : 重要文化財</dc:title>
+      <dcndl:titleTranscription>アイズ トウジ ハチマングウ ナガチョウ : ジュウヨウ ブンカザイ</dcndl:titleTranscription>
+      <dc:publisher>吉川弘文館</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1958</dc:date>
+      <dcterms:issued>1958</dcterms:issued>
+      <dc:extent>366p ; 21cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100675848"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000080313427"/>
+      <dc:description> 1958</dc:description>
+    </item>
+    <item>
+      <title>会津塔寺八幡宮長帳 : 重要文化財</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I44111103131717</link>
+      <description><![CDATA[<p>心清水八幡神社,1958,<p><ul><li>タイトル：会津塔寺八幡宮長帳 : 重要文化財</li><li>タイトル（読み）：アイズ　トウジ　ハチマングウ　ナガチョウ : ジュウヨウ　ブンカザイ</li><li>責任表示：是沢恭三 編</li></ul>]]></description>
+      <author>是沢, 恭三,是沢恭三 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I44111103131717</guid>
+      <pubDate>Wed, 26 Nov 2014 16:46:39 +0900</pubDate>
+      <dc:title>会津塔寺八幡宮長帳 : 重要文化財</dc:title>
+      <dcndl:titleTranscription>アイズ　トウジ　ハチマングウ　ナガチョウ : ジュウヨウ　ブンカザイ</dcndl:titleTranscription>
+      <dc:creator>是沢, 恭三</dc:creator>
+      <dcndl:creatorTranscription>コレサワ, キョウゾウ</dcndl:creatorTranscription>
+      <dc:publisher>心清水八幡神社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1958</dc:date>
+      <dcterms:issued>１９５８．１０</dcterms:issued>
+      <dc:extent>３６６ｐ ; ２２ｃｍ</dc:extent>
+      <dc:subject>心清水八幡神社（福島県）</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">175.9</dc:subject>
+      <dc:description>塔寺八幡宮長帳伝存年次表：ｐ３３７－３５２　発売：吉川弘文館（東京）</dc:description>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103131717"/>
+      <dc:description> 1958</dc:description>
+    </item>
+  </channel>
+</rss>

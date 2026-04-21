@@ -1,0 +1,430 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>松平周防守 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E6%9D%BE%E5%B9%B3%E5%91%A8%E9%98%B2%E5%AE%88&amp;cnt=20</link>
+    <description>Search results for title=松平周防守 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>54</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>丑十二月七日御觸(松平周防守連判之列被仰付)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000107-I000006327</link>
+      <description><![CDATA[<p>1865,<p><ul><li>タイトル：丑十二月七日御觸(松平周防守連判之列被仰付)</li><li>タイトル（読み）：ウシジユウニガツナヌカオフレマツダイラスオウノカミレンパンノレツオオセツケラル</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000107-I000006327</guid>
+      <pubDate>Thu, 24 Aug 2023 09:00:00 +0900</pubDate>
+      <dc:title>丑十二月七日御觸(松平周防守連判之列被仰付)</dc:title>
+      <dcndl:titleTranscription>ウシジユウニガツナヌカオフレマツダイラスオウノカミレンパンノレツオオセツケラル</dcndl:titleTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">1865</dc:date>
+      <dcterms:issued>1864(元治1)</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://image.oml.city.osaka.lg.jp/archive/detail?cls=ancient&amp;pkey=d2865001"/>
+      <dc:description> 1865</dc:description>
+    </item>
+    <item>
+      <title>内寄合留 20巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I2547765</link>
+      <description><![CDATA[<p>[3] 寛政十戊午年八月六日・十八日・廿七日　月番松平周防守,写,<p><ul><li>タイトル：内寄合留 20巻</li><li>タイトル（読み）：ウチヨリアイトメ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I2547765</guid>
+      <pubDate>Wed, 24 Dec 2025 03:26:28 +0900</pubDate>
+      <dc:title>内寄合留 20巻</dc:title>
+      <dcndl:titleTranscription>ウチヨリアイトメ</dcndl:titleTranscription>
+      <dcndl:volume>[3] 寛政十戊午年八月六日・十八日・廿七日　月番松平周防守</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/2547765</dc:identifier>
+      <dc:subject>記録</dc:subject>
+      <dc:description>装丁 : 和装</dc:description>
+      <dc:description>印記: 東京府図書記</dc:description>
+      <dc:description>旧幕府引継書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2547765"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>内寄合留 20巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I2547766</link>
+      <description><![CDATA[<p>[4] 寛政十戊午年十二月六日・廿三日　月番松平周防守,写,<p><ul><li>タイトル：内寄合留 20巻</li><li>タイトル（読み）：ウチヨリアイトメ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I2547766</guid>
+      <pubDate>Wed, 24 Dec 2025 04:23:41 +0900</pubDate>
+      <dc:title>内寄合留 20巻</dc:title>
+      <dcndl:titleTranscription>ウチヨリアイトメ</dcndl:titleTranscription>
+      <dcndl:volume>[4] 寛政十戊午年十二月六日・廿三日　月番松平周防守</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/2547766</dc:identifier>
+      <dc:subject>記録</dc:subject>
+      <dc:description>装丁 : 和装</dc:description>
+      <dc:description>印記: 東京府図書記</dc:description>
+      <dc:description>旧幕府引継書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2547766"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>内寄合留 20巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I2547767</link>
+      <description><![CDATA[<p>[5] 寛政十一己未年七月六日・十八日・廿七日　月番松平周防守,写,<p><ul><li>タイトル：内寄合留 20巻</li><li>タイトル（読み）：ウチヨリアイトメ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I2547767</guid>
+      <pubDate>Wed, 10 Dec 2025 03:20:04 +0900</pubDate>
+      <dc:title>内寄合留 20巻</dc:title>
+      <dcndl:titleTranscription>ウチヨリアイトメ</dcndl:titleTranscription>
+      <dcndl:volume>[5] 寛政十一己未年七月六日・十八日・廿七日　月番松平周防守</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/2547767</dc:identifier>
+      <dc:subject>記録</dc:subject>
+      <dc:description>装丁 : 和装</dc:description>
+      <dc:description>印記: 東京府図書記</dc:description>
+      <dc:description>旧幕府引継書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2547767"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>内寄合留 20巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I2547768</link>
+      <description><![CDATA[<p>[6] 寛政十一己未年十一月六日・十八日・廿七日　月番松平周防守,写,<p><ul><li>タイトル：内寄合留 20巻</li><li>タイトル（読み）：ウチヨリアイトメ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I2547768</guid>
+      <pubDate>Wed, 24 Dec 2025 03:30:11 +0900</pubDate>
+      <dc:title>内寄合留 20巻</dc:title>
+      <dcndl:titleTranscription>ウチヨリアイトメ</dcndl:titleTranscription>
+      <dcndl:volume>[6] 寛政十一己未年十一月六日・十八日・廿七日　月番松平周防守</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/2547768</dc:identifier>
+      <dc:subject>記録</dc:subject>
+      <dc:description>装丁 : 和装</dc:description>
+      <dc:description>印記: 東京府図書記</dc:description>
+      <dc:description>旧幕府引継書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2547768"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>内寄合留 20巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I2547769</link>
+      <description><![CDATA[<p>[7] 享和三癸亥年二月六日・十八日・廿七日流　月番松平周防守,写,<p><ul><li>タイトル：内寄合留 20巻</li><li>タイトル（読み）：ウチヨリアイトメ</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I2547769</guid>
+      <pubDate>Wed, 10 Dec 2025 03:20:05 +0900</pubDate>
+      <dc:title>内寄合留 20巻</dc:title>
+      <dcndl:titleTranscription>ウチヨリアイトメ</dcndl:titleTranscription>
+      <dcndl:volume>[7] 享和三癸亥年二月六日・十八日・廿七日流　月番松平周防守</dcndl:volume>
+      <dc:publisher>写</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/2547769</dc:identifier>
+      <dc:subject>記録</dc:subject>
+      <dc:description>装丁 : 和装</dc:description>
+      <dc:description>印記: 東京府図書記</dc:description>
+      <dc:description>旧幕府引継書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/2547769"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>大倉家(儀兵衛)と松平周防守関係</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434901625351</link>
+      <description><![CDATA[<p>大倉正一郎,1964,<p><ul><li>タイトル：大倉家(儀兵衛)と松平周防守関係</li><li>タイトル（読み）：オオクラケ (ギヘエ) ト マツダイラ スオウノカミ カンケイ</li><li>責任表示：大倉正一郎著</li></ul>]]></description>
+      <author>大倉, 正一郎,大倉正一郎著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434901625351</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>大倉家(儀兵衛)と松平周防守関係</dc:title>
+      <dcndl:titleTranscription>オオクラケ (ギヘエ) ト マツダイラ スオウノカミ カンケイ</dcndl:titleTranscription>
+      <dc:creator>大倉, 正一郎</dc:creator>
+      <dcndl:creatorTranscription>オオクラ, ショウイチロウ</dcndl:creatorTranscription>
+      <dc:publisher>大倉正一郎</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1964</dc:date>
+      <dcterms:issued>1964.7巻末</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA47232342</dc:identifier>
+      <dc:subject>大倉(家)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK13</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">288.3</dc:subject>
+      <dc:description>謄写印刷. 頁付けなし. 張り込み図: 1枚</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000627684"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190322916"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA47232342"/>
+      <dc:description> 1964</dc:description>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11221811</link>
+      <description><![CDATA[<p>〔松平周防守殿御渡の御触〕,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11221811</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:43 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>〔松平周防守殿御渡の御触〕</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>9月</dcterms:issued>
+      <dc:extent>数量: 1綴</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11221811</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11221811"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11221907</link>
+      <description><![CDATA[<p>松平周防守殿御渡候覚書写,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11221907</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:42 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>松平周防守殿御渡候覚書写</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>4月</dcterms:issued>
+      <dc:extent>数量: 1綴</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11221907</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11221907"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11221985</link>
+      <description><![CDATA[<p>松平周防守殿御渡御書付写,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11221985</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:42 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>松平周防守殿御渡御書付写</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>寅9月</dcterms:issued>
+      <dc:extent>数量: 1綴</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11221985</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11221985"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11221993</link>
+      <description><![CDATA[<p>松平周防守殿御渡候御書付写,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11221993</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:41 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>松平周防守殿御渡候御書付写</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>6月</dcterms:issued>
+      <dc:extent>数量: 1綴</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11221993</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11221993"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11222005</link>
+      <description><![CDATA[<p>〔松平周防守殿御渡候御覚書写〕,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11222005</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:41 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>〔松平周防守殿御渡候御覚書写〕</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>寅9月</dcterms:issued>
+      <dc:extent>数量: 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11222005</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11222005"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>〔海軍歴史資料　写〕</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I11222006</link>
+      <description><![CDATA[<p>松平周防守殿御渡候覚書写,<p><ul><li>タイトル：〔海軍歴史資料　写〕</li><li>シリーズ名：勝海舟関係文書</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I11222006</guid>
+      <pubDate>Fri, 22 Nov 2024 05:21:41 +0900</pubDate>
+      <dc:title>〔海軍歴史資料　写〕</dc:title>
+      <dcndl:volume>松平周防守殿御渡候覚書写</dcndl:volume>
+      <dcndl:seriesTitle>勝海舟関係文書</dcndl:seriesTitle>
+      <dcterms:issued>4月</dcterms:issued>
+      <dc:extent>数量: 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/11222006</dc:identifier>
+      <dc:description>記述法: 墨書</dc:description>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/11222006"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>鏡山実録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000103-I012_2024809</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：鏡山実録</li><li>シリーズ名：越国文庫</li></ul>]]></description>
+      <author/>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000103-I012_2024809</guid>
+      <pubDate>Thu, 11 Apr 2024 09:05:00 +0900</pubDate>
+      <dc:title>鏡山実録</dc:title>
+      <dcndl:seriesTitle>越国文庫</dcndl:seriesTitle>
+      <dc:extent>2,半</dc:extent>
+      <dc:description>六巻 目録種別：古典籍 管理セクション：福井市立図書館</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/archive/da/detail?data_id=012-2024809"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>川越市立中央図書館収蔵和漢古書目録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318</link>
+      <description><![CDATA[<p>平成15年度版,川越市立中央図書館,2004,<p><ul><li>タイトル：川越市立中央図書館収蔵和漢古書目録</li><li>タイトル（読み）：カワゴエ シリツ チュウオウ トショカン シュウゾウ ワカン コショ モクロク</li><li>責任表示：川越市立中央図書館 編</li><li>NDC(9)：029.2134</li></ul>]]></description>
+      <author>川越市立中央図書館,川越市立中央図書館 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318</guid>
+      <pubDate>Sun, 22 Oct 2023 20:43:31 +0900</pubDate>
+      <dc:title>川越市立中央図書館収蔵和漢古書目録</dc:title>
+      <dcndl:titleTranscription>カワゴエ シリツ チュウオウ トショカン シュウゾウ ワカン コショ モクロク</dcndl:titleTranscription>
+      <dc:creator>川越市立中央図書館</dc:creator>
+      <dcndl:creatorTranscription>カワゴエ シリツ チュウオウ トショカン</dcndl:creatorTranscription>
+      <dcndl:volume>平成15年度版</dcndl:volume>
+      <dc:publisher>川越市立中央図書館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.3</dcterms:issued>
+      <dc:extent>47, 5p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007440318</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20643569</dc:identifier>
+      <dc:subject>蔵書目録</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UP111</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">029.2134</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1100379352"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1677676&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1106311747"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007440318"/>
+      <dc:description> 2004</dc:description>
+    </item>
+    <item>
+      <title>川越市立博物館所蔵 伝松平周防守家初代、二代、三代当主所用具足下着類の調査報告</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033494118</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：川越市立博物館所蔵 伝松平周防守家初代、二代、三代当主所用具足下着類の調査報告</li><li>タイトル（読み）：カワゴエ シリツ ハクブツカン ショゾウ デン マツダイラ スオウシュカ ショダイ 、 ニダイ 、 サンダイ トウシュ ショヨウ グソク シタギルイ ノ チョウサ ホウコク</li><li>責任表示：水上 嘉代子</li></ul>]]></description>
+      <author>水上 嘉代子,水上 嘉代子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033494118</guid>
+      <pubDate>Fri, 24 May 2024 23:28:55 +0900</pubDate>
+      <dc:title>川越市立博物館所蔵 伝松平周防守家初代、二代、三代当主所用具足下着類の調査報告</dc:title>
+      <dcndl:titleTranscription>カワゴエ シリツ ハクブツカン ショゾウ デン マツダイラ スオウシュカ ショダイ 、 ニダイ 、 サンダイ トウシュ ショヨウ グソク シタギルイ ノ チョウサ ホウコク</dcndl:titleTranscription>
+      <dc:creator>水上 嘉代子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033494118</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033494118"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520581766245599104"/>
+      <dc:description>掲載誌：女子美術大学研究紀要 / 女子美術大学 編 54 p.109-121</dc:description>
+    </item>
+    <item>
+      <title>埼玉叢書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366</link>
+      <description><![CDATA[<p>第4,国書刊行会,1971,<p><ul><li>タイトル：埼玉叢書</li><li>タイトル（読み）：サイタマ ソウショ</li><li>責任表示：稲村坦元 編</li></ul>]]></description>
+      <author>稲村, 坦元, 1893-1988,稲村坦元 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366</guid>
+      <pubDate>Thu, 18 Mar 2004 01:35:02 +0900</pubDate>
+      <dc:title>埼玉叢書</dc:title>
+      <dcndl:titleTranscription>サイタマ ソウショ</dcndl:titleTranscription>
+      <dc:creator>稲村, 坦元, 1893-1988</dc:creator>
+      <dcndl:creatorTranscription>イナムラ, タンゲン, 1893-1988</dcndl:creatorTranscription>
+      <dcndl:volume>第4</dcndl:volume>
+      <dcndl:edition>新訂増補</dcndl:edition>
+      <dc:publisher>国書刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1971</dc:date>
+      <dcterms:issued>1971</dcterms:issued>
+      <dcndl:price>6000円</dcndl:price>
+      <dc:extent>540p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001226366</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">73017395</dc:identifier>
+      <dc:subject>埼玉県--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">213.4</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC56</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116424316"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2681149&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100308259"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190151512"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9640838"/>
+      <dc:description> 1971</dc:description>
+    </item>
+    <item>
+      <title>石州浜田城主　松平周防守殿江戸於御屋舗ニ女敵討松田系図</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I32111100477962</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：石州浜田城主　松平周防守殿江戸於御屋舗ニ女敵討松田系図</li><li>タイトル（読み）：セキシユウ　ハマダ　ジヨウシユ　マツダイラ　スオウノカミドノ　エド　オヤシキ　ニオイテ　メガタキウチ　マツダ　ケイズ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I32111100477962</guid>
+      <pubDate>Wed, 27 Nov 2013 13:22:42 +0900</pubDate>
+      <dc:title>石州浜田城主　松平周防守殿江戸於御屋舗ニ女敵討松田系図</dc:title>
+      <dcndl:titleTranscription>セキシユウ　ハマダ　ジヨウシユ　マツダイラ　スオウノカミドノ　エド　オヤシキ　ニオイテ　メガタキウチ　マツダ　ケイズ</dcndl:titleTranscription>
+      <dcndl:edition>複写</dcndl:edition>
+      <dc:extent>１Ｖ ; ２６Ｘ３７</dc:extent>
+      <dc:subject xsi:type="dcndl:NDC8">C</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1100477962"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>石州濱田松平周防守様御取替一件聞書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I3411B12009178</link>
+      <description><![CDATA[<p>[ ],<p><ul><li>タイトル：石州濱田松平周防守様御取替一件聞書</li><li>タイトル（読み）：セキシュウ　ハマダ　マツダイラ　スオウノカミ　サマ　オトリカエ　イッケン　キキガキ</li><li>NDC(9)：210.5</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I3411B12009178</guid>
+      <pubDate>Fri, 12 Dec 2025 09:57:21 +0900</pubDate>
+      <dc:title>石州濱田松平周防守様御取替一件聞書</dc:title>
+      <dcndl:titleTranscription>セキシュウ　ハマダ　マツダイラ　スオウノカミ　サマ　オトリカエ　イッケン　キキガキ</dcndl:titleTranscription>
+      <dc:publisher>[ ]</dc:publisher>
+      <dcterms:issued>[ ]</dcterms:issued>
+      <dc:subject>山県郡-地理</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.5</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.5</dc:subject>
+      <dc:description>内容:石州濱田松平周防守様御取替一件聞書(天保7年). 国郡志之内村々御尋之ケ條御答書貫帳 山県郡(文政2年). 国郡志之内村々御尋之ケ條御答書貫帳 山県郡(文政5年) ほか</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12009178"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>端午之祝儀到来ニ付家斉ヨリ松平周防守ヲ経テ酒井伊賀守嘉納状</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000086-I0000000015_00214963</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：端午之祝儀到来ニ付家斉ヨリ松平周防守ヲ経テ酒井伊賀守嘉納状</li><li>タイトル（読み）：タンゴ　ノ　シュウギ　トウライ　ニ　ツキ　イエナリ　ヨリ　マツダイラ　スオウノカミ　オ　ヘテ　サカイ　イガノカミ　カノウジョウ</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000086-I0000000015_00214963</guid>
+      <pubDate>Wed, 2 Feb 2022 12:08:21 +0900</pubDate>
+      <dc:title>端午之祝儀到来ニ付家斉ヨリ松平周防守ヲ経テ酒井伊賀守嘉納状</dc:title>
+      <dcndl:titleTranscription>タンゴ　ノ　シュウギ　トウライ　ニ　ツキ　イエナリ　ヨリ　マツダイラ　スオウノカミ　オ　ヘテ　サカイ　イガノカミ　カノウジョウ</dcndl:titleTranscription>
+      <dc:extent>65.5×23.2cm</dc:extent>
+      <dc:description>一枚もの</dc:description>
+      <rdfs:seeAlso rdf:resource="https://archive.library.metro.tokyo.lg.jp/da/detail?tilcod=0000000015-00214963"/>
+      <dc:description/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,332 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>蓮馨寺 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E8%93%AE%E9%A6%A8%E5%AF%BA&amp;cnt=20</link>
+    <description>Search results for title=蓮馨寺 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>11</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>うつくしの街川越 : 小江戸成長物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</link>
+      <description><![CDATA[<p>一色出版,2019,978-4-909383-11-2<p><ul><li>タイトル：うつくしの街川越 : 小江戸成長物語</li><li>タイトル（読み）：ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</li><li>責任表示：山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</li><li>NDC(10)：213.4</li></ul>]]></description>
+      <author>山野, 清二郎, 1942-,松尾, 鉄城,寺島, 悦恩, 1948-,小林, 範子,山野清二郎, 松尾鉄城 監修,寺島悦恩, 小林範子 編集・企画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029753704</guid>
+      <pubDate>Mon, 26 Aug 2019 22:19:14 +0900</pubDate>
+      <dc:title>うつくしの街川越 : 小江戸成長物語</dc:title>
+      <dcndl:titleTranscription>ウツクシ ノ マチ カワゴエ : コエド セイチョウ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>山野, 清二郎, 1942-</dc:creator>
+      <dc:creator>松尾, 鉄城</dc:creator>
+      <dc:creator>寺島, 悦恩, 1948-</dc:creator>
+      <dc:creator>小林, 範子</dc:creator>
+      <dcndl:creatorTranscription>ヤマノ, セイジロウ, 1942-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>マツオ, テツキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テラシマ, エツオ, 1948-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コバヤシ, ノリコ</dcndl:creatorTranscription>
+      <dc:publisher>一色出版</dc:publisher>
+      <dc:publisher>悠書館 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909383-11-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029753704</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23253833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33941694</dc:identifier>
+      <dc:subject>川越市--歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC58</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">213.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1198062857"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2921871&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153387240"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000946206"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120277306"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110364271"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111545867"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029753704"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4073955"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033620311"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13472745"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB28780530"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784909383112"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>江戸中期における川越蓮馨寺檀林の運営管理と教育実施状況</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027753414</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸中期における川越蓮馨寺檀林の運営管理と教育実施状況</li><li>タイトル（読み）：エド チュウキ ニ オケル カワゴエ レンケイジ ダンリン ノ ウンエイ カンリ ト キョウイク ジッシ ジョウキョウ</li><li>責任表示：長谷川 匡俊</li></ul>]]></description>
+      <author>長谷川 匡俊,長谷川 匡俊</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027753414</guid>
+      <pubDate>Tue, 6 Dec 2016 02:43:14 +0900</pubDate>
+      <dc:title>江戸中期における川越蓮馨寺檀林の運営管理と教育実施状況</dc:title>
+      <dcndl:titleTranscription>エド チュウキ ニ オケル カワゴエ レンケイジ ダンリン ノ ウンエイ カンリ ト キョウイク ジッシ ジョウキョウ</dcndl:titleTranscription>
+      <dc:creator>長谷川 匡俊</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027753414</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027753414"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980705059244672"/>
+      <dc:description>掲載誌：仏教文化研究 60 p.25-48</dc:description>
+    </item>
+    <item>
+      <title>教化布教ケーススタディー 浄土宗蓮馨寺(埼玉県川越市)--明るく生きるための教えを実践する</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I6919370</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：教化布教ケーススタディー 浄土宗蓮馨寺(埼玉県川越市)--明るく生きるための教えを実践する</li><li>タイトル（読み）：キョウカ フキョウ ケーススタディー ジョウドシュウ レンケイジ サイタマケン カワゴエシ アカルク イキル タメ ノ オシエ オ ジッセン スル</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I6919370</guid>
+      <pubDate>Tue, 25 Oct 2022 02:35:25 +0900</pubDate>
+      <dc:title>教化布教ケーススタディー 浄土宗蓮馨寺(埼玉県川越市)--明るく生きるための教えを実践する</dc:title>
+      <dcndl:titleTranscription>キョウカ フキョウ ケーススタディー ジョウドシュウ レンケイジ サイタマケン カワゴエシ アカルク イキル タメ ノ オシエ オ ジッセン スル</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">6919370</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I6919370"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521136280687895168"/>
+      <dc:description>掲載誌：仏事 p.96～100</dc:description>
+    </item>
+    <item>
+      <title>埼玉叢書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366</link>
+      <description><![CDATA[<p>第4,国書刊行会,1971,<p><ul><li>タイトル：埼玉叢書</li><li>タイトル（読み）：サイタマ ソウショ</li><li>責任表示：稲村坦元 編</li></ul>]]></description>
+      <author>稲村, 坦元, 1893-1988,稲村坦元 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366</guid>
+      <pubDate>Thu, 18 Mar 2004 01:35:02 +0900</pubDate>
+      <dc:title>埼玉叢書</dc:title>
+      <dcndl:titleTranscription>サイタマ ソウショ</dcndl:titleTranscription>
+      <dc:creator>稲村, 坦元, 1893-1988</dc:creator>
+      <dcndl:creatorTranscription>イナムラ, タンゲン, 1893-1988</dcndl:creatorTranscription>
+      <dcndl:volume>第4</dcndl:volume>
+      <dcndl:edition>新訂増補</dcndl:edition>
+      <dc:publisher>国書刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1971</dc:date>
+      <dcterms:issued>1971</dcterms:issued>
+      <dcndl:price>6000円</dcndl:price>
+      <dc:extent>540p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001226366</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">73017395</dc:identifier>
+      <dc:subject>埼玉県--歴史--史料</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">213.4</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GC56</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116424316"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2681149&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100308259"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190151512"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001226366"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/9640838"/>
+      <dc:description> 1971</dc:description>
+    </item>
+    <item>
+      <title>浄土宗全書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939</link>
+      <description><![CDATA[<p>第11-20巻,浄土宗宗典刊行会,1907,<p><ul><li>タイトル：浄土宗全書</li><li>タイトル（読み）：ジョウドシュウ ゼンショ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939</guid>
+      <pubDate>Wed, 26 Jul 2006 01:42:23 +0900</pubDate>
+      <dc:title>浄土宗全書</dc:title>
+      <dcndl:titleTranscription>ジョウドシュウ ゼンショ</dcndl:titleTranscription>
+      <dcndl:volume>第11-20巻</dcndl:volume>
+      <dc:publisher>浄土宗宗典刊行会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1907</dc:date>
+      <dcterms:issued>明40-大3</dcterms:issued>
+      <dc:extent>10冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000527939</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">40046832</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC">188.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000527939"/>
+      <dc:description> 1907</dc:description>
+    </item>
+    <item>
+      <title>浄土宗全書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936</link>
+      <description><![CDATA[<p>第20巻 (第10輯 寺誌宗史1-2),浄土宗開宗八百年記念慶讃準備局,1972,<p><ul><li>タイトル：浄土宗全書</li><li>タイトル（読み）：ジョウドシュウ ゼンショ</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936</guid>
+      <pubDate>Thu, 3 Aug 2000 02:20:00 +0900</pubDate>
+      <dc:title>浄土宗全書</dc:title>
+      <dcndl:titleTranscription>ジョウドシュウ ゼンショ</dcndl:titleTranscription>
+      <dcndl:volume>第20巻 (第10輯 寺誌宗史1-2)</dcndl:volume>
+      <dc:publisher>浄土宗開宗八百年記念慶讃準備局</dc:publisher>
+      <dc:publisher>山喜房仏書林 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>1972</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001243936</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">74011670</dc:identifier>
+      <dc:subject>浄土宗</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">188.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HM151</dc:subject>
+      <dc:description>浄土宗宗典刊行会明治40-大正3年刊の複製</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100609925"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101292848"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101516489"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001243936"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12270619"/>
+      <dc:description> 1972</dc:description>
+    </item>
+    <item>
+      <title>呑龍上人開扉掛聯句合 : 川越蓮馨寺</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970023587243040901</link>
+      <description><![CDATA[<p>[秋花],1870,<p><ul><li>タイトル：呑龍上人開扉掛聯句合 : 川越蓮馨寺</li><li>タイトル（読み）：ドンリュウ ショウニン カイヒ ニ カケル レンク アワセ : カワゴエ レンケイジ</li><li>責任表示：秋花[企]</li></ul>]]></description>
+      <author>秋花,秋花[企]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970023587243040901</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>呑龍上人開扉掛聯句合 : 川越蓮馨寺</dc:title>
+      <dcndl:titleTranscription>ドンリュウ ショウニン カイヒ ニ カケル レンク アワセ : カワゴエ レンケイジ</dcndl:titleTranscription>
+      <dc:creator>秋花</dc:creator>
+      <dcndl:creatorTranscription>シュウカ</dcndl:creatorTranscription>
+      <dc:publisher>[秋花]</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1870</dc:date>
+      <dcterms:issued>1870.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BD12759835</dc:identifier>
+      <dc:description>表現種別: テキスト (ncrcontent), 機器種別: 機器不用 (ncrmedia), キャリア種別: 冊子 (ncrcarrier)</dc:description>
+      <dc:description>[企画]: 秋花</dc:description>
+      <dc:description>木版, 和装</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BD12759835"/>
+      <dc:description> 1870</dc:description>
+    </item>
+    <item>
+      <title>蓮馨寺日鑑</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025618569</link>
+      <description><![CDATA[<p>第1巻,文化書院,2012,978-4-938487-60-7<p><ul><li>タイトル：蓮馨寺日鑑</li><li>タイトル（読み）：レンケイジ ニッカン</li><li>責任表示：粂原恒久, 宇高良哲 編</li><li>NDC(9)：188.65</li></ul>]]></description>
+      <author>粂原, 恒久,宇高, 良哲, 1942-,粂原恒久, 宇高良哲 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025618569</guid>
+      <pubDate>Wed, 17 Sep 2014 18:40:25 +0900</pubDate>
+      <dc:title>蓮馨寺日鑑</dc:title>
+      <dcndl:titleTranscription>レンケイジ ニッカン</dcndl:titleTranscription>
+      <dc:creator>粂原, 恒久</dc:creator>
+      <dc:creator>宇高, 良哲, 1942-</dc:creator>
+      <dcndl:creatorTranscription>クメハラ, コウキュウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ウダカ, リョウテツ, 1942-</dcndl:creatorTranscription>
+      <dcndl:volume>第1巻</dcndl:volume>
+      <dc:publisher>文化書院</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.2</dcterms:issued>
+      <dcndl:price>10000円</dcndl:price>
+      <dc:extent>460p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-938487-60-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025618569</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22462142</dc:identifier>
+      <dc:subject>蓮馨寺 (川越市)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HM156</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">188.65</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198251802"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025618569"/>
+      <rdfs:seeAlso rdf:resource="https://lib-finder.net/sanko/"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB16350705"/>
+      <dc:description> 2012</dc:description>
+    </item>
+    <item>
+      <title>蓮馨寺日鑑</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025618543</link>
+      <description><![CDATA[<p>第2巻,文化書院,2014,978-4-938487-61-4<p><ul><li>タイトル：蓮馨寺日鑑</li><li>タイトル（読み）：レンケイジ ニッカン</li><li>責任表示：粂原恒久, 宇高良哲 編</li><li>NDC(9)：188.65</li></ul>]]></description>
+      <author>粂原, 恒久,宇高, 良哲, 1942-,粂原恒久, 宇高良哲 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025618543</guid>
+      <pubDate>Wed, 17 Sep 2014 18:41:01 +0900</pubDate>
+      <dc:title>蓮馨寺日鑑</dc:title>
+      <dcndl:titleTranscription>レンケイジ ニッカン</dcndl:titleTranscription>
+      <dc:creator>粂原, 恒久</dc:creator>
+      <dc:creator>宇高, 良哲, 1942-</dc:creator>
+      <dcndl:creatorTranscription>クメハラ, コウキュウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ウダカ, リョウテツ, 1942-</dcndl:creatorTranscription>
+      <dcndl:volume>第2巻</dcndl:volume>
+      <dc:publisher>文化書院</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.8</dcterms:issued>
+      <dcndl:price>10000円</dcndl:price>
+      <dc:extent>478p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-938487-61-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025618543</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22462143</dc:identifier>
+      <dc:subject>蓮馨寺 (川越市)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HM156</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">188.65</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198251805"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025618543"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>蓮馨寺日鑑</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031709202</link>
+      <description><![CDATA[<p>第3巻,文化書院,2021,978-4-938487-69-0<p><ul><li>タイトル：蓮馨寺日鑑</li><li>タイトル（読み）：レンケイジ ニッカン</li><li>責任表示：粂原恒久, 宇高良哲 編</li><li>NDC(10)：188.65</li></ul>]]></description>
+      <author>粂原, 恒久,宇高, 良哲, 1942-,粂原恒久, 宇高良哲 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031709202</guid>
+      <pubDate>Mon, 11 Oct 2021 23:20:11 +0900</pubDate>
+      <dc:title>蓮馨寺日鑑</dc:title>
+      <dcndl:titleTranscription>レンケイジ ニッカン</dcndl:titleTranscription>
+      <dc:creator>粂原, 恒久</dc:creator>
+      <dc:creator>宇高, 良哲, 1942-</dc:creator>
+      <dcndl:creatorTranscription>クメハラ, コウキュウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ウダカ, リョウテツ, 1942-</dcndl:creatorTranscription>
+      <dcndl:volume>第3巻</dcndl:volume>
+      <dc:publisher>文化書院</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.9</dcterms:issued>
+      <dcndl:price>10000円</dcndl:price>
+      <dc:extent>2, 554 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-938487-69-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031709202</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23590889</dc:identifier>
+      <dc:subject>蓮馨寺 (川越市)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">HM156</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">188.65</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198251806"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031709202"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BC10087863"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>蓮馨寺日鑑. 第4巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000126-I47010</link>
+      <description><![CDATA[<p>文化書院,2023-11,978-4-938487-71-3<p><ul><li>タイトル：蓮馨寺日鑑. 第4巻</li><li>タイトル（読み）：ﾚﾝｹｲｼﾞﾆｯｶﾝ 04</li><li>責任表示：宇高良哲(1942-), 粂原恒久(1949-)編</li></ul>]]></description>
+      <author>宇高良哲(1942-), 粂原恒久(1949-)編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000126-I47010</guid>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0900</pubDate>
+      <dc:title>蓮馨寺日鑑. 第4巻</dc:title>
+      <dcndl:titleTranscription>ﾚﾝｹｲｼﾞﾆｯｶﾝ 04</dcndl:titleTranscription>
+      <dc:publisher>文化書院</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2023-11</dc:date>
+      <dcterms:issued>2023.11</dcterms:issued>
+      <dcndl:price>10,000円(本体)</dcndl:price>
+      <dc:extent>2,479p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-938487-71-3</dc:identifier>
+      <dc:subject>浄土宗 -- 寺院 -- 壇林史</dc:subject>
+      <dc:description>仏教図書共通分類表 : 188.4611</dc:description>
+      <dc:description>元文6年正月から寛政8年12月までの日鑑10冊を収録</dc:description>
+      <rdfs:seeAlso rdf:resource="https://lib-finder.net/sanko/"/>
+      <dc:description> 2023-11</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越女子高 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A%E5%A5%B3%E5%AD%90%E9%AB%98&amp;cnt=20</link>
+    <description>Search results for title=川越女子高 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>5</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>学生時代は「無用の用」の実践を : 「職業の研究」で知事にインタビュー : 埼玉県立川越女子高校</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032342313</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：学生時代は「無用の用」の実践を : 「職業の研究」で知事にインタビュー : 埼玉県立川越女子高校</li><li>タイトル（読み）：ガクセイ ジダイ ワ 「 ムヨウ ノ ヨウ 」 ノ ジッセン オ : 「 ショクギョウ ノ ケンキュウ 」 デ チジ ニ インタビュー : サイタマ ケンリツ カワゴエ ジョシ コウコウ</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032342313</guid>
+      <pubDate>Wed, 31 Aug 2022 19:18:55 +0900</pubDate>
+      <dc:title>学生時代は「無用の用」の実践を : 「職業の研究」で知事にインタビュー : 埼玉県立川越女子高校</dc:title>
+      <dcndl:titleTranscription>ガクセイ ジダイ ワ 「 ムヨウ ノ ヨウ 」 ノ ジッセン オ : 「 ショクギョウ ノ ケンキュウ 」 デ チジ ニ インタビュー : サイタマ ケンリツ カワゴエ ジョシ コウコウ</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032342313</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032342313"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520011793653611136"/>
+      <dc:description>掲載誌：内外教育 7020 p.18</dc:description>
+    </item>
+    <item>
+      <title>高校生物・ワクワク宣言!! 埼玉県立川越女子高校 生物部はいつも興味津々</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I030223941</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：高校生物・ワクワク宣言!! 埼玉県立川越女子高校 生物部はいつも興味津々</li><li>タイトル（読み）：コウコウ セイブツ ・ ワクワク センゲン!! サイタマ ケンリツ カワゴエ ジョシ コウコウ セイブツブ ワ イツモ キョウミ ツツ</li><li>責任表示：矢野 光子</li></ul>]]></description>
+      <author>矢野 光子,矢野 光子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I030223941</guid>
+      <pubDate>Sat, 8 Feb 2020 01:16:56 +0900</pubDate>
+      <dc:title>高校生物・ワクワク宣言!! 埼玉県立川越女子高校 生物部はいつも興味津々</dc:title>
+      <dcndl:titleTranscription>コウコウ セイブツ ・ ワクワク センゲン!! サイタマ ケンリツ カワゴエ ジョシ コウコウ セイブツブ ワ イツモ キョウミ ツツ</dcndl:titleTranscription>
+      <dc:creator>矢野 光子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030223941</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZR1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030223941"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522825130804969472"/>
+      <dc:description>掲載誌：遺伝 : 生物の科学 1 p.122-125</dc:description>
+    </item>
+    <item>
+      <title>埼玉県立川越女子高校に保管されている石斧の石材とその供給地の推定</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I028683441</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：埼玉県立川越女子高校に保管されている石斧の石材とその供給地の推定</li><li>タイトル（読み）：サイタマ ケンリツ カワゴエ ジョシ コウコウ ニ ホカン サレテ イル セキフ ノ セキザイ ト ソノ キョウキュウチ ノ スイテイ</li><li>責任表示：松岡 喜久次</li></ul>]]></description>
+      <author>松岡 喜久次,松岡 喜久次</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I028683441</guid>
+      <pubDate>Fri, 8 Dec 2017 20:53:37 +0900</pubDate>
+      <dc:title>埼玉県立川越女子高校に保管されている石斧の石材とその供給地の推定</dc:title>
+      <dcndl:titleTranscription>サイタマ ケンリツ カワゴエ ジョシ コウコウ ニ ホカン サレテ イル セキフ ノ セキザイ ト ソノ キョウキュウチ ノ スイテイ</dcndl:titleTranscription>
+      <dc:creator>松岡 喜久次</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028683441</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I028683441"/>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.15080/chitoka.79.0_39"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390003825185216512"/>
+      <dc:description>掲載誌：地学教育と科学運動 / 「地学教育と科学運動」編集委員会 編 79 p.39-42</dc:description>
+    </item>
+    <item>
+      <title>埼玉県立川越女子高等学校開校７０周年記念誌</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116548503</link>
+      <description><![CDATA[<p>埼玉県立川越女子高等学校７０周年記念事業委員会,1981,<p><ul><li>タイトル：埼玉県立川越女子高等学校開校７０周年記念誌</li><li>タイトル（読み）：サイタマ　ケンリツ　カワゴエ　ジョシ　コウトウ　ガッコウ　カイコウ　シチジッシュウネン　キネンシ</li><li>責任表示：埼玉県立川越女子高等学校 編</li></ul>]]></description>
+      <author>埼玉県立川越女子高等学校,埼玉県立川越女子高等学校 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116548503</guid>
+      <pubDate>Thu, 16 Oct 2025 13:51:55 +0900</pubDate>
+      <dc:title>埼玉県立川越女子高等学校開校７０周年記念誌</dc:title>
+      <dcndl:titleTranscription>サイタマ　ケンリツ　カワゴエ　ジョシ　コウトウ　ガッコウ　カイコウ　シチジッシュウネン　キネンシ</dcndl:titleTranscription>
+      <dc:creator>埼玉県立川越女子高等学校</dc:creator>
+      <dcndl:creatorTranscription>サイタマ, ケンリツ, カワゴエ, ジョシ, コウトウ, ガッコウ</dcndl:creatorTranscription>
+      <dc:publisher>埼玉県立川越女子高等学校７０周年記念事業委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1981</dc:date>
+      <dcterms:issued>１９８１</dcterms:issued>
+      <dc:extent>２０２ｐ ; ３１ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">622487200</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>背の書名：開校七十周年記念誌</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1116548503"/>
+      <dc:description> 1981</dc:description>
+    </item>
+    <item>
+      <title>ハーモニーの祭典'06 第59回全日本合唱コンクール全国大会</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023677018</link>
+      <description><![CDATA[<p>高等学校部門 v. 2 Aグループ,ブレーン,2006,<p><ul><li>タイトル：ハーモニーの祭典'06 第59回全日本合唱コンクール全国大会</li><li>タイトル（読み）：ハーモニー ノ サイテン '06</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023677018</guid>
+      <pubDate>Wed, 4 Jul 2012 01:53:16 +0900</pubDate>
+      <dc:title>ハーモニーの祭典'06 第59回全日本合唱コンクール全国大会</dc:title>
+      <dcndl:titleTranscription>ハーモニー ノ サイテン '06</dcndl:titleTranscription>
+      <dcndl:volume>高等学校部門 v. 2 Aグループ</dcndl:volume>
+      <dc:publisher>ブレーン</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>[2006]</dcterms:issued>
+      <dcndl:price>3000円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">BOCD-4219</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023677018</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22087718</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023677018"/>
+      <dc:description> 2006</dc:description>
+    </item>
+  </channel>
+</rss>

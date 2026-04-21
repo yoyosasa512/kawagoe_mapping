@@ -1,0 +1,59 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>川越夜戦 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%B7%9D%E8%B6%8A%E5%A4%9C%E6%88%A6&amp;cnt=20</link>
+    <description>Search results for title=川越夜戦 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>川越夜戦史考</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116290816</link>
+      <description><![CDATA[<p>埼玉県郷土文化会所沢支部,1972,<p><ul><li>タイトル：川越夜戦史考</li><li>タイトル（読み）：カワゴエ　ヤセンシ　コウ</li><li>責任表示：栗原仲道 編</li><li>シリーズ名：狭山史稿 ; ２</li><li>シリーズ名（読み）：サヤマ　シコウ ; ２</li></ul>]]></description>
+      <author>栗原, 仲道,栗原仲道 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116290816</guid>
+      <pubDate>Tue, 14 Nov 2000 00:00:00 +0900</pubDate>
+      <dc:title>川越夜戦史考</dc:title>
+      <dcndl:titleTranscription>カワゴエ　ヤセンシ　コウ</dcndl:titleTranscription>
+      <dc:creator>栗原, 仲道</dc:creator>
+      <dcndl:creatorTranscription>クリハラ, チュウドウ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>狭山史稿 ; ２</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>サヤマ　シコウ ; ２</dcndl:seriesTitleTranscription>
+      <dc:publisher>埼玉県郷土文化会所沢支部</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1972</dc:date>
+      <dcterms:issued>１９７２．１０</dcterms:issued>
+      <dc:extent>７ｐ ; ２６ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">621550300</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>謄写版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116290816"/>
+      <dc:description> 1972</dc:description>
+    </item>
+    <item>
+      <title>実録川越夜戦</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I11121116289040</link>
+      <description><![CDATA[<p>飯島謙輔,1983,<p><ul><li>タイトル：実録川越夜戦</li><li>タイトル（読み）：ジツロク　カワゴエ　ヤセン</li><li>責任表示：飯島謙輔 著</li></ul>]]></description>
+      <author>飯島, 謙輔,飯島謙輔 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I11121116289040</guid>
+      <pubDate>Tue, 14 Nov 2000 00:00:00 +0900</pubDate>
+      <dc:title>実録川越夜戦</dc:title>
+      <dcndl:titleTranscription>ジツロク　カワゴエ　ヤセン</dcndl:titleTranscription>
+      <dc:creator>飯島, 謙輔</dc:creator>
+      <dcndl:creatorTranscription>イイジマ, ケンスケ</dcndl:creatorTranscription>
+      <dc:publisher>飯島謙輔</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1983</dc:date>
+      <dcterms:issued>１９８３．１０</dcterms:issued>
+      <dc:extent>２９ｐ ; ２０ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">621538900</dc:identifier>
+      <dc:subject>川越市</dc:subject>
+      <dc:description>著者は川越市在住</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1116289040"/>
+      <dc:description> 1983</dc:description>
+    </item>
+  </channel>
+</rss>

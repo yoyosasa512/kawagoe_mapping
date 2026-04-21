@@ -1,0 +1,468 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>古墳 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%8F%A4%E5%A2%B3&amp;cnt=20</link>
+    <description>Search results for title=古墳 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>51982</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>ああ戦友</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001622656</link>
+      <description><![CDATA[<p>近代文芸社,1983,4-89607-539-0<p><ul><li>タイトル：ああ戦友</li><li>タイトル（読み）：アア センユウ</li><li>責任表示：杉野与四雄 著</li></ul>]]></description>
+      <author>杉野, 与四雄, 1920-,杉野与四雄 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001622656</guid>
+      <pubDate>Wed, 18 Apr 1990 09:00:00 +0900</pubDate>
+      <dc:title>ああ戦友</dc:title>
+      <dcndl:titleTranscription>アア センユウ</dcndl:titleTranscription>
+      <dc:creator>杉野, 与四雄, 1920-</dc:creator>
+      <dcndl:creatorTranscription>スギノ, ヨシオ, 1920-</dcndl:creatorTranscription>
+      <dc:publisher>近代文芸社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1983</dc:date>
+      <dcterms:issued>1983.5</dcterms:issued>
+      <dcndl:price>1500円 (税込)</dcndl:price>
+      <dc:extent>203p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-89607-539-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-89607-539-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001622656</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">83039787</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH566</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190108299"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009210033523"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009710000725/"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100299219"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009210200925"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0136966/"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100187853"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100887018"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100376689"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001622656"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/12557759"/>
+      <dc:description> 1983</dc:description>
+    </item>
+    <item>
+      <title>アーネスト・サトウが大室古墳に来たわけ 国際理解・郷土理解の教材開発</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390572176610701056</link>
+      <description><![CDATA[<p>2002-08,<p><ul><li>タイトル：アーネスト・サトウが大室古墳に来たわけ 国際理解・郷土理解の教材開発</li></ul>]]></description>
+      <author>能登,健,長沼,孝則</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390572176610701056</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>アーネスト・サトウが大室古墳に来たわけ 国際理解・郷土理解の教材開発</dc:title>
+      <dc:creator>能登,健</dc:creator>
+      <dc:creator>長沼,孝則</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2002-08</dc:date>
+      <dcterms:issued>2002-08</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/20150"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390572176610701056"/>
+      <dc:description>掲載誌：研究紀要 2002-08 p.205-232</dc:description>
+    </item>
+    <item>
+      <title>アーネスト・サトウ著「上野地方の古墳群」の学史的位置--英国外交官の考古学探究</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I4493651</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アーネスト・サトウ著「上野地方の古墳群」の学史的位置--英国外交官の考古学探究</li><li>タイトル（読み）：アーネスト サトウ チョ コウズケ チホウ ノ コフングン ノ ガクシテキ イ</li><li>責任表示：加部 二生</li></ul>]]></description>
+      <author>加部 二生,加部 二生</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I4493651</guid>
+      <pubDate>Mon, 3 Jul 2023 19:20:24 +0900</pubDate>
+      <dc:title>アーネスト・サトウ著「上野地方の古墳群」の学史的位置--英国外交官の考古学探究</dc:title>
+      <dcndl:titleTranscription>アーネスト サトウ チョ コウズケ チホウ ノ コフングン ノ ガクシテキ イ</dcndl:titleTranscription>
+      <dc:creator>加部 二生</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">4493651</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I4493651"/>
+      <rdfs:seeAlso rdf:resource="http://id.nii.ac.jp/1350/00000839/"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390572174042857728"/>
+      <dc:description>掲載誌：国立歴史民俗博物館研究報告 = Bulletin of the National Museum of Japanese History(通号 76) p.83～119</dc:description>
+    </item>
+    <item>
+      <title>アーネスト・サトウ著「上野地方の古墳群」の学史的位置 : 英国外交官の考古学探究</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I10111101520826</link>
+      <description><![CDATA[<p>〔今井貞三郎〕,<p><ul><li>タイトル：アーネスト・サトウ著「上野地方の古墳群」の学史的位置 : 英国外交官の考古学探究</li><li>タイトル（読み）：ア－ネスト　サトウ　チョ　コウズケ　チホウ　ノ　コフングン　ノ　ガクシテキ　イチ : エイコク　ガイコウカン　ノ　コウコガク　タンキュウ</li><li>責任表示：加部二生 著</li></ul>]]></description>
+      <author>加部二生,加部二生 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I10111101520826</guid>
+      <pubDate>Mon, 1 Jan 1900 20:00:00 +0900</pubDate>
+      <dc:title>アーネスト・サトウ著「上野地方の古墳群」の学史的位置 : 英国外交官の考古学探究</dc:title>
+      <dcndl:titleTranscription>ア－ネスト　サトウ　チョ　コウズケ　チホウ　ノ　コフングン　ノ　ガクシテキ　イチ : エイコク　ガイコウカン　ノ　コウコガク　タンキュウ</dcndl:titleTranscription>
+      <dc:creator>加部二生</dc:creator>
+      <dcndl:creatorTranscription>カベ, ニタカ</dcndl:creatorTranscription>
+      <dc:publisher>〔今井貞三郎〕</dc:publisher>
+      <dcterms:issued>〔1999〕</dcterms:issued>
+      <dc:extent>８３～１１９ｐ ; ３０ｃｍ</dc:extent>
+      <dc:subject>アーネスト・サトウ</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">K202</dc:subject>
+      <dc:description>『国立歴史民俗博物館研究報告』第７６集（１９９８年３月刊）の抜刷。</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1101520826"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>Early japanese art　：　縄文・弥生・古墳時代の美術</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001000939786</link>
+      <description><![CDATA[<p>祥雲,2002-06,<p><ul><li>タイトル：Early japanese art　：　縄文・弥生・古墳時代の美術</li><li>タイトル（読み）：アーリー ジャパニーズ アート　ジョウモン ヤヨイ コフン ジダイ ノ ビジュツ</li><li>責任表示：林 光位／編集,塩崎 佳津子／編集</li><li>NDC(9)：210.1</li></ul>]]></description>
+      <author>林 光位,塩崎 佳津子,林 光位／編集,塩崎 佳津子／編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001000939786</guid>
+      <pubDate>Mon, 26 Sep 2022 21:25:22 +0900</pubDate>
+      <dc:title>Early japanese art　：　縄文・弥生・古墳時代の美術</dc:title>
+      <dcndl:titleTranscription>アーリー ジャパニーズ アート　ジョウモン ヤヨイ コフン ジダイ ノ ビジュツ</dcndl:titleTranscription>
+      <dc:creator>林 光位</dc:creator>
+      <dc:creator>塩崎 佳津子</dc:creator>
+      <dcndl:creatorTranscription>ハヤシ,ミツノリ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>シオザキ,カズコ</dcndl:creatorTranscription>
+      <dc:publisher>祥雲</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002-06</dc:date>
+      <dcterms:issued>2002.6</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>127p</dc:extent>
+      <dc:subject>日本-歴史</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">210.1</dc:subject>
+      <dc:description>英文併記</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000939786"/>
+      <dc:description> 2002-06</dc:description>
+    </item>
+    <item>
+      <title>相生市大塚ハザ古墳調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087656</link>
+      <description><![CDATA[<p>相生市教育委員会,<p><ul><li>タイトル：相生市大塚ハザ古墳調査報告書</li><li>責任表示：入野窯跡発掘調査団</li></ul>]]></description>
+      <author>入野窯跡発掘調査団,入野窯跡発掘調査団</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087656</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>相生市大塚ハザ古墳調査報告書</dc:title>
+      <dc:creator>入野窯跡発掘調査団</dc:creator>
+      <dc:publisher>相生市教育委員会</dc:publisher>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/68323"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>相生市大塚ハザ古墳調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434858068252</link>
+      <description><![CDATA[<p>相生市教育委員会 : 大塚ハザ古墳調査団,1981,<p><ul><li>タイトル：相生市大塚ハザ古墳調査報告書</li><li>タイトル（読み）：アイオイシ オオツカ ハザ コフン チョウサ ホウコクショ</li><li>責任表示：相生市教育委員会, 大塚ハザ古墳調査団[編]</li></ul>]]></description>
+      <author>相生市教育委員会,大塚ハザ古墳調査団,相生市教育委員会, 大塚ハザ古墳調査団[編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434858068252</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相生市大塚ハザ古墳調査報告書</dc:title>
+      <dcndl:titleTranscription>アイオイシ オオツカ ハザ コフン チョウサ ホウコクショ</dcndl:titleTranscription>
+      <dc:creator>相生市教育委員会</dc:creator>
+      <dc:creator>大塚ハザ古墳調査団</dc:creator>
+      <dcndl:creatorTranscription>アイオイシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オオツカ ハザ コフン チョウサダン</dcndl:creatorTranscription>
+      <dc:publisher>相生市教育委員会 : 大塚ハザ古墳調査団</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1981</dc:date>
+      <dcterms:issued>[1981.8]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB03520697</dc:identifier>
+      <dc:description>折込み図2枚</dc:description>
+      <dc:description>表紙に「昭和56年8月」との記述あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB03520697"/>
+      <dc:description> 1981</dc:description>
+    </item>
+    <item>
+      <title>相生市陸池ノ上古墳発掘調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087654</link>
+      <description><![CDATA[<p>相生市教育委員会,1980-08,<p><ul><li>タイトル：相生市陸池ノ上古墳発掘調査報告書</li><li>責任表示：相生市教育委員会,池ノ上古墳発掘調査団</li></ul>]]></description>
+      <author>相生市教育委員会,池ノ上古墳発掘調査団,相生市教育委員会,池ノ上古墳発掘調査団</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087654</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>相生市陸池ノ上古墳発掘調査報告書</dc:title>
+      <dc:creator>相生市教育委員会</dc:creator>
+      <dc:creator>池ノ上古墳発掘調査団</dc:creator>
+      <dc:publisher>相生市教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1980-08</dc:date>
+      <dcterms:issued>1980-08</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/68321"/>
+      <dc:description> 1980-08</dc:description>
+    </item>
+    <item>
+      <title>相生市陸・狐塚古墳出土金銅製冠片について</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11029079</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：相生市陸・狐塚古墳出土金銅製冠片について</li><li>タイトル（読み）：アイオイシ クガ キツネズカ コフン シュツド コンドウセイ カンヘン ニ ツイテ</li><li>責任表示：宇野 愼敏</li><li>シリーズ名：[古文化談叢]発刊35周年・小田富士雄先生喜寿記念号(3)</li><li>シリーズ名（読み）：コブンカダンソウ ハッカン 35シュウネン オダ フジオ センセイ キジュ キネンゴウ 3</li></ul>]]></description>
+      <author>宇野 愼敏,宇野 愼敏</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11029079</guid>
+      <pubDate>Fri, 15 Apr 2011 22:37:02 +0900</pubDate>
+      <dc:title>相生市陸・狐塚古墳出土金銅製冠片について</dc:title>
+      <dcndl:titleTranscription>アイオイシ クガ キツネズカ コフン シュツド コンドウセイ カンヘン ニ ツイテ</dcndl:titleTranscription>
+      <dc:creator>宇野 愼敏</dc:creator>
+      <dcndl:seriesTitle>[古文化談叢]発刊35周年・小田富士雄先生喜寿記念号(3)</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>コブンカダンソウ ハッカン 35シュウネン オダ フジオ センセイ キジュ キネンゴウ 3</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11029079</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11029079"/>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/71091"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390574334765951104"/>
+      <dc:description>掲載誌：古文化談叢 p.75～82</dc:description>
+    </item>
+    <item>
+      <title>相生市宿禰塚古墳の測量調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033541301</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：相生市宿禰塚古墳の測量調査</li><li>タイトル（読み）：アイオイシ スクネズカ コフン ノ ソクリョウ チョウサ</li><li>責任表示：木村 祐煕</li></ul>]]></description>
+      <author>木村 祐煕,木村 祐煕</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033541301</guid>
+      <pubDate>Thu, 20 Jun 2024 02:23:15 +0900</pubDate>
+      <dc:title>相生市宿禰塚古墳の測量調査</dc:title>
+      <dcndl:titleTranscription>アイオイシ スクネズカ コフン ノ ソクリョウ チョウサ</dcndl:titleTranscription>
+      <dc:creator>木村 祐煕</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033541301</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033541301"/>
+      <rdfs:seeAlso rdf:resource="http://hdl.handle.net/10466/0002003012"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390585803078647552"/>
+      <dc:description>掲載誌：大阪公大日本史 = The historical journal of Japan by Osaka Metropolitan University / 大阪公立大学日本史学会 編 27 p.170-174</dc:description>
+    </item>
+    <item>
+      <title>相生市の古墳調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087666</link>
+      <description><![CDATA[<p>出版者不明,1986-06,<p><ul><li>タイトル：相生市の古墳調査</li><li>責任表示：西谷 真治,天理大学博物館学研究室</li></ul>]]></description>
+      <author>西谷 真治,天理大学博物館学研究室,西谷 真治,天理大学博物館学研究室</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005087666</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>相生市の古墳調査</dc:title>
+      <dc:creator>西谷 真治</dc:creator>
+      <dc:creator>天理大学博物館学研究室</dc:creator>
+      <dc:publisher>出版者不明</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1986-06</dc:date>
+      <dcterms:issued>1986-06</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/68333"/>
+      <dc:description> 1986-06</dc:description>
+    </item>
+    <item>
+      <title>相生市の古墳調査 : 1980～1984年調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434841313193</link>
+      <description><![CDATA[<p>[出版者不明],1986,<p><ul><li>タイトル：相生市の古墳調査 : 1980～1984年調査</li><li>タイトル（読み）：アイオイシ ノ コフン チョウサ : 1980～1984ネン チョウサ</li><li>責任表示：西谷真治監修 ; 天理大学博物館学研究室編</li></ul>]]></description>
+      <author>西谷, 真治,天理大学博物館学研究室,西谷真治監修 ; 天理大学博物館学研究室編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434841313193</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相生市の古墳調査 : 1980～1984年調査</dc:title>
+      <dcndl:titleTranscription>アイオイシ ノ コフン チョウサ : 1980～1984ネン チョウサ</dcndl:titleTranscription>
+      <dc:creator>西谷, 真治</dc:creator>
+      <dc:creator>天理大学博物館学研究室</dc:creator>
+      <dcndl:creatorTranscription>ニシタニ, シンジ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>テンリ ダイガク ハクブツカンガク ケンキュウシツ</dcndl:creatorTranscription>
+      <dc:publisher>[出版者不明]</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1986</dc:date>
+      <dcterms:issued>1986</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB15327366</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB15327366"/>
+      <dc:description> 1986</dc:description>
+    </item>
+    <item>
+      <title>相生市陸池ノ上古墳発掘調査報告書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334739021105</link>
+      <description><![CDATA[<p>相生市教育委員会 : 池ノ上古墳発掘調査団,1980,<p><ul><li>タイトル：相生市陸池ノ上古墳発掘調査報告書</li><li>タイトル（読み）：アイオイシ リク イケノウエ コフン ハックツ チョウサ ホウコクショ</li></ul>]]></description>
+      <author>相生市教育委員会,池ノ上古墳発掘調査団</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334739021105</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相生市陸池ノ上古墳発掘調査報告書</dc:title>
+      <dcndl:titleTranscription>アイオイシ リク イケノウエ コフン ハックツ チョウサ ホウコクショ</dcndl:titleTranscription>
+      <dc:creator>相生市教育委員会</dc:creator>
+      <dc:creator>池ノ上古墳発掘調査団</dc:creator>
+      <dcndl:creatorTranscription>アイオイシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イケノウエ コフン ハックツ チョウサダン</dcndl:creatorTranscription>
+      <dc:publisher>相生市教育委員会 : 池ノ上古墳発掘調査団</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980.8</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB15483543</dc:identifier>
+      <dc:description>折り込図5枚</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB15483543"/>
+      <dc:description> 1980</dc:description>
+    </item>
+    <item>
+      <title>相生塚 (あいおいづか) 古墳発掘調査 ; 橋良 (はしら) 遺跡第10次発掘調査 ; 羽根井 (はねい) 遺跡第2次発掘調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484840852518</link>
+      <description><![CDATA[<p>豊橋市教育委員会教育部美術博物館,2015,<p><ul><li>タイトル：相生塚 (あいおいづか) 古墳発掘調査 ; 橋良 (はしら) 遺跡第10次発掘調査 ; 羽根井 (はねい) 遺跡第2次発掘調査</li><li>タイトル（読み）：アイオイズカ コフン ハックツ チョウサ ; ハシラ イセキ ダイ10ジ ハックツ チョウサ ; ハネイ イセキ ダイ2ジ ハックツ チョウサ</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>豊橋市教育委員会,豊橋市美術博物館</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484840852518</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>相生塚 (あいおいづか) 古墳発掘調査 ; 橋良 (はしら) 遺跡第10次発掘調査 ; 羽根井 (はねい) 遺跡第2次発掘調査</dc:title>
+      <dcndl:titleTranscription>アイオイズカ コフン ハックツ チョウサ ; ハシラ イセキ ダイ10ジ ハックツ チョウサ ; ハネイ イセキ ダイ2ジ ハックツ チョウサ</dcndl:titleTranscription>
+      <dc:creator>豊橋市教育委員会</dc:creator>
+      <dc:creator>豊橋市美術博物館</dc:creator>
+      <dcndl:creatorTranscription>トヨハシシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>トヨハシシ ビジュツ ハクブツカン</dcndl:creatorTranscription>
+      <dc:publisher>豊橋市教育委員会教育部美術博物館</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB19344447</dc:identifier>
+      <dc:subject>豊橋市 -- 遺跡・遺物</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB121</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <dc:description>参考文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB19344447"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>「愛華ちゃんの地球」オリジナル・サウンドトラック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008941384</link>
+      <description><![CDATA[<p>コロムビアミュージックエンタテインメント,1993,<p><ul><li>タイトル：「愛華ちゃんの地球」オリジナル・サウンドトラック</li><li>タイトル（読み）：アイカチャンノ チキュウ オリジナル サウンドトラック</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008941384</guid>
+      <pubDate>Fri, 17 Aug 2007 08:59:59 +0900</pubDate>
+      <dc:title>「愛華ちゃんの地球」オリジナル・サウンドトラック</dc:title>
+      <dcndl:titleTranscription>アイカチャンノ チキュウ オリジナル サウンドトラック</dcndl:titleTranscription>
+      <dc:publisher>コロムビアミュージックエンタテインメント</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.10</dcterms:issued>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">COCC-11235</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008941384</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>収録時間: 35分02秒</dc:description>
+      <dc:description>ジャンル: アニメーション, OVA等</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008941384"/>
+      <dc:description> 1993</dc:description>
+    </item>
+    <item>
+      <title>相ヶ迫古墳 : 山口県熊毛郡田布施町</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959828574856</link>
+      <description><![CDATA[<p>山口県熊毛郡田布施町教育委員会,1976,<p><ul><li>タイトル：相ヶ迫古墳 : 山口県熊毛郡田布施町</li><li>タイトル（読み）：アイガサコ コフン : ヤマグチケン クマゲグン タブセチョウ</li><li>責任表示：山口県熊毛郡田布施町教育委員会</li></ul>]]></description>
+      <author>山口県熊毛郡田布施町教育委員会,山口県熊毛郡田布施町教育委員会</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959828574856</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>相ヶ迫古墳 : 山口県熊毛郡田布施町</dc:title>
+      <dcndl:titleTranscription>アイガサコ コフン : ヤマグチケン クマゲグン タブセチョウ</dcndl:titleTranscription>
+      <dc:creator>山口県熊毛郡田布施町教育委員会</dc:creator>
+      <dcndl:creatorTranscription>ヤマグチケン クマゲグン タブセチョウ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>山口県熊毛郡田布施町教育委員会</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1976</dc:date>
+      <dcterms:issued>1976.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA72156949</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA72156949"/>
+      <dc:description> 1976</dc:description>
+    </item>
+    <item>
+      <title>安威川ダム建設事業に伴う桑原西古墳群の調査</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484937140777</link>
+      <description><![CDATA[<p>2,大阪府教育委員会,2010,<p><ul><li>タイトル：安威川ダム建設事業に伴う桑原西古墳群の調査</li><li>タイトル（読み）：アイガワ ダム ケンセツ ジギョウ ニ トモナウ クワノハラニシ コフングン ノ チョウサ</li></ul>]]></description>
+      <author>大阪府教育委員会</author>
+      <category>図書</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484937140777</guid>
+      <pubDate>Fri, 6 Mar 2026 10:03:02 +0900</pubDate>
+      <dc:title>安威川ダム建設事業に伴う桑原西古墳群の調査</dc:title>
+      <dcndl:titleTranscription>アイガワ ダム ケンセツ ジギョウ ニ トモナウ クワノハラニシ コフングン ノ チョウサ</dcndl:titleTranscription>
+      <dc:creator>大阪府教育委員会</dc:creator>
+      <dcndl:creatorTranscription>オオサカフ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dc:publisher>大阪府教育委員会</dc:publisher>
+      <dcndl:publicationPlace>ja</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.3.30</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB04638284</dc:identifier>
+      <dc:subject>大阪府 -- 遺跡・遺物</dc:subject>
+      <dc:description>付図8枚</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1056280"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BB04638284"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>相ヶ迫古墳</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I011440005107321</link>
+      <description><![CDATA[<p>田布施町教育委員会,1976-03-31,<p><ul><li>タイトル：相ヶ迫古墳</li><li>責任表示：山本,一朗,前島,高雄,日高,正輝,藤野,次史</li></ul>]]></description>
+      <author>山本,一朗,前島,高雄,日高,正輝,藤野,次史,山本,一朗,前島,高雄,日高,正輝,藤野,次史</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I011440005107321</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0900</pubDate>
+      <dc:title>相ヶ迫古墳</dc:title>
+      <dc:creator>山本,一朗</dc:creator>
+      <dc:creator>前島,高雄</dc:creator>
+      <dc:creator>日高,正輝</dc:creator>
+      <dc:creator>藤野,次史</dc:creator>
+      <dc:publisher>田布施町教育委員会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1976-03-31</dc:date>
+      <dcterms:issued>1976-03-31</dcterms:issued>
+      <dc:description>出版タイプ： NA</dc:description>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/91588"/>
+      <dc:description>掲載誌：田布施町文化財調査報告 1976-03-31</dc:description>
+    </item>
+    <item>
+      <title>愛谷古墳</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390574290254470016</link>
+      <description><![CDATA[<p>1981-03-01,<p><ul><li>タイトル：愛谷古墳</li></ul>]]></description>
+      <author>馬目,順一</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390574290254470016</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>愛谷古墳</dc:title>
+      <dc:creator>馬目,順一</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1981-03-01</dc:date>
+      <dcterms:issued>1981-03-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/article/108880"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390574290254470016"/>
+      <dc:description>掲載誌：福島県考古学年報 1981-03-01 p.27-27</dc:description>
+    </item>
+    <item>
+      <title>相作牛塚古墳</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010867224</link>
+      <description><![CDATA[<p>高松市教育委員会,2010,<p><ul><li>タイトル：相作牛塚古墳</li><li>タイトル（読み）：アイサコ ウシズカ コフン</li><li>責任表示：高松市教育委員会 編</li><li>シリーズ名：高松市埋蔵文化財調査報告 ; 第125集</li><li>シリーズ名（読み）：タカマツシ マイゾウ ブンカザイ チョウサ ホウコク ; ダイ125シュウ</li><li>NDC(9)：210.0254</li></ul>]]></description>
+      <author>高松市教育委員会,高松市教育委員会 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010867224</guid>
+      <pubDate>Fri, 25 Jun 2010 22:43:51 +0900</pubDate>
+      <dc:title>相作牛塚古墳</dc:title>
+      <dcndl:titleTranscription>アイサコ ウシズカ コフン</dcndl:titleTranscription>
+      <dc:creator>高松市教育委員会</dc:creator>
+      <dcndl:creatorTranscription>タカマツシ キョウイク イインカイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>高松市埋蔵文化財調査報告 ; 第125集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>タカマツシ マイゾウ ブンカザイ チョウサ ホウコク ; ダイ125シュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>高松市教育委員会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.3</dcterms:issued>
+      <dc:extent>96p 図版2枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010867224</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21766044</dc:identifier>
+      <dc:subject>高松市--遺跡・遺物</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GB121</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">210.0254</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://sitereports.nabunken.go.jp/10735"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010867224"/>
+      <dc:description> 2010</dc:description>
+    </item>
+  </channel>
+</rss>

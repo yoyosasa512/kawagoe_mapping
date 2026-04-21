@@ -1,0 +1,541 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>時の鐘 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E6%99%82%E3%81%AE%E9%90%98&amp;cnt=20</link>
+    <description>Search results for title=時の鐘 cnt=20</description>
+    <language>ja</language>
+    <openSearch:totalResults>146</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <item>
+      <title>藍より青し 縁</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004288628</link>
+      <description><![CDATA[<p>音盤松,ジュネオンエンタテインメント,2003,<p><ul><li>タイトル：藍より青し 縁</li><li>タイトル（読み）：アイ ヨリ アオシ エニシ</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000004288628</guid>
+      <pubDate>Mon, 19 Jan 2004 21:02:44 +0900</pubDate>
+      <dc:title>藍より青し 縁</dc:title>
+      <dcndl:titleTranscription>アイ ヨリ アオシ エニシ</dcndl:titleTranscription>
+      <dcndl:volume>音盤松</dcndl:volume>
+      <dc:publisher>ジュネオンエンタテインメント</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.11</dcterms:issued>
+      <dcndl:price>3059円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">GNCA-1007</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000004288628</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000004288628"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>青い城の硝子の靴 : アオイシロドラマCD</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033015798</link>
+      <description><![CDATA[<p>サクセス,2023,<p><ul><li>タイトル：青い城の硝子の靴 : アオイシロドラマCD</li><li>タイトル（読み）：アオイ シロ ノ ガラス ノ クツ : アオイシロ ドラマ CD</li><li>シリーズ名：アカイイト&アオイシロ : HD remaster</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033015798</guid>
+      <pubDate>Wed, 13 Sep 2023 00:07:37 +0900</pubDate>
+      <dc:title>青い城の硝子の靴 : アオイシロドラマCD</dc:title>
+      <dcndl:titleTranscription>アオイ シロ ノ ガラス ノ クツ : アオイシロ ドラマ CD</dcndl:titleTranscription>
+      <dcndl:edition>復刻版</dcndl:edition>
+      <dcndl:seriesTitle>アカイイト&amp;アオイシロ : HD remaster</dcndl:seriesTitle>
+      <dc:publisher>サクセス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>[2023.5]</dcterms:issued>
+      <dcndl:price>非売品</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">SUC-CD006</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033015798</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23881694</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>発売番号: SUC-CD001, SUC-CD002, SUC-CD003, SUC-CD004, SUC-CD005, SUC-CD007, SUC-CD008, SUC-CD009 (CD) との組み合わせ</dc:description>
+      <dc:description>出版者番号: LA-H-BBPRA-JPN (Nintendo Switch) との組み合わせ</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033015798"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>明け方のメタファー</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023232427</link>
+      <description><![CDATA[<p>Ki/oon Records,2011,<p><ul><li>タイトル：明け方のメタファー</li><li>タイトル（読み）：アケガタ ノ メタファー</li><li>責任表示：プラハ</li></ul>]]></description>
+      <author>プラハ</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023232427</guid>
+      <pubDate>Sat, 24 Mar 2012 00:18:36 +0900</pubDate>
+      <dc:title>明け方のメタファー</dc:title>
+      <dcndl:titleTranscription>アケガタ ノ メタファー</dcndl:titleTranscription>
+      <dc:publisher>Ki/oon Records</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.10</dcterms:issued>
+      <dcndl:price>3360円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚 (45分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">KSCL-1866</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023232427</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22039611</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023232427"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>朝日百科「日本の歴史」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010891710</link>
+      <description><![CDATA[<p>14 近世の国土開発～日本列島大改造の光と影～,ユニバーサルミュージック,1999,<p><ul><li>タイトル：朝日百科「日本の歴史」</li><li>タイトル（読み）：アサヒ ヒャッカ ニホン ノ レキシ</li></ul>]]></description>
+      <author/>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010891710</guid>
+      <pubDate>Mon, 28 Jun 2010 20:58:13 +0900</pubDate>
+      <dc:title>朝日百科「日本の歴史」</dc:title>
+      <dcndl:titleTranscription>アサヒ ヒャッカ ニホン ノ レキシ</dcndl:titleTranscription>
+      <dcndl:volume>14 近世の国土開発～日本列島大改造の光と影～</dcndl:volume>
+      <dc:publisher>ユニバーサルミュージック</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>[1999]</dcterms:issued>
+      <dc:extent>ビデオカセット 1巻 (40分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">UVSN-244</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010891710</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21766662</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL211</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010891710"/>
+      <dc:description> 1999</dc:description>
+    </item>
+    <item>
+      <title>麻生よう子オリジナル・アルバム;午前零時の鐘/逃避行</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008649242</link>
+      <description><![CDATA[<p>CBS・ソニ-,<p><ul><li>タイトル：麻生よう子オリジナル・アルバム;午前零時の鐘/逃避行</li><li>タイトル（読み）：アソウ ヨウコ オリジナル アルバム ゴゼン レイジ ノ カネ トウヒコウ</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008649242</guid>
+      <pubDate>Fri, 7 Sep 2007 08:59:59 +0900</pubDate>
+      <dc:title>麻生よう子オリジナル・アルバム;午前零時の鐘/逃避行</dc:title>
+      <dcndl:titleTranscription>アソウ ヨウコ オリジナル アルバム ゴゼン レイジ ノ カネ トウヒコウ</dcndl:titleTranscription>
+      <dc:publisher>CBS・ソニ-</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dcterms:issued>[19--]</dcterms:issued>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">ECLL-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008649242</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMA</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008649242"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>麻生よう子/午前零時の鐘 逃避行</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008649229</link>
+      <description><![CDATA[<p>CBS・ソニ-,<p><ul><li>タイトル：麻生よう子/午前零時の鐘 逃避行</li><li>タイトル（読み）：アソウ ヨウコ ゴゼン レイジ ノ カネ トウヒコウ</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008649229</guid>
+      <pubDate>Fri, 7 Sep 2007 08:59:59 +0900</pubDate>
+      <dc:title>麻生よう子/午前零時の鐘 逃避行</dc:title>
+      <dcndl:titleTranscription>アソウ ヨウコ ゴゼン レイジ ノ カネ トウヒコウ</dcndl:titleTranscription>
+      <dc:publisher>CBS・ソニ-</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dcterms:issued>[19--]</dcterms:issued>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">ELCD-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008649229</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMB</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008649229"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>麻生よう子/午前零時の鐘～逃避行</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008944592</link>
+      <description><![CDATA[<p>ソニーレコード,1994,<p><ul><li>タイトル：麻生よう子/午前零時の鐘～逃避行</li><li>タイトル（読み）：アソウヨウコ ゴゼン レイジノ カネ トウヒコウ</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008944592</guid>
+      <pubDate>Fri, 17 Aug 2007 08:59:59 +0900</pubDate>
+      <dc:title>麻生よう子/午前零時の鐘～逃避行</dc:title>
+      <dcndl:titleTranscription>アソウヨウコ ゴゼン レイジノ カネ トウヒコウ</dcndl:titleTranscription>
+      <dc:publisher>ソニーレコード</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+      <dcterms:issued>1994.5</dcterms:issued>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">SRCL-2878</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008944592</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>収録時間: 44分42秒</dc:description>
+      <dc:description>ジャンル: 邦楽ポップス</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008944592"/>
+      <dc:description> 1994</dc:description>
+    </item>
+    <item>
+      <title>上野時の鐘</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000039-I1305443</link>
+      <description><![CDATA[<p>佐野喜,<p><ul><li>タイトル：上野時の鐘</li><li>責任表示：広重</li><li>シリーズ名：江戸名所五性</li></ul>]]></description>
+      <author>広重</author>
+      <category>和古書・漢籍</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000039-I1305443</guid>
+      <pubDate>Thu, 11 Dec 2025 04:07:16 +0900</pubDate>
+      <dc:title>上野時の鐘</dc:title>
+      <dcndl:seriesTitle>江戸名所五性</dcndl:seriesTitle>
+      <dc:publisher>佐野喜</dc:publisher>
+      <dc:identifier xsi:type="dcndl:NDLJP">info:ndljp/pid/1305443</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/1305443"/>
+      <dc:description>掲載誌：江戸名所五性</dc:description>
+    </item>
+    <item>
+      <title>エクスルターテ・ユビラーテ-モーツァルト:アリア集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028939593</link>
+      <description><![CDATA[<p>Sony Music Labels,2018,<p><ul><li>タイトル：エクスルターテ・ユビラーテ-モーツァルト:アリア集</li><li>タイトル（読み）：エクスルターテ ユビラーテ モーツァルト アリアシュウ</li><li>責任表示：モーツァルト [作曲],ウンベルト・ベネデッティ・ミケランジェリ 指揮,レグラ・ミューレマン, バーゼル室内管弦楽団 [演奏]</li><li>シリーズ名：21世紀モーツァルト歌唱の諸相 ; 4</li></ul>]]></description>
+      <author>Mozart, Wolfgang Amadeus, 1756-1791,モーツァルト [作曲],ウンベルト・ベネデッティ・ミケランジェリ 指揮,レグラ・ミューレマン, バーゼル室内管弦楽団 [演奏]</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028939593</guid>
+      <pubDate>Fri, 24 Aug 2018 02:08:49 +0900</pubDate>
+      <dc:title>エクスルターテ・ユビラーテ-モーツァルト:アリア集</dc:title>
+      <dcndl:titleTranscription>エクスルターテ ユビラーテ モーツァルト アリアシュウ</dcndl:titleTranscription>
+      <dc:creator>Mozart, Wolfgang Amadeus, 1756-1791</dc:creator>
+      <dcndl:seriesTitle>21世紀モーツァルト歌唱の諸相 ; 4</dcndl:seriesTitle>
+      <dc:publisher>Sony Music Labels</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.6</dcterms:issued>
+      <dcndl:price>2600円</dcndl:price>
+      <dc:extent>録音ディスク 1枚 (55分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">SICC-30478</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028939593</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23094533</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=3001303005452"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028939593"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>エターナル・リカレンス～永劫回帰～</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010482183</link>
+      <description><![CDATA[<p>トイズファクトリー,2009,<p><ul><li>タイトル：エターナル・リカレンス～永劫回帰～</li><li>タイトル（読み）：エターナル リカレンス エイゴウ カイキ</li><li>責任表示：ブラフマン</li></ul>]]></description>
+      <author>ブラフマン</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010482183</guid>
+      <pubDate>Wed, 26 Aug 2009 23:24:56 +0900</pubDate>
+      <dc:title>エターナル・リカレンス～永劫回帰～</dc:title>
+      <dcndl:titleTranscription>エターナル リカレンス エイゴウ カイキ</dcndl:titleTranscription>
+      <dc:publisher>トイズファクトリー</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.6</dcterms:issued>
+      <dcndl:price>2625円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚 (48分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">TFCC-86299</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010482183</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21634033</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010482183"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>エッセンシャル・ベスト麻生よう子</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009269085</link>
+      <description><![CDATA[<p>Sony Music Direct (Japan),2007,<p><ul><li>タイトル：エッセンシャル・ベスト麻生よう子</li><li>タイトル（読み）：エッセンシャル ベスト アソウ ヨウコ</li><li>責任表示：麻生よう子</li></ul>]]></description>
+      <author>麻生よう子</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009269085</guid>
+      <pubDate>Thu, 27 Mar 2008 22:49:44 +0900</pubDate>
+      <dc:title>エッセンシャル・ベスト麻生よう子</dc:title>
+      <dcndl:titleTranscription>エッセンシャル ベスト アソウ ヨウコ</dcndl:titleTranscription>
+      <dc:publisher>Sony Music Direct (Japan)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.12</dcterms:issued>
+      <dcndl:price>1470円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">MHCL-1255</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009269085</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21384432</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009269085"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>江戸最初の時の鐘物語</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002757266</link>
+      <description><![CDATA[<p>流通経済大学出版会,1999,4-947553-12-X<p><ul><li>タイトル：江戸最初の時の鐘物語</li><li>タイトル（読み）：エド サイショ ノ トキ ノ カネ モノガタリ</li><li>責任表示：坂内誠一 著</li><li>NDC(9)：449.1</li></ul>]]></description>
+      <author>坂内, 誠一, 1922-,坂内誠一 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000002757266</guid>
+      <pubDate>Wed, 24 Jul 2013 07:04:55 +0900</pubDate>
+      <dc:title>江戸最初の時の鐘物語</dc:title>
+      <dcndl:titleTranscription>エド サイショ ノ トキ ノ カネ モノガタリ</dcndl:titleTranscription>
+      <dc:creator>坂内, 誠一, 1922-</dc:creator>
+      <dcndl:creatorTranscription>サカウチ, セイイチ, 1922-</dcndl:creatorTranscription>
+      <dc:publisher>流通経済大学出版会</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>1999.2</dcterms:issued>
+      <dcndl:price>2500円</dcndl:price>
+      <dc:extent>187p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-947553-12-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-947553-12-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000002757266</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">99065692</dc:identifier>
+      <dc:subject>時鐘--日本--歴史--江戸時代</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">M197</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">449.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.hokkaido.jp/wo/opc/srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001125660"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101139370"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/wo/opc_srh/srh_detail/9810114141/"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100846540"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101109137"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1102644686"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1399845&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001332463"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102625905"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100523586"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1199006185"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=1391545&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009910007810/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103671753/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100464011"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101407189"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1110784888"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810066445"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101572633"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/1262024/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000722269"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100394849"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810084309"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100480690"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100272883"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108072756"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1104913142"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100377225"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810108471"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1109007899"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100475996"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1137006164"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000002757266"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/14163222"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA39955355"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784947553126"/>
+      <dc:description> 1999</dc:description>
+    </item>
+    <item>
+      <title>江戸時代 八王子の時の鐘</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032634069</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸時代 八王子の時の鐘</li><li>タイトル（読み）：エド ジダイ ハチオウジ ノ トキ ノ カネ</li><li>責任表示：古文書を探る会,光石 知恵子</li></ul>]]></description>
+      <author>古文書を探る会,光石 知恵子,古文書を探る会,光石 知恵子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032634069</guid>
+      <pubDate>Wed, 8 Feb 2023 22:16:53 +0900</pubDate>
+      <dc:title>江戸時代 八王子の時の鐘</dc:title>
+      <dcndl:titleTranscription>エド ジダイ ハチオウジ ノ トキ ノ カネ</dcndl:titleTranscription>
+      <dc:creator>古文書を探る会</dc:creator>
+      <dc:creator>光石 知恵子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032634069</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032634069"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520013574429958784"/>
+      <dc:description>掲載誌：八王子の歴史と文化 : 郷土資料館研究紀要・年報 / 八王子市郷土資料館 編 27 p.27-33</dc:description>
+    </item>
+    <item>
+      <title>江戸の時刻と時の鐘</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003633175</link>
+      <description><![CDATA[<p>岩田書院,2002,4-87294-243-4<p><ul><li>タイトル：江戸の時刻と時の鐘</li><li>タイトル（読み）：エド ノ ジコク ト トキ ノ カネ</li><li>責任表示：浦井祥子 著</li><li>シリーズ名：近世史研究叢書 ; 6</li><li>シリーズ名（読み）：キンセイシ ケンキュウ ソウショ</li><li>NDC(9)：449.1</li></ul>]]></description>
+      <author>浦井, 祥子,浦井祥子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000003633175</guid>
+      <pubDate>Wed, 24 Jul 2013 19:35:22 +0900</pubDate>
+      <dc:title>江戸の時刻と時の鐘</dc:title>
+      <dcndl:titleTranscription>エド ノ ジコク ト トキ ノ カネ</dcndl:titleTranscription>
+      <dc:creator>浦井, 祥子</dc:creator>
+      <dcndl:creatorTranscription>ウライ, サチコ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>近世史研究叢書 ; 6</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>キンセイシ ケンキュウ ソウショ</dcndl:seriesTitleTranscription>
+      <dc:publisher>岩田書院</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002.2</dcterms:issued>
+      <dcndl:price>5200円</dcndl:price>
+      <dc:extent>239p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-87294-243-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-87294-243-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000003633175</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20275086</dc:identifier>
+      <dc:subject>時鐘--日本--歴史--江戸時代</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">M197</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">449.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810346423"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100397109"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.fcs.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1101201632"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000847022"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100258233"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100399227"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1103322067"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001272877"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1105578859"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101680225"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102029329"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=140978&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1105051150"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810330064"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009910315861/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100045560"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009910323501"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1160286465"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101961647"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/1556549/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B11064271"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000010280439"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102083253"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/359920"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100421446"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100950881"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810357454"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100127530"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/9810268397/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108376473"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100019140"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1105431564"/>
+      <rdfs:seeAlso rdf:resource="https://opac.toshokan.city.fukuoka.lg.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810464203"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1108044654"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000003633175"/>
+      <rdfs:seeAlso rdf:resource="https://ci.nii.ac.jp/ncid/BA5664212X"/>
+      <dc:description> 2002</dc:description>
+    </item>
+    <item>
+      <title>江戸の時刻と時の鐘に関する一考察</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I5524751</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸の時刻と時の鐘に関する一考察</li><li>タイトル（読み）：エド ノ ジコク ト トキ ノ カネ ニ カンスル イチ コウサツ</li><li>責任表示：浦井 祥子</li></ul>]]></description>
+      <author>浦井 祥子,浦井 祥子</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I5524751</guid>
+      <pubDate>Mon, 6 Nov 2000 22:41:16 +0900</pubDate>
+      <dc:title>江戸の時刻と時の鐘に関する一考察</dc:title>
+      <dcndl:titleTranscription>エド ノ ジコク ト トキ ノ カネ ニ カンスル イチ コウサツ</dcndl:titleTranscription>
+      <dc:creator>浦井 祥子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">5524751</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I5524751"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520290884772959104"/>
+      <dc:description>掲載誌：日本歴史 / 日本歴史学会 編 629 p.36～51</dc:description>
+    </item>
+    <item>
+      <title>江戸の時の鐘に関する研究 : 江戸の時刻と時の鐘</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000353443</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸の時の鐘に関する研究 : 江戸の時刻と時の鐘</li><li>タイトル（読み）：エド ノ トキ ノ カネ ニ カンスル ケンキュウ : エド ノ ジコク ト トキ ノ カネ</li><li>責任表示：浦井祥子 [著]</li></ul>]]></description>
+      <author>浦井, 祥子,浦井祥子 [著]</author>
+      <category>博士論文</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000000353443</guid>
+      <pubDate>Thu, 2 Aug 2012 01:25:37 +0900</pubDate>
+      <dc:title>江戸の時の鐘に関する研究 : 江戸の時刻と時の鐘</dc:title>
+      <dcndl:titleTranscription>エド ノ トキ ノ カネ ニ カンスル ケンキュウ : エド ノ ジコク ト トキ ノ カネ</dcndl:titleTranscription>
+      <dc:creator>浦井, 祥子</dc:creator>
+      <dcndl:creatorTranscription>ウライ, サチコ</dcndl:creatorTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000000353443</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">UT51</dc:subject>
+      <dc:description>博士論文</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000000353443"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/3168252"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>江戸の時の鐘に見る幕府の権威をめぐって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I5514739</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：江戸の時の鐘に見る幕府の権威をめぐって</li><li>タイトル（読み）：エド ノ トキ ノ カネ ニ ミル バクフ ノ ケンイ オ メグッテ</li><li>責任表示：浦井 祥子</li></ul>]]></description>
+      <author>浦井 祥子,浦井 祥子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I5514739</guid>
+      <pubDate>Mon, 23 Oct 2000 22:42:00 +0900</pubDate>
+      <dc:title>江戸の時の鐘に見る幕府の権威をめぐって</dc:title>
+      <dcndl:titleTranscription>エド ノ トキ ノ カネ ニ ミル バクフ ノ ケンイ オ メグッテ</dcndl:titleTranscription>
+      <dc:creator>浦井 祥子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">5514739</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I5514739"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520572359939414784"/>
+      <dc:description>掲載誌：史艸 = Journal of historical studies / 日本女子大学史学研究会 編 40 p.50～70</dc:description>
+    </item>
+    <item>
+      <title>江戸府内「時の鐘」考</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1572543026695646208</link>
+      <description><![CDATA[<p>1995-03-20,<p><ul><li>タイトル：江戸府内「時の鐘」考</li></ul>]]></description>
+      <author>浦井 祥子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1572543026695646208</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>江戸府内「時の鐘」考</dc:title>
+      <dc:creator>浦井 祥子</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1995-03-20</dc:date>
+      <dcterms:issued>1995-03-20</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1572543026695646208"/>
+      <dc:description>掲載誌：史櫻 1995-03-20 p.21-31</dc:description>
+    </item>
+    <item>
+      <title>江戸府内の「時の鐘」 : その成立及び管理・運営</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1571698602201455616</link>
+      <description><![CDATA[<p>1995-11-15,<p><ul><li>タイトル：江戸府内の「時の鐘」 : その成立及び管理・運営</li></ul>]]></description>
+      <author>浦井 祥子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1571698602201455616</guid>
+      <pubDate>Fri, 9 Jan 2026 11:13:45 +0900</pubDate>
+      <dc:title>江戸府内の「時の鐘」 : その成立及び管理・運営</dc:title>
+      <dc:creator>浦井 祥子</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">1995-11-15</dc:date>
+      <dcterms:issued>1995-11-15</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1571698602201455616"/>
+      <dc:description>掲載誌：史艸 1995-11-15 p.24-50</dc:description>
+    </item>
+    <item>
+      <title>江戸名所五性</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023953125</link>
+      <description><![CDATA[<p>佐野喜,<p><ul><li>タイトル：江戸名所五性</li><li>タイトル（読み）：エド メイショ ゴセイ</li><li>責任表示：広重 画</li></ul>]]></description>
+      <author>歌川, 広重 1世, 1797-1858,広重 画</author>
+      <category>和古書・漢籍</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023953125</guid>
+      <pubDate>Wed, 1 Sep 2021 19:13:27 +0900</pubDate>
+      <dc:title>江戸名所五性</dc:title>
+      <dcndl:titleTranscription>エド メイショ ゴセイ</dcndl:titleTranscription>
+      <dc:creator>歌川, 広重 1世, 1797-1858</dc:creator>
+      <dcndl:creatorTranscription>ウタガワ, ヒロシゲ 1セイ, 1797-1858</dcndl:creatorTranscription>
+      <dc:publisher>佐野喜</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dcterms:issued>[弘化―嘉永頃]</dcterms:issued>
+      <dc:extent>5枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023953125</dc:identifier>
+      <dc:subject>絵画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">W166</dc:subject>
+      <dc:description>『帝国図書館和漢図書書名目録』第4編の請求記号: 別7-28</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023953125"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/1307465"/>
+      <dc:description/>
+    </item>
+  </channel>
+</rss>
