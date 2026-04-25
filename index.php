@@ -289,7 +289,8 @@
                     $isMatched = true;
                 } else {
                     // 2. 検索クエリにタグが含まれ、かつ文献タイトルにもそのタグが含まれているか（カテゴリ検索対応）
-                    $tagArray = preg_split('/[\s,]+/u', $spot['tags'], -1, PREG_SPLIT_NO_EMPTY);
+                    $tagValue = $spot['tags'] ?? '';
+                    $tagArray = preg_split('/[\s,]+/u', $tagValue, -1, PREG_SPLIT_NO_EMPTY);
                     foreach ($tagArray as $tag) {
                         $cleanTag = ltrim($tag, '#'); // #があれば除去
                         if (!empty($cleanTag) && 
